@@ -1,4 +1,5 @@
-'''Simplemaps Dictionary
+#!/usr/bin/python
+"""Simplemaps Dictionary
 
 Generates Python dictionaries containing city data from simplemaps csv
 Output can also be extracted as json by running scrip
@@ -26,10 +27,11 @@ Test dataset - source simplemaps.com
 
 Usage:
 python3 simplemaps.py
-'''
+"""
 import csv
 import states
 import json
+import sys
 
 # Get a dict of US state name / codes
 states = states.states_dictionary()
@@ -37,7 +39,6 @@ states = states.states_dictionary()
 
 def add_city(cities, city, row):
     '''Adds a city to cities dictionary'''
-
     cities[city] = {}
     cities[city]['city_ascii'] = row['city_ascii']
     cities[city]['lat'] = row['lat']
@@ -51,61 +52,49 @@ def add_city(cities, city, row):
     cities[city]['id'] = row['id']
 
 
-def city_dict(map_csv):
+def city_dict(map_csv, encoding='utf8'):
     '''Simple map dictionary indexed on city'''
-
     cities = dict()
-    counter = 0
     with open(map_csv, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             # Map 'country' onto city name
             # For US cities we want the form 'New York,US-NY'
             # so we need to lookup the admin name in the states dict
-            counter += 1
             if row['iso2'] == 'US':
                 admin_name = row['admin_name']
-                city = row['city'] + ',' + states.get(admin_name)
+                if admin_name.strip():
+                    state = states.get(admin_name)
+                    if state:
+                        city = row['city'] + ',' + state
             else:
-                city = row['city'] + ',' + row['iso2']
+                if encoding == 'ascii':
+                    city = row['city_ascii'] + ',' + row['iso2']
+                elif encoding == 'utf8':
+                    city = row['city'] + ',' + row['iso2']
 
             add_city(cities, city, row)
 
-    print('Simplemaps Cities UTF-8: Indexed', counter)
-    return cities
-
-
-def city_ascii_dict(map_csv):
-    '''Simple map dictionary indexed on city'''
-
-    cities = dict()
-    counter = 0
-    with open(map_csv, newline='') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            # Map 'country' onto city name
-            # For US cities we want the form 'New York,US-NY'
-            # so we need to lookup the admin name in the states dict
-            counter += 1
-            if row['iso2'] == 'US':
-                admin_name = row['admin_name']
-                city = row['city'] + ',' + states.get(admin_name)
-            else:
-                city = row['city_ascii'] + ',' + row['iso2']
-
-            add_city(cities, city, row)
-
-    print('Simplemaps Cities ASCII: Indexed', counter)
     return cities
 
 
 if __name__ == '__main__':
-    city = city_dict('test.csv')
+    try:
+        simplemaps_file = sys.argv[1]
+    except Exception as error:
+        print(error)
+        exit()
 
-    with open('simplemaps.json', 'w', encoding='utf8') as f:
-        json.dump(city, f, ensure_ascii=False)
+    # Indexed on "city" name field
+    cities = city_dict(simplemaps_file, 'utf8')
+    print('Simplemaps Cities UTF-8 Indexed: ', len(cities))
 
-    city_ascii = city_ascii_dict('test.csv')
+    with open('json/simplemaps.json', 'w', encoding='utf8') as f:
+        json.dump(cities, f, indent=2, ensure_ascii=False)
 
-    with open('simplemaps_ascii.json', 'w', encoding='utf8') as f:
-        json.dump(city_ascii, f, ensure_ascii=False)
+    # Indexed on "city_ascii" name field
+    cities_ascii = city_dict(simplemaps_file, 'ascii')
+    print('Simplemaps Cities ASCII Indexed: ', len(cities))
+
+    with open('json/simplemaps_ascii.json', 'w', encoding='utf8') as f:
+        json.dump(cities_ascii, f, indent=2, ensure_ascii=False)
