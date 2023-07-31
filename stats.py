@@ -31,7 +31,7 @@ def run(station_dataset, summary_file):
 
     with open(summary_file, 'w', encoding='utf8') as f:
         for s in summary_list:
-            f.write(s[0] + ',' + s[1] + ',' + str(s[2]) + '\n')
+            f.write(s[1] + ',' + s[0] + ',' + str(s[2]) + '\n')
 
 
 if __name__ == '__main__':
