@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 """Stations Json"""
 
 import worldradiomap
@@ -10,75 +12,79 @@ import time
 import remove_href
 
 STATION_LIMIT = 20  # max number of stations per city
-
-STATION_DATASET = 'https://worldradiomap.com/list'
-
-REMOVED_NO_COORDS = 'removed_no_coords.json'
-
-REMOVED_NO_STATIONS = 'removed_no_stations.json'
+# STATION_DATASET = 'https://worldradiomap.com/list'
 
 
-def run(city_dataset, output_dataset):
+def run(city_dataset):
     '''Generates the stations Json file'''
 
-    # Generate city stations dict - lookup for stations
-    cities = worldradiomap.city_stations_dict(STATION_DATASET)
+    # Get the worldradiomap dictionary of URL and index for each city
+    with open("json/worldradiomap.json", "r") as read_file:
+        worldradiomap_cities_dict = json.load(read_file)
 
-    # Generate both utf-8 and ascii key maps - lookup for lat, lng, etc..
-    city_dict = simplemaps.city_dict(city_dataset)
-    city_ascii_dict = simplemaps.city_ascii_dict(city_dataset)
+    # Generate both utf-8 and ascii city dictionaries
+    simplemaps_city_dict = simplemaps.city_dict(city_dataset, 'utf8')
+    simplemaps_city_ascii_dict = simplemaps.city_dict(city_dataset, 'ascii')
 
-    stations = dict()
-    error_list = list()
+    # Match cities
+    worldradiomap_city_index = [city for city in worldradiomap_cities_dict]
+    simplemaps_city_index = [city for city in simplemaps_city_dict]
+    simplemaps_city_ascii_index = [city for city in simplemaps_city_ascii_dict]
 
-    cities_indexed = 0
-    errors = 0
+    matched_cities = []     # Lists of city indexes that match in worldradio and simplemaps ditcs
+    un_matched_cities = []  # All the indexes that don't match
+    for city in worldradiomap_city_index:
+        if city in simplemaps_city_index:
+            matched_cities.append(city)
+        else:
+            un_matched_cities.append(city)
 
-    # Add city to dict
-    for city in cities:
+    for city in un_matched_cities:
+        if city in simplemaps_city_ascii_index:
+            if city in worldradiomap_city_index:
+                if city not in matched_cities:
+                    matched_cities.append(city)
+                    un_matched_cities.remove(city)
+
+    # Build stations dict based on match
+    stations = {}
+    error_list = []
+
+    # Add cities to stations dict
+    for city in matched_cities:
         stations[city] = {}
-        href = cities[city].get('href')
+        href = worldradiomap_cities_dict[city].get('href')
         stations[city]['href'] = href
-        cities_indexed += 1
 
-        if city in city_dict:
-            lat = city_dict[city].get('lat')
-            lng = city_dict[city].get('lng')
+        # Add co-ordinates
+        if city in simplemaps_city_dict:
+            lat = simplemaps_city_dict[city].get('lat')
+            lng = simplemaps_city_dict[city].get('lng')
             coords = {}
             coords['n'] = float(lat)
             coords['e'] = float(lng)
             stations[city]['coords'] = coords
-        elif city in city_ascii_dict:
-            lat = city_ascii_dict[city].get('lat')
-            lng = city_ascii_dict[city].get('lng')
+        elif city in simplemaps_city_ascii_dict:
+            lat = simplemaps_city_ascii_dict[city].get('lat')
+            lng = simplemaps_city_ascii_dict[city].get('lng')
             coords = {}
             coords['n'] = float(lat)
             coords['e'] = float(lng)
             stations[city]['coords'] = coords
         else:
             error_list.append(city)
-            errors += 1
-
-    # For debugging
-    with open('worldradiomap.json', 'w', encoding='utf8') as f:
-        json.dump(stations, f, ensure_ascii=False)
-
-    # Remove cities with no coords
-    remove.remove_city(stations, 'coords', REMOVED_NO_COORDS)
 
     # Update stations dict with station data for each city
     for city in stations.copy().items():
-        urls = dict()
+        urls = {}
         # Retrieve the link to the stations list page
         href = city[1].get('href')
         print(href)
-        # time.sleep(1)
         # Build a dict keyed on station name / link to stream page
         stations_dict = st.stations_dictionary(href)
 
         # Build list of station name / stream pairs
-        limit = STATION_LIMIT
-        stations_list = list()
+        stations_list = []
         for idx, s_name in enumerate(stations_dict):
             name = s_name  # usable station name
             print(name)
@@ -88,32 +94,24 @@ def run(city_dataset, output_dataset):
             if url:
                 # Add station / stream to list
                 stations_list.append({'name': name, 'url': url})
-            if idx == limit:
+            if idx == STATION_LIMIT:
                 break
 
         stations[city[0]].update({'urls': stations_list})
 
-    # Remove cities with no stations urls
-    remove.remove_city(stations, 'urls', REMOVED_NO_STATIONS)
+    with open('json/out.json', 'w', encoding='utf8') as f:
+        json.dump(stations, f, indent=2, ensure_ascii=False)
 
-    # Remove city hrefs
-    remove_href.remove_href(stations)
-
-    print('Main Station Dataset:', STATION_DATASET)
-    print('Main City Dataset:', city_dataset)
-    print('Main Output Dataset:', output_dataset)
-    print('Main Cities:', len(city_dict))
-    print('Main Cities Not Matched:', errors)
-    print('Main Cities Indexed:', len(stations))
-
-    with open(output_dataset, 'w', encoding='utf8') as f:
-        json.dump(stations, f, ensure_ascii=False)
-
-    with open('errors.json', 'w', encoding='utf8') as f:
-        json.dump(error_list, f, ensure_ascii=False)
+    print('Worldradiomaps Cities Indexed:', len(worldradiomap_cities_dict))
+    print('Simplemaps Cities ASCII Indexed: ', len(simplemaps_city_ascii_dict))
+    print('Simplemaps Cities UTF-8 Indexed: ', len(simplemaps_city_dict))
+    print("Matched cities: ", len(matched_cities))
+    print("Un-matched cities: ", len(un_matched_cities))
+    print("Stations dictionary indexed: ", len(stations))
 
 
 if __name__ == '__main__':
     import sys
-    # run(<'city_dataset.csv'>, <'output.json'>)
-    run(sys.argv[1], sys.argv[2])
+
+    run('csv/test.csv')
+    #run('csv/worldcities-modified.csv')
