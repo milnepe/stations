@@ -1,0 +1,3458 @@
+{
+  "Akron,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/akron.htm"
+  },
+  "Albany,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/albany.htm"
+  },
+  "Albany,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/albany.htm"
+  },
+  "Albuquerque,US-NM": {
+    "href": "https://worldradiomap.com/us-nm/albuquerque.htm"
+  },
+  "Allentown,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/allentown.htm"
+  },
+  "Altoona,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/altoona.htm"
+  },
+  "Amarillo,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/amarillo.htm"
+  },
+  "Anchorage,US-AK": {
+    "href": "https://worldradiomap.com/us-ak/anchorage.htm"
+  },
+  "Asheville,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/asheville.htm"
+  },
+  "Aspen,US-CO": {
+    "href": "https://worldradiomap.com/us-co/aspen.htm"
+  },
+  "Athens,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/athens.htm"
+  },
+  "Atlanta,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/atlanta.htm"
+  },
+  "Atlantic City,US-NJ": {
+    "href": "https://worldradiomap.com/us-nj/atlantic-city.htm"
+  },
+  "Augusta,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/augusta.htm"
+  },
+  "Augusta,US-ME": {
+    "href": "https://worldradiomap.com/us-me/augusta.htm"
+  },
+  "Austin,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/austin.htm"
+  },
+  "Bakersfield,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/bakersfield.htm"
+  },
+  "Baltimore,US-MD": {
+    "href": "https://worldradiomap.com/us-md/baltimore.htm"
+  },
+  "Bangor,US-ME": {
+    "href": "https://worldradiomap.com/us-me/bangor.htm"
+  },
+  "Baton Rouge,US-LA": {
+    "href": "https://worldradiomap.com/us-la/baton-rouge.htm"
+  },
+  "Bend,US-OR": {
+    "href": "https://worldradiomap.com/us-or/bend.htm"
+  },
+  "Billings,US-MT": {
+    "href": "https://worldradiomap.com/us-mt/billings.htm"
+  },
+  "Biloxi,US-MS": {
+    "href": "https://worldradiomap.com/us-ms/biloxi.htm"
+  },
+  "Binghamton,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/binghamton.htm"
+  },
+  "Birmingham,US-AL": {
+    "href": "https://worldradiomap.com/us-al/birmingham.htm"
+  },
+  "Bismarck,US-ND": {
+    "href": "https://worldradiomap.com/us-nd/bismarck.htm"
+  },
+  "Boise,US-ID": {
+    "href": "https://worldradiomap.com/us-id/boise.htm"
+  },
+  "Boston,US-MA": {
+    "href": "https://worldradiomap.com/us-ma/boston.htm"
+  },
+  "Bowling Green,US-KY": {
+    "href": "https://worldradiomap.com/us-ky/bowling-green.htm"
+  },
+  "Boulder,US-CO": {
+    "href": "https://worldradiomap.com/us-co/boulder.htm"
+  },
+  "Buffalo,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/buffalo.htm"
+  },
+  "Burlington,US-VT": {
+    "href": "https://worldradiomap.com/us-vt/burlington.htm"
+  },
+  "Calgary,CA": {
+    "href": "https://worldradiomap.com/ca/calgary.htm"
+  },
+  "Canton,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/canton.htm"
+  },
+  "Casper,US-WY": {
+    "href": "https://worldradiomap.com/us-wy/casper.htm"
+  },
+  "Cedar Rapids,US-IA": {
+    "href": "https://worldradiomap.com/us-ia/cedar-rapids.htm"
+  },
+  "Champaign,US-IL": {
+    "href": "https://worldradiomap.com/us-il/champaign.htm"
+  },
+  "Charleston,US-SC": {
+    "href": "https://worldradiomap.com/us-sc/charleston.htm"
+  },
+  "Charleston,US-WV": {
+    "href": "https://worldradiomap.com/us-wv/charleston.htm"
+  },
+  "Charlotte,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/charlotte.htm"
+  },
+  "Chattanooga,US-TN": {
+    "href": "https://worldradiomap.com/us-tn/chattanooga.htm"
+  },
+  "Cheyenne,US-WY": {
+    "href": "https://worldradiomap.com/us-wy/cheyenne.htm"
+  },
+  "Chicago,US-IL": {
+    "href": "https://worldradiomap.com/us-il/chicago.htm"
+  },
+  "Cincinnati,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/cincinnati.htm"
+  },
+  "Cleveland,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/cleveland.htm"
+  },
+  "Colorado Springs,US-CO": {
+    "href": "https://worldradiomap.com/us-co/colorado-springs.htm"
+  },
+  "Columbia,US-MO": {
+    "href": "https://worldradiomap.com/us-mo/columbia.htm"
+  },
+  "Columbia,US-SC": {
+    "href": "https://worldradiomap.com/us-sc/columbia.htm"
+  },
+  "Columbus,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/columbus.htm"
+  },
+  "Columbus,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/columbus.htm"
+  },
+  "Corpus Christi,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/corpus-christi.htm"
+  },
+  "Dallas,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/dallas.htm"
+  },
+  "Danbury,US-CT": {
+    "href": "https://worldradiomap.com/us-ct/danbury.htm"
+  },
+  "Davenport,US-IA": {
+    "href": "https://worldradiomap.com/us-ia/davenport.htm"
+  },
+  "Dayton,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/dayton.htm"
+  },
+  "Denver,US-CO": {
+    "href": "https://worldradiomap.com/us-co/denver.htm"
+  },
+  "Des Moines,US-IA": {
+    "href": "https://worldradiomap.com/us-ia/des-moines.htm"
+  },
+  "Detroit,US-MI": {
+    "href": "https://worldradiomap.com/us-mi/detroit.htm"
+  },
+  "Dover,US-DE": {
+    "href": "https://worldradiomap.com/us-de/dover.htm"
+  },
+  "Duluth,US-MN": {
+    "href": "https://worldradiomap.com/us-mn/duluth.htm"
+  },
+  "Eau Claire,US-WI": {
+    "href": "https://worldradiomap.com/us-wi/eau-claire.htm"
+  },
+  "Edmonton,CA": {
+    "href": "https://worldradiomap.com/ca/edmonton.htm"
+  },
+  "El Paso,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/el-paso.htm"
+  },
+  "Elko,US-NV": {
+    "href": "https://worldradiomap.com/us-nv/elko.htm"
+  },
+  "Erie,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/erie.htm"
+  },
+  "Eugene,US-OR": {
+    "href": "https://worldradiomap.com/us-or/eugene.htm"
+  },
+  "Eureka,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/eureka.htm"
+  },
+  "Evansville,US-IN": {
+    "href": "https://worldradiomap.com/us-in/evansville.htm"
+  },
+  "Fairbanks,US-AK": {
+    "href": "https://worldradiomap.com/us-ak/fairbanks.htm"
+  },
+  "Fargo,US-ND": {
+    "href": "https://worldradiomap.com/us-nd/fargo.htm"
+  },
+  "Farmington,US-NM": {
+    "href": "https://worldradiomap.com/us-nm/farmington.htm"
+  },
+  "Fayetteville,US-AR": {
+    "href": "https://worldradiomap.com/us-ar/fayetteville.htm"
+  },
+  "Fayetteville,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/fayetteville.htm"
+  },
+  "Flagstaff,US-AZ": {
+    "href": "https://worldradiomap.com/us-az/flagstaff.htm"
+  },
+  "Fort Collins,US-CO": {
+    "href": "https://worldradiomap.com/us-co/fort-collins.htm"
+  },
+  "Fort Myers,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/fort-myers.htm"
+  },
+  "Fort Wayne,US-IN": {
+    "href": "https://worldradiomap.com/us-in/fort-wayne.htm"
+  },
+  "Fort Smith,US-AR": {
+    "href": "https://worldradiomap.com/us-ar/fort-smith.htm"
+  },
+  "Fort Worth,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/fort-worth.htm"
+  },
+  "Fredericton,CA": {
+    "href": "https://worldradiomap.com/ca/fredericton.htm"
+  },
+  "Fresno,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/fresno.htm"
+  },
+  "Grand Forks,US-ND": {
+    "href": "https://worldradiomap.com/us-nd/grand-forks.htm"
+  },
+  "Grand Junction,US-CO": {
+    "href": "https://worldradiomap.com/us-co/grand-junction.htm"
+  },
+  "Grand Rapids,US-MI": {
+    "href": "https://worldradiomap.com/us-mi/grand-rapids.htm"
+  },
+  "Great Falls,US-MT": {
+    "href": "https://worldradiomap.com/us-mt/great-falls.htm"
+  },
+  "Green Bay,US-WI": {
+    "href": "https://worldradiomap.com/us-wi/green-bay.htm"
+  },
+  "Greensboro,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/greensboro.htm"
+  },
+  "Greenville,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/greenville.htm"
+  },
+  "Greenville,US-SC": {
+    "href": "https://worldradiomap.com/us-sc/greenville.htm"
+  },
+  "Gulfport,US-MS": {
+    "href": "https://worldradiomap.com/us-ms/gulfport.htm"
+  },
+  "Halifax,CA": {
+    "href": "https://worldradiomap.com/ca/halifax.htm"
+  },
+  "Hamilton,BM": {
+    "href": "https://worldradiomap.com/bm/hamilton.htm"
+  },
+  "Hamilton,CA": {
+    "href": "https://worldradiomap.com/ca/hamilton.htm"
+  },
+  "Harrisburg,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/harrisburg.htm"
+  },
+  "Hartford,US-CT": {
+    "href": "https://worldradiomap.com/us-ct/hartford.htm"
+  },
+  "Helena,US-MT": {
+    "href": "https://worldradiomap.com/us-mt/helena.htm"
+  },
+  "Honolulu,US-HI": {
+    "href": "https://worldradiomap.com/us-hi/honolulu.htm"
+  },
+  "Houston,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/houston.htm"
+  },
+  "Huntington,US-WV": {
+    "href": "https://worldradiomap.com/us-wv/huntington.htm"
+  },
+  "Huntsville,US-AL": {
+    "href": "https://worldradiomap.com/us-al/huntsville.htm"
+  },
+  "Hyannis,US-MA": {
+    "href": "https://worldradiomap.com/us-ma/hyannis.htm"
+  },
+  "Idaho Falls,US-ID": {
+    "href": "https://worldradiomap.com/us-id/idaho-falls.htm"
+  },
+  "Indianapolis,US-IN": {
+    "href": "https://worldradiomap.com/us-in/indianapolis.htm"
+  },
+  "Iqaluit,CA": {
+    "href": "https://worldradiomap.com/ca/iqaluit.htm"
+  },
+  "Jackson,US-MS": {
+    "href": "https://worldradiomap.com/us-ms/jackson.htm"
+  },
+  "Jacksonville,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/jacksonville.htm"
+  },
+  "Juneau,US-AK": {
+    "href": "https://worldradiomap.com/us-ak/juneau.htm"
+  },
+  "Kansas City,US-MO": {
+    "href": "https://worldradiomap.com/us-mo/kansas-city.htm"
+  },
+  "Kelowna,CA": {
+    "href": "https://worldradiomap.com/ca/kelowna.htm"
+  },
+  "Kenai,US-AK": {
+    "href": "https://worldradiomap.com/us-ak/kenai.htm"
+  },
+  "Kennewick,US-WA": {
+    "href": "https://worldradiomap.com/us-wa/kennewick.htm"
+  },
+  "Key West,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/key-west.htm"
+  },
+  "Kingston,CA": {
+    "href": "https://worldradiomap.com/ca/kingston.htm"
+  },
+  "Kitchener,CA": {
+    "href": "https://worldradiomap.com/ca/kitchener.htm"
+  },
+  "Knoxville,US-TN": {
+    "href": "https://worldradiomap.com/us-tn/knoxville.htm"
+  },
+  "Kodiak,US-AK": {
+    "href": "https://worldradiomap.com/us-ak/kodiak.htm"
+  },
+  "Lafayette,US-IN": {
+    "href": "https://worldradiomap.com/us-in/lafayette.htm"
+  },
+  "Lafayette,US-LA": {
+    "href": "https://worldradiomap.com/us-la/lafayette.htm"
+  },
+  "Lansing,US-MI": {
+    "href": "https://worldradiomap.com/us-mi/lansing.htm"
+  },
+  "Laredo,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/laredo.htm"
+  },
+  "Las Vegas,US-NV": {
+    "href": "https://worldradiomap.com/us-nv/las-vegas.htm"
+  },
+  "Lexington,US-KY": {
+    "href": "https://worldradiomap.com/us-ky/lexington.htm"
+  },
+  "Lincoln,US-NE": {
+    "href": "https://worldradiomap.com/us-ne/lincoln.htm"
+  },
+  "Little Rock,US-AR": {
+    "href": "https://worldradiomap.com/us-ar/little-rock.htm"
+  },
+  "Logan,US-UT": {
+    "href": "https://worldradiomap.com/us-ut/logan.htm"
+  },
+  "London,CA": {
+    "href": "https://worldradiomap.com/ca/london.htm"
+  },
+  "Los Angeles,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/los-angeles.htm"
+  },
+  "Louisville,US-KY": {
+    "href": "https://worldradiomap.com/us-ky/louisville.htm"
+  },
+  "Lubbock,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/lubbock.htm"
+  },
+  "Lufkin,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/lufkin.htm"
+  },
+  "Macon,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/macon.htm"
+  },
+  "Madison,US-WI": {
+    "href": "https://worldradiomap.com/us-wi/madison.htm"
+  },
+  "Manchester,US-NH": {
+    "href": "https://worldradiomap.com/us-nh/manchester.htm"
+  },
+  "Medford,US-OR": {
+    "href": "https://worldradiomap.com/us-or/medford.htm"
+  },
+  "Memphis,US-TN": {
+    "href": "https://worldradiomap.com/us-tn/memphis.htm"
+  },
+  "Miami,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/miami.htm"
+  },
+  "Midland,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/midland.htm"
+  },
+  "Milwaukee,US-WI": {
+    "href": "https://worldradiomap.com/us-wi/milwaukee.htm"
+  },
+  "Minneapolis,US-MN": {
+    "href": "https://worldradiomap.com/us-mn/minneapolis.htm"
+  },
+  "Missoula,US-MT": {
+    "href": "https://worldradiomap.com/us-mt/missoula.htm"
+  },
+  "Mobile,US-AL": {
+    "href": "https://worldradiomap.com/us-al/mobile.htm"
+  },
+  "Modesto,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/modesto.htm"
+  },
+  "Moncton,CA": {
+    "href": "https://worldradiomap.com/ca/moncton.htm"
+  },
+  "Montgomery,US-AL": {
+    "href": "https://worldradiomap.com/us-al/montgomery.htm"
+  },
+  "Monterey,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/monterey.htm"
+  },
+  "Montréal,CA": {
+    "href": "https://worldradiomap.com/ca/montreal.htm"
+  },
+  "Myrtle Beach,US-SC": {
+    "href": "https://worldradiomap.com/us-sc/myrtle-beach.htm"
+  },
+  "Nashville,US-TN": {
+    "href": "https://worldradiomap.com/us-tn/nashville.htm"
+  },
+  "New Haven,US-CT": {
+    "href": "https://worldradiomap.com/us-ct/new-haven.htm"
+  },
+  "New York,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/new-york.htm"
+  },
+  "New Orleans,US-LA": {
+    "href": "https://worldradiomap.com/us-la/new-orleans.htm"
+  },
+  "Norfolk,US-VA": {
+    "href": "https://worldradiomap.com/us-va/norfolk.htm"
+  },
+  "North Platte,US-NE": {
+    "href": "https://worldradiomap.com/us-ne/north-platte.htm"
+  },
+  "Odessa,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/odessa.htm"
+  },
+  "Ogden,US-UT": {
+    "href": "https://worldradiomap.com/us-ut/ogden.htm"
+  },
+  "Oklahoma City,US-OK": {
+    "href": "https://worldradiomap.com/us-ok/oklahoma-city.htm"
+  },
+  "Omaha,US-NE": {
+    "href": "https://worldradiomap.com/us-ne/omaha.htm"
+  },
+  "Olympia,US-WA": {
+    "href": "https://worldradiomap.com/us-wa/olympia.htm"
+  },
+  "Orlando,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/orlando.htm"
+  },
+  "Ottawa,CA": {
+    "href": "https://worldradiomap.com/ca/ottawa.htm"
+  },
+  "Palm Springs,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/palm-springs.htm"
+  },
+  "Pensacola,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/pensacola.htm"
+  },
+  "Peoria,US-IL": {
+    "href": "https://worldradiomap.com/us-il/peoria.htm"
+  },
+  "Philadelphia,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/philadelphia.htm"
+  },
+  "Phoenix,US-AZ": {
+    "href": "https://worldradiomap.com/us-az/phoenix.htm"
+  },
+  "Pittsburgh,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/pittsburgh.htm"
+  },
+  "Portland,US-ME": {
+    "href": "https://worldradiomap.com/us-me/portland.htm"
+  },
+  "Portland,US-OR": {
+    "href": "https://worldradiomap.com/us-or/portland.htm"
+  },
+  "Poughkeepsie,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/poughkeepsie.htm"
+  },
+  "Providence,US-RI": {
+    "href": "https://worldradiomap.com/us-ri/providence.htm"
+  },
+  "Provo,US-UT": {
+    "href": "https://worldradiomap.com/us-ut/provo.htm"
+  },
+  "Pueblo,US-CO": {
+    "href": "https://worldradiomap.com/us-co/pueblo.htm"
+  },
+  "Québec,CA": {
+    "href": "https://worldradiomap.com/ca/quebec.htm"
+  },
+  "Redding,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/redding.htm"
+  },
+  "Regina,CA": {
+    "href": "https://worldradiomap.com/ca/regina.htm"
+  },
+  "Raleigh,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/raleigh.htm"
+  },
+  "Rapid City,US-SD": {
+    "href": "https://worldradiomap.com/us-sd/rapid-city.htm"
+  },
+  "Reno,US-NV": {
+    "href": "https://worldradiomap.com/us-nv/reno.htm"
+  },
+  "Richmond,US-VA": {
+    "href": "https://worldradiomap.com/us-va/richmond.htm"
+  },
+  "Riverhead,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/riverhead.htm"
+  },
+  "Riverside,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/riverside.htm"
+  },
+  "Roanoke,US-VA": {
+    "href": "https://worldradiomap.com/us-va/roanoke.htm"
+  },
+  "Rochester,US-MN": {
+    "href": "https://worldradiomap.com/us-mn/rochester.htm"
+  },
+  "Rochester,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/rochester.htm"
+  },
+  "Rockford,US-IL": {
+    "href": "https://worldradiomap.com/us-il/rockford.htm"
+  },
+  "Roswell,US-NM": {
+    "href": "https://worldradiomap.com/us-nm/roswell.htm"
+  },
+  "Sacramento,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/sacramento.htm"
+  },
+  "Saguenay,CA": {
+    "href": "https://worldradiomap.com/ca/saguenay.htm"
+  },
+  "St. George,US-UT": {
+    "href": "https://worldradiomap.com/us-ut/saint-george.htm"
+  },
+  "St. John,CA": {
+    "href": "https://worldradiomap.com/ca/saint-john.htm"
+  },
+  "St. John's,CA": {
+    "href": "https://worldradiomap.com/ca/st-johns.htm"
+  },
+  "St. Louis,US-MO": {
+    "href": "https://worldradiomap.com/us-mo/saint-louis.htm"
+  },
+  "St. Paul,US-MN": {
+    "href": "https://worldradiomap.com/us-mn/saint-paul.htm"
+  },
+  "St. Petersburg,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/saint-petersburg.htm"
+  },
+  "Saint-Pierre,PM": {
+    "href": "https://worldradiomap.com/pm/saint-pierre.htm"
+  },
+  "Salem,US-OR": {
+    "href": "https://worldradiomap.com/us-or/salem.htm"
+  },
+  "Salt Lake City,US-UT": {
+    "href": "https://worldradiomap.com/us-ut/salt-lake-city.htm"
+  },
+  "Salisbury,US-MD": {
+    "href": "https://worldradiomap.com/us-md/salisbury.htm"
+  },
+  "San Antonio,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/san-antonio.htm"
+  },
+  "San Bernardino,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/san-bernardino.htm"
+  },
+  "San Diego,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/san-diego.htm"
+  },
+  "San Francisco,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/san-francisco.htm"
+  },
+  "San Jose,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/san-jose.htm"
+  },
+  "San Luis Obispo,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/san-luis-obispo.htm"
+  },
+  "Santa Barbara,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/santa-barbara.htm"
+  },
+  "Santa Maria,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/santa-maria.htm"
+  },
+  "Santa Fe,US-NM": {
+    "href": "https://worldradiomap.com/us-nm/santa-fe.htm"
+  },
+  "Sarnia,CA": {
+    "href": "https://worldradiomap.com/ca/sarnia.htm"
+  },
+  "Saskatoon,CA": {
+    "href": "https://worldradiomap.com/ca/saskatoon.htm"
+  },
+  "Sault Ste. Marie,CA": {
+    "href": "https://worldradiomap.com/ca/sault-ste-marie.htm"
+  },
+  "Savannah,US-GA": {
+    "href": "https://worldradiomap.com/us-ga/savannah.htm"
+  },
+  "Scranton,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/scranton.htm"
+  },
+  "Seattle,US-WA": {
+    "href": "https://worldradiomap.com/us-wa/seattle.htm"
+  },
+  "Sherbrooke,CA": {
+    "href": "https://worldradiomap.com/ca/sherbrooke.htm"
+  },
+  "Shreveport,US-LA": {
+    "href": "https://worldradiomap.com/us-la/shreveport.htm"
+  },
+  "Sioux Falls,US-SD": {
+    "href": "https://worldradiomap.com/us-sd/sioux-falls.htm"
+  },
+  "Sitka,US-AK": {
+    "href": "https://worldradiomap.com/us-ak/sitka.htm"
+  },
+  "South Bend,US-IN": {
+    "href": "https://worldradiomap.com/us-in/south-bend.htm"
+  },
+  "Spokane,US-WA": {
+    "href": "https://worldradiomap.com/us-wa/spokane.htm"
+  },
+  "Springfield,US-IL": {
+    "href": "https://worldradiomap.com/us-il/springfield.htm"
+  },
+  "Springfield,US-MA": {
+    "href": "https://worldradiomap.com/us-ma/springfield.htm"
+  },
+  "Springfield,US-MO": {
+    "href": "https://worldradiomap.com/us-mo/springfield.htm"
+  },
+  "State College,US-PA": {
+    "href": "https://worldradiomap.com/us-pa/state-college.htm"
+  },
+  "Stockton,US-CA": {
+    "href": "https://worldradiomap.com/us-ca/stockton.htm"
+  },
+  "Sudbury,CA": {
+    "href": "https://worldradiomap.com/ca/sudbury.htm"
+  },
+  "Syracuse,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/syracuse.htm"
+  },
+  "Tacoma,US-WA": {
+    "href": "https://worldradiomap.com/us-wa/tacoma.htm"
+  },
+  "Tallahassee,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/tallahassee.htm"
+  },
+  "Tampa,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/tampa.htm"
+  },
+  "Thunder Bay,CA": {
+    "href": "https://worldradiomap.com/ca/thunder-bay.htm"
+  },
+  "Toledo,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/toledo.htm"
+  },
+  "Topeka,US-KS": {
+    "href": "https://worldradiomap.com/us-ks/topeka.htm"
+  },
+  "Toronto,CA": {
+    "href": "https://worldradiomap.com/ca/toronto.htm"
+  },
+  "Trenton,US-NJ": {
+    "href": "https://worldradiomap.com/us-nj/trenton.htm"
+  },
+  "Tucson,US-AZ": {
+    "href": "https://worldradiomap.com/us-az/tucson.htm"
+  },
+  "Tulsa,US-OK": {
+    "href": "https://worldradiomap.com/us-ok/tulsa.htm"
+  },
+  "Twin Falls,US-ID": {
+    "href": "https://worldradiomap.com/us-id/twin-falls.htm"
+  },
+  "Tyler,US-TX": {
+    "href": "https://worldradiomap.com/us-tx/tyler.htm"
+  },
+  "Utica,US-NY": {
+    "href": "https://worldradiomap.com/us-ny/utica.htm"
+  },
+  "Vancouver,CA": {
+    "href": "https://worldradiomap.com/ca/vancouver.htm"
+  },
+  "Vail,US-CO": {
+    "href": "https://worldradiomap.com/us-co/vail.htm"
+  },
+  "Victoria,CA": {
+    "href": "https://worldradiomap.com/ca/victoria.htm"
+  },
+  "Washington,US-DC": {
+    "href": "https://worldradiomap.com/us-dc/washington.htm"
+  },
+  "West Palm Beach,US-FL": {
+    "href": "https://worldradiomap.com/us-fl/west-palm-beach.htm"
+  },
+  "Wheeling,US-WV": {
+    "href": "https://worldradiomap.com/us-wv/wheeling.htm"
+  },
+  "Whitehorse,CA": {
+    "href": "https://worldradiomap.com/ca/whitehorse.htm"
+  },
+  "Wichita,US-KS": {
+    "href": "https://worldradiomap.com/us-ks/wichita.htm"
+  },
+  "Wilmington,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/wilmington.htm"
+  },
+  "Winnipeg,CA": {
+    "href": "https://worldradiomap.com/ca/winnipeg.htm"
+  },
+  "Winston-Salem,US-NC": {
+    "href": "https://worldradiomap.com/us-nc/winston-salem.htm"
+  },
+  "Yakima,US-WA": {
+    "href": "https://worldradiomap.com/us-wa/yakima.htm"
+  },
+  "Yellowknife,CA": {
+    "href": "https://worldradiomap.com/ca/yellowknife.htm"
+  },
+  "Youngstown,US-OH": {
+    "href": "https://worldradiomap.com/us-oh/youngstown.htm"
+  },
+  "Basseterre,KN": {
+    "href": "https://worldradiomap.com/kn/basseterre.htm"
+  },
+  "Bridgetown,BB": {
+    "href": "https://worldradiomap.com/bb/bridgetown.htm"
+  },
+  "Camagüey,CU": {
+    "href": "https://worldradiomap.com/cu/camaguey.htm"
+  },
+  "Castries,LC": {
+    "href": "https://worldradiomap.com/lc/castries.htm"
+  },
+  "Charlotte Amalie,VI": {
+    "href": "https://worldradiomap.com/vi/charlotte-amalie.htm"
+  },
+  "Fort-de-France,MQ": {
+    "href": "https://worldradiomap.com/mq/fort-de-france.htm"
+  },
+  "George Town,KY": {
+    "href": "https://worldradiomap.com/ky/george-town.htm"
+  },
+  "Kingston,JM": {
+    "href": "https://worldradiomap.com/jm/kingston.htm"
+  },
+  "Kingstown,VC": {
+    "href": "https://worldradiomap.com/vc/kingstown.htm"
+  },
+  "La Habana,CU": {
+    "href": "https://worldradiomap.com/cu/habana.htm"
+  },
+  "Nassau,BS": {
+    "href": "https://worldradiomap.com/bs/nassau.htm"
+  },
+  "Oranjestad,AW": {
+    "href": "https://worldradiomap.com/aw/oranjestad.htm"
+  },
+  "Pointe-à-Pitre,GP": {
+    "href": "https://worldradiomap.com/gp/pointe-a-pitre.htm"
+  },
+  "Port-au-Prince,HT": {
+    "href": "https://worldradiomap.com/ht/port-au-prince.htm"
+  },
+  "Port-of-Spain,TT": {
+    "href": "https://worldradiomap.com/tt/port-of-spain.htm"
+  },
+  "Providenciales,TC": {
+    "href": "https://worldradiomap.com/tc/providenciales.htm"
+  },
+  "Road Town,VG": {
+    "href": "https://worldradiomap.com/vg/road-town.htm"
+  },
+  "Roseau,DM": {
+    "href": "https://worldradiomap.com/dm/roseau.htm"
+  },
+  "San Juan,PR": {
+    "href": "https://worldradiomap.com/pr/san-juan.htm"
+  },
+  "Santiago de Cuba,CU": {
+    "href": "https://worldradiomap.com/cu/santiago.htm"
+  },
+  "Santo Domingo,DO": {
+    "href": "https://worldradiomap.com/do/santo-domingo.htm"
+  },
+  "St. George's,GD": {
+    "href": "https://worldradiomap.com/gd/st-georges.htm"
+  },
+  "St. John's,AG": {
+    "href": "https://worldradiomap.com/ag/st-johns.htm"
+  },
+  "The Valley,AI": {
+    "href": "https://worldradiomap.com/ai/the-valley.htm"
+  },
+  "Willemstad,CW": {
+    "href": "https://worldradiomap.com/cw/willemstad.htm"
+  },
+  "Acapulco,MX": {
+    "href": "https://worldradiomap.com/mx/acapulco.htm"
+  },
+  "Belize City,BZ": {
+    "href": "https://worldradiomap.com/bz/belize-city.htm"
+  },
+  "Cancún,MX": {
+    "href": "https://worldradiomap.com/mx/cancun.htm"
+  },
+  "Durango,MX": {
+    "href": "https://worldradiomap.com/mx/durango.htm"
+  },
+  "Guadalajara,MX": {
+    "href": "https://worldradiomap.com/mx/guadalajara.htm"
+  },
+  "Cd. de Guatemala,GT": {
+    "href": "https://worldradiomap.com/gt/guatemala.htm"
+  },
+  "Cd. Juárez,MX": {
+    "href": "https://worldradiomap.com/mx/juarez.htm"
+  },
+  "La Paz,MX": {
+    "href": "https://worldradiomap.com/mx/la-paz.htm"
+  },
+  "León,MX": {
+    "href": "https://worldradiomap.com/mx/leon.htm"
+  },
+  "Managua,NI": {
+    "href": "https://worldradiomap.com/ni/managua.htm"
+  },
+  "Mérida,MX": {
+    "href": "https://worldradiomap.com/mx/merida.htm"
+  },
+  "Cd. de México,MX": {
+    "href": "https://worldradiomap.com/mx/mexico.htm"
+  },
+  "Monterrey,MX": {
+    "href": "https://worldradiomap.com/mx/monterrey.htm"
+  },
+  "Cd. de Panamá,PA": {
+    "href": "https://worldradiomap.com/pa/panama.htm"
+  },
+  "Puebla,MX": {
+    "href": "https://worldradiomap.com/mx/puebla.htm"
+  },
+  "San José,CR": {
+    "href": "https://worldradiomap.com/cr/san-jose.htm"
+  },
+  "San Salvador,SV": {
+    "href": "https://worldradiomap.com/sv/san-salvador.htm"
+  },
+  "Tegucigalpa,GT": {
+    "href": "https://worldradiomap.com/gt/tegucigalpa.htm"
+  },
+  "Tijuana,MX": {
+    "href": "https://worldradiomap.com/mx/tijuana.htm"
+  },
+  "Veracruz,MX": {
+    "href": "https://worldradiomap.com/mx/veracruz.htm"
+  },
+  "Antofagasta,CL": {
+    "href": "https://worldradiomap.com/cl/antofagasta.htm"
+  },
+  "Arequipa,PE": {
+    "href": "https://worldradiomap.com/pe/arequipa.htm"
+  },
+  "Asunción,PY": {
+    "href": "https://worldradiomap.com/py/asuncion.htm"
+  },
+  "Bahía Blanca,AR": {
+    "href": "https://worldradiomap.com/ar/bahia-blanca.htm"
+  },
+  "Barranquilla,CO": {
+    "href": "https://worldradiomap.com/co/barranquilla.htm"
+  },
+  "Belém,BR": {
+    "href": "https://worldradiomap.com/br/belem.htm"
+  },
+  "Belo Horizonte,BR": {
+    "href": "https://worldradiomap.com/br/belo-horizonte.htm"
+  },
+  "Bogotá,CO": {
+    "href": "https://worldradiomap.com/co/bogota.htm"
+  },
+  "Brasília,BR": {
+    "href": "https://worldradiomap.com/br/brasilia.htm"
+  },
+  "Buenos Aires,AR": {
+    "href": "https://worldradiomap.com/ar/buenos-aires.htm"
+  },
+  "Cali,CO": {
+    "href": "https://worldradiomap.com/co/cali.htm"
+  },
+  "Campo Grande,BR": {
+    "href": "https://worldradiomap.com/br/campo-grande.htm"
+  },
+  "Caracas,VE": {
+    "href": "https://worldradiomap.com/ve/caracas.htm"
+  },
+  "Cayenne,GF": {
+    "href": "https://worldradiomap.com/gf/cayenne.htm"
+  },
+  "Ciudad del Este,PY": {
+    "href": "https://worldradiomap.com/py/ciudad-del-este.htm"
+  },
+  "Concepción,CL": {
+    "href": "https://worldradiomap.com/cl/concepcion.htm"
+  },
+  "Córdoba,AR": {
+    "href": "https://worldradiomap.com/ar/cordoba.htm"
+  },
+  "Cúcuta,CO": {
+    "href": "https://worldradiomap.com/co/cucuta.htm"
+  },
+  "Cuiabá,BR": {
+    "href": "https://worldradiomap.com/br/cuiaba.htm"
+  },
+  "Curitiba,BR": {
+    "href": "https://worldradiomap.com/br/curitiba.htm"
+  },
+  "Cusco,PE": {
+    "href": "https://worldradiomap.com/pe/cusco.htm"
+  },
+  "Florianópolis,BR": {
+    "href": "https://worldradiomap.com/br/florianopolis.htm"
+  },
+  "Fortaleza,BR": {
+    "href": "https://worldradiomap.com/br/fortaleza.htm"
+  },
+  "Foz do Iguaçu,BR": {
+    "href": "https://worldradiomap.com/br/foz-do-iguacu.htm"
+  },
+  "Georgetown,GY": {
+    "href": "https://worldradiomap.com/gy/georgetown.htm"
+  },
+  "Goiânia,BR": {
+    "href": "https://worldradiomap.com/br/goiania.htm"
+  },
+  "Guayaquil,EC": {
+    "href": "https://worldradiomap.com/ec/guayaquil.htm"
+  },
+  "Ibagué,CO": {
+    "href": "https://worldradiomap.com/co/ibague.htm"
+  },
+  "Iquitos,PE": {
+    "href": "https://worldradiomap.com/pe/iquitos.htm"
+  },
+  "João Pessoa,BR": {
+    "href": "https://worldradiomap.com/br/joao-pessoa.htm"
+  },
+  "Kourou,GF": {
+    "href": "https://worldradiomap.com/gf/kourou.htm"
+  },
+  "La Paz,BO": {
+    "href": "https://worldradiomap.com/bo/la-paz.htm"
+  },
+  "La Plata,AR": {
+    "href": "https://worldradiomap.com/ar/la-plata.htm"
+  },
+  "Lima,PE": {
+    "href": "https://worldradiomap.com/pe/lima.htm"
+  },
+  "Manaus,BR": {
+    "href": "https://worldradiomap.com/br/manaus.htm"
+  },
+  "Manizales,CO": {
+    "href": "https://worldradiomap.com/co/manizales.htm"
+  },
+  "Mar del Plata,AR": {
+    "href": "https://worldradiomap.com/ar/mar-del-plata.htm"
+  },
+  "Medellín,CO": {
+    "href": "https://worldradiomap.com/co/medellin.htm"
+  },
+  "Mendoza,AR": {
+    "href": "https://worldradiomap.com/ar/mendoza.htm"
+  },
+  "Montevideo,UY": {
+    "href": "https://worldradiomap.com/uy/montevideo.htm"
+  },
+  "Natal,BR": {
+    "href": "https://worldradiomap.com/br/natal.htm"
+  },
+  "Paramaribo,SR": {
+    "href": "https://worldradiomap.com/sr/paramaribo.htm"
+  },
+  "Porto Alegre,BR": {
+    "href": "https://worldradiomap.com/br/porto-alegre.htm"
+  },
+  "Quito,EC": {
+    "href": "https://worldradiomap.com/ec/quito.htm"
+  },
+  "Recife,BR": {
+    "href": "https://worldradiomap.com/br/recife.htm"
+  },
+  "Rio de Janeiro,BR": {
+    "href": "https://worldradiomap.com/br/rio-de-janeiro.htm"
+  },
+  "Rosario,AR": {
+    "href": "https://worldradiomap.com/ar/rosario.htm"
+  },
+  "Salta,AR": {
+    "href": "https://worldradiomap.com/ar/salta.htm"
+  },
+  "San Miguel de Tucumán,AR": {
+    "href": "https://worldradiomap.com/ar/san-miguel-de-tucuman.htm"
+  },
+  "Santa Cruz de la Sierra,BO": {
+    "href": "https://worldradiomap.com/bo/santa-cruz.htm"
+  },
+  "Santa Fe,AR": {
+    "href": "https://worldradiomap.com/ar/santa-fe.htm"
+  },
+  "Santa Maria,BR": {
+    "href": "https://worldradiomap.com/br/santa-maria.htm"
+  },
+  "Santiago,CL": {
+    "href": "https://worldradiomap.com/cl/santiago.htm"
+  },
+  "Salvador,BR": {
+    "href": "https://worldradiomap.com/br/salvador.htm"
+  },
+  "São Luís,BR": {
+    "href": "https://worldradiomap.com/br/sao-luis.htm"
+  },
+  "São Paulo,BR": {
+    "href": "https://worldradiomap.com/br/sao-paulo.htm"
+  },
+  "Stanley,FK": {
+    "href": "https://worldradiomap.com/fk/stanley.htm"
+  },
+  "Trujillo,PE": {
+    "href": "https://worldradiomap.com/pe/trujillo.htm"
+  },
+  "Ushuaia,AR": {
+    "href": "https://worldradiomap.com/ar/ushuaia.htm"
+  },
+  "Valparaíso,CL": {
+    "href": "https://worldradiomap.com/cl/valparaiso.htm"
+  },
+  "Vitória,BR": {
+    "href": "https://worldradiomap.com/br/vitoria.htm"
+  },
+  "Aachen,DE": {
+    "href": "https://radiomap.eu/de/aachen.htm"
+  },
+  "Basel,CH": {
+    "href": "https://radiomap.eu/ch/basel.htm"
+  },
+  "Berlin,DE": {
+    "href": "https://radiomap.eu/de/berlin.htm"
+  },
+  "Bern,CH": {
+    "href": "https://radiomap.eu/ch/bern.htm"
+  },
+  "Białystok,PL": {
+    "href": "https://radiomap.eu/pl/bialystok.htm"
+  },
+  "Bonn,DE": {
+    "href": "https://radiomap.eu/de/bonn.htm"
+  },
+  "Bratislava,SK": {
+    "href": "https://radiomap.eu/sk/bratislava.htm"
+  },
+  "Bremen,DE": {
+    "href": "https://radiomap.eu/de/bremen.htm"
+  },
+  "Brno,CZ": {
+    "href": "https://radiomap.eu/cz/brno.htm"
+  },
+  "Budapest,HU": {
+    "href": "https://radiomap.eu/hu/budapest.htm"
+  },
+  "Bydgoszcz,PL": {
+    "href": "https://radiomap.eu/pl/bydgoszcz.htm"
+  },
+  "Cottbus,DE": {
+    "href": "https://radiomap.eu/de/cottbus.htm"
+  },
+  "Debrecen,HU": {
+    "href": "https://radiomap.eu/hu/debrecen.htm"
+  },
+  "Dortmund,DE": {
+    "href": "https://radiomap.eu/de/dortmund.htm"
+  },
+  "Dresden,DE": {
+    "href": "https://radiomap.eu/de/dresden.htm"
+  },
+  "Dubrovnik,HR": {
+    "href": "https://radiomap.eu/hr/dubrovnik.htm"
+  },
+  "Duisburg,DE": {
+    "href": "https://radiomap.eu/de/duisburg.htm"
+  },
+  "Düsseldorf,DE": {
+    "href": "https://radiomap.eu/de/duesseldorf.htm"
+  },
+  "Erfurt,DE": {
+    "href": "https://radiomap.eu/de/erfurt.htm"
+  },
+  "Essen,DE": {
+    "href": "https://radiomap.eu/de/essen.htm"
+  },
+  "Frankfurt am Main,DE": {
+    "href": "https://radiomap.eu/de/frankfurt-am-main.htm"
+  },
+  "Gdańsk,PL": {
+    "href": "https://radiomap.eu/pl/gdansk.htm"
+  },
+  "Genève,CH": {
+    "href": "https://radiomap.eu/ch/geneve.htm"
+  },
+  "Graz,AT": {
+    "href": "https://radiomap.eu/at/graz.htm"
+  },
+  "Győr,HU": {
+    "href": "https://radiomap.eu/hu/gyor.htm"
+  },
+  "Hamburg,DE": {
+    "href": "https://radiomap.eu/de/hamburg.htm"
+  },
+  "Hannover,DE": {
+    "href": "https://radiomap.eu/de/hannover.htm"
+  },
+  "Heidelberg,DE": {
+    "href": "https://radiomap.eu/de/heidelberg.htm"
+  },
+  "Innsburck,AT": {
+    "href": "https://radiomap.eu/at/innsbruck.htm"
+  },
+  "Karlsruhe,DE": {
+    "href": "https://radiomap.eu/de/karlsruhe.htm"
+  },
+  "Katowice,PL": {
+    "href": "https://radiomap.eu/pl/katowice.htm"
+  },
+  "Kiel,DE": {
+    "href": "https://radiomap.eu/de/kiel.htm"
+  },
+  "Kielce,PL": {
+    "href": "https://radiomap.eu/pl/kielce.htm"
+  },
+  "Klagenfurt,AT": {
+    "href": "https://radiomap.eu/at/klagenfurt.htm"
+  },
+  "Köln,DE": {
+    "href": "https://radiomap.eu/de/koeln.htm"
+  },
+  "Košice,SK": {
+    "href": "https://radiomap.eu/sk/kosice.htm"
+  },
+  "Kraków,PL": {
+    "href": "https://radiomap.eu/pl/krakow.htm"
+  },
+  "Leipzig,DE": {
+    "href": "https://radiomap.eu/de/leipzig.htm"
+  },
+  "Liberec,CZ": {
+    "href": "https://radiomap.eu/cz/liberec.htm"
+  },
+  "Linz,AT": {
+    "href": "https://radiomap.eu/at/linz.htm"
+  },
+  "Ljubljana,SI": {
+    "href": "https://radiomap.eu/si/ljubljana.htm"
+  },
+  "Łódź,PL": {
+    "href": "https://radiomap.eu/pl/lodz.htm"
+  },
+  "Lublin,PL": {
+    "href": "https://radiomap.eu/pl/lublin.htm"
+  },
+  "Lugano,CH": {
+    "href": "https://radiomap.eu/ch/lugano.htm"
+  },
+  "Magdeburg,DE": {
+    "href": "https://radiomap.eu/de/magdeburg.htm"
+  },
+  "Mainz,DE": {
+    "href": "https://radiomap.eu/de/mainz.htm"
+  },
+  "Mannheim,DE": {
+    "href": "https://radiomap.eu/de/mannheim.htm"
+  },
+  "Maribor,SI": {
+    "href": "https://radiomap.eu/si/maribor.htm"
+  },
+  "Miskolc,HU": {
+    "href": "https://radiomap.eu/hu/miskolc.htm"
+  },
+  "München,DE": {
+    "href": "https://radiomap.eu/de/muenchen.htm"
+  },
+  "Münster,DE": {
+    "href": "https://radiomap.eu/de/muenster.htm"
+  },
+  "Nürnberg,DE": {
+    "href": "https://radiomap.eu/de/nuernberg.htm"
+  },
+  "Olsztyn,PL": {
+    "href": "https://radiomap.eu/pl/olsztyn.htm"
+  },
+  "Osijek,HR": {
+    "href": "https://radiomap.eu/hr/osijek.htm"
+  },
+  "Ostrava,CZ": {
+    "href": "https://radiomap.eu/cz/ostrava.htm"
+  },
+  "Pécs,HU": {
+    "href": "https://radiomap.eu/hu/pecs.htm"
+  },
+  "Plzeň,CZ": {
+    "href": "https://radiomap.eu/cz/plzen.htm"
+  },
+  "Poznań,PL": {
+    "href": "https://radiomap.eu/pl/poznan.htm"
+  },
+  "Praha,CZ": {
+    "href": "https://radiomap.eu/cz/praha.htm"
+  },
+  "Rijeka,HR": {
+    "href": "https://radiomap.eu/hr/rijeka.htm"
+  },
+  "Rostock,DE": {
+    "href": "https://radiomap.eu/de/rostock.htm"
+  },
+  "Rzeszów,PL": {
+    "href": "https://radiomap.eu/pl/rzeszow.htm"
+  },
+  "Salzburg,AT": {
+    "href": "https://radiomap.eu/at/salzburg.htm"
+  },
+  "Split,HR": {
+    "href": "https://radiomap.eu/hr/split.htm"
+  },
+  "St. Pölten,AT": {
+    "href": "https://radiomap.eu/at/st-poelten.htm"
+  },
+  "Stuttgart,DE": {
+    "href": "https://radiomap.eu/de/stuttgart.htm"
+  },
+  "Szczecin,PL": {
+    "href": "https://radiomap.eu/pl/szczecin.htm"
+  },
+  "Szeged,HU": {
+    "href": "https://radiomap.eu/hu/szeged.htm"
+  },
+  "Vaduz,LI": {
+    "href": "https://radiomap.eu/li/vaduz.htm"
+  },
+  "Wien,AT": {
+    "href": "https://radiomap.eu/at/wien.htm"
+  },
+  "Warszawa,PL": {
+    "href": "https://radiomap.eu/pl/warszawa.htm"
+  },
+  "Wrocław,PL": {
+    "href": "https://radiomap.eu/pl/wroclaw.htm"
+  },
+  "Zadar,HR": {
+    "href": "https://radiomap.eu/hr/zadar.htm"
+  },
+  "Zagreb,HR": {
+    "href": "https://radiomap.eu/hr/zagreb.htm"
+  },
+  "Zürich,CH": {
+    "href": "https://radiomap.eu/ch/zuerich.htm"
+  },
+  "Žilina,SK": {
+    "href": "https://radiomap.eu/sk/zilina.htm"
+  },
+  "Aalborg,DK": {
+    "href": "https://radiomap.eu/dk/aalborg.htm"
+  },
+  "Aarhus,DK": {
+    "href": "https://radiomap.eu/dk/aarhus.htm"
+  },
+  "Bergen,NO": {
+    "href": "https://radiomap.eu/no/bergen.htm"
+  },
+  "Bodø,NO": {
+    "href": "https://radiomap.eu/no/bodo.htm"
+  },
+  "Daugavpils,LV": {
+    "href": "https://radiomap.eu/lv/daugavpils.htm"
+  },
+  "Göteborg,SE": {
+    "href": "https://radiomap.eu/se/goteborg.htm"
+  },
+  "Helsingborg,SE": {
+    "href": "https://radiomap.eu/se/helsingborg.htm"
+  },
+  "Helsinki,FI": {
+    "href": "https://radiomap.eu/fi/helsinki.htm"
+  },
+  "Kaunas,LT": {
+    "href": "https://radiomap.eu/lt/kaunas.htm"
+  },
+  "Klaipėda,LT": {
+    "href": "https://radiomap.eu/lt/klaipeda.htm"
+  },
+  "Kirkenes,NO": {
+    "href": "https://radiomap.eu/no/kirkenes.htm"
+  },
+  "Kristiansand,NO": {
+    "href": "https://radiomap.eu/no/kristiansand.htm"
+  },
+  "København,DK": {
+    "href": "https://radiomap.eu/dk/kobenhavn.htm"
+  },
+  "Liepāja,LV": {
+    "href": "https://radiomap.eu/lv/liepaja.htm"
+  },
+  "Luleå,SE": {
+    "href": "https://radiomap.eu/se/lulea.htm"
+  },
+  "Malmö,SE": {
+    "href": "https://radiomap.eu/se/malmo.htm"
+  },
+  "Mariehamn,AX": {
+    "href": "https://radiomap.eu/ax/mariehamn.htm"
+  },
+  "Narva,EE": {
+    "href": "https://radiomap.eu/ee/narva.htm"
+  },
+  "Nuuk,GL": {
+    "href": "https://worldradiomap.com/gl/nuuk.htm"
+  },
+  "Odense,DK": {
+    "href": "https://radiomap.eu/dk/odense.htm"
+  },
+  "Oslo,NO": {
+    "href": "https://radiomap.eu/no/oslo.htm"
+  },
+  "Oulu,FI": {
+    "href": "https://radiomap.eu/fi/oulu.htm"
+  },
+  "Panevėžys,LT": {
+    "href": "https://radiomap.eu/lt/panevezys.htm"
+  },
+  "Pärnu,EE": {
+    "href": "https://radiomap.eu/ee/parnu.htm"
+  },
+  "Reykjavík,IS": {
+    "href": "https://radiomap.eu/is/reykjavik.htm"
+  },
+  "Rēzekne,LV": {
+    "href": "https://radiomap.eu/lv/rezekne.htm"
+  },
+  "Rīga,LV": {
+    "href": "https://radiomap.eu/lv/riga.htm"
+  },
+  "Rovaniemi,FI": {
+    "href": "https://radiomap.eu/fi/rovaniemi.htm"
+  },
+  "Šiauliai,LT": {
+    "href": "https://radiomap.eu/lt/siauliai.htm"
+  },
+  "Stavanger,NO": {
+    "href": "https://radiomap.eu/no/stavanger.htm"
+  },
+  "Stockholm,SE": {
+    "href": "https://radiomap.eu/se/stockholm.htm"
+  },
+  "Tallinn,EE": {
+    "href": "https://radiomap.eu/ee/tallinn.htm"
+  },
+  "Tampere,FI": {
+    "href": "https://radiomap.eu/fi/tampere.htm"
+  },
+  "Tartu,EE": {
+    "href": "https://radiomap.eu/ee/tartu.htm"
+  },
+  "Tórshavn,FO": {
+    "href": "https://radiomap.eu/fo/torshavn.htm"
+  },
+  "Trondheim,NO": {
+    "href": "https://radiomap.eu/no/trondheim.htm"
+  },
+  "Tromsø,NO": {
+    "href": "https://radiomap.eu/no/tromso.htm"
+  },
+  "Turku,FI": {
+    "href": "https://radiomap.eu/fi/turku.htm"
+  },
+  "Umeå,SE": {
+    "href": "https://radiomap.eu/se/umea.htm"
+  },
+  "Uppsala,SE": {
+    "href": "https://radiomap.eu/se/uppsala.htm"
+  },
+  "Valmiera,LV": {
+    "href": "https://radiomap.eu/lv/valmiera.htm"
+  },
+  "Ventspils,LV": {
+    "href": "https://radiomap.eu/lv/ventspils.htm"
+  },
+  "Vilnius,LT": {
+    "href": "https://radiomap.eu/lt/vilnius.htm"
+  },
+  "Aberdeen,GB": {
+    "href": "https://radiomap.eu/uk/aberdeen.htm"
+  },
+  "Belfast,GB": {
+    "href": "https://radiomap.eu/uk/belfast.htm"
+  },
+  "Birmingham,GB": {
+    "href": "https://radiomap.eu/uk/birmingham.htm"
+  },
+  "Blackpool,GB": {
+    "href": "https://radiomap.eu/uk/blackpool.htm"
+  },
+  "Bristol,GB": {
+    "href": "https://radiomap.eu/uk/bristol.htm"
+  },
+  "Cardiff,GB": {
+    "href": "https://radiomap.eu/uk/cardiff.htm"
+  },
+  "Cork,IE": {
+    "href": "https://radiomap.eu/ie/cork.htm"
+  },
+  "Derry,GB": {
+    "href": "https://radiomap.eu/uk/derry.htm"
+  },
+  "Douglas,IM": {
+    "href": "https://radiomap.eu/im/douglas.htm"
+  },
+  "Dublin,IE": {
+    "href": "https://radiomap.eu/ie/dublin.htm"
+  },
+  "Dundee,GB": {
+    "href": "https://radiomap.eu/uk/dundee.htm"
+  },
+  "Edinburgh,GB": {
+    "href": "https://radiomap.eu/uk/edinburgh.htm"
+  },
+  "Galway,IE": {
+    "href": "https://radiomap.eu/ie/galway.htm"
+  },
+  "Glasgow,GB": {
+    "href": "https://radiomap.eu/uk/glasgow.htm"
+  },
+  "Haverfordwest,GB": {
+    "href": "https://radiomap.eu/uk/haverfordwest.htm"
+  },
+  "Kingston upon Hull,GB": {
+    "href": "https://radiomap.eu/uk/kingston-upon-hull.htm"
+  },
+  "Leeds,GB": {
+    "href": "https://radiomap.eu/uk/leeds.htm"
+  },
+  "Leicester,GB": {
+    "href": "https://radiomap.eu/uk/leicester.htm"
+  },
+  "Liverpool,GB": {
+    "href": "https://radiomap.eu/uk/liverpool.htm"
+  },
+  "Limerick,GB": {
+    "href": "https://radiomap.eu/uk/limerick.htm"
+  },
+  "London,GB": {
+    "href": "https://radiomap.eu/uk/london.htm"
+  },
+  "Manchester,GB": {
+    "href": "https://radiomap.eu/uk/manchester.htm"
+  },
+  "Newcastle upon Tyne,GB": {
+    "href": "https://radiomap.eu/uk/newcastle-upon-tyne.htm"
+  },
+  "Norwich,GB": {
+    "href": "https://radiomap.eu/uk/norwich.htm"
+  },
+  "Nottingham,GB": {
+    "href": "https://radiomap.eu/uk/nottingham.htm"
+  },
+  "Oxford,GB": {
+    "href": "https://radiomap.eu/uk/oxford.htm"
+  },
+  "Plymouth,GB": {
+    "href": "https://radiomap.eu/uk/plymouth.htm"
+  },
+  "Sheffield,GB": {
+    "href": "https://radiomap.eu/uk/sheffield.htm"
+  },
+  "Southampton,GB": {
+    "href": "https://radiomap.eu/uk/southampton.htm"
+  },
+  "St. Anne,GG": {
+    "href": "https://radiomap.eu/gg/saint-anne.htm"
+  },
+  "St. Helier,JE": {
+    "href": "https://radiomap.eu/je/saint-helier.htm"
+  },
+  "St. Peter Port,GG": {
+    "href": "https://radiomap.eu/gg/saint-peter-port.htm"
+  },
+  "Swansea,GB": {
+    "href": "https://radiomap.eu/uk/swansea.htm"
+  },
+  "Ajaccio,FR": {
+    "href": "https://radiomap.eu/fr/ajaccio.htm"
+  },
+  "Amsterdam,NL": {
+    "href": "https://radiomap.eu/nl/amsterdam.htm"
+  },
+  "Antwerpen,BE": {
+    "href": "https://radiomap.eu/be/antwerpen.htm"
+  },
+  "Bayonne,FR": {
+    "href": "https://radiomap.eu/fr/bayonne.htm"
+  },
+  "Bordeaux,FR": {
+    "href": "https://radiomap.eu/fr/bordeaux.htm"
+  },
+  "Brest,FR": {
+    "href": "https://radiomap.eu/fr/brest.htm"
+  },
+  "Bruges,BE": {
+    "href": "https://radiomap.eu/be/brugge.htm"
+  },
+  "Bruxelles,BE": {
+    "href": "https://radiomap.eu/be/bruxelles.htm"
+  },
+  "Charleroi,BE": {
+    "href": "https://radiomap.eu/be/charleroi.htm"
+  },
+  "Clermont-Ferrand,FR": {
+    "href": "https://radiomap.eu/fr/clermont-ferrand.htm"
+  },
+  "Den Haag,NL": {
+    "href": "https://radiomap.eu/nl/den-haag.htm"
+  },
+  "Dijon,FR": {
+    "href": "https://radiomap.eu/fr/dijon.htm"
+  },
+  "Eindhoven,NL": {
+    "href": "https://radiomap.eu/nl/eindhoven.htm"
+  },
+  "Enschede,NL": {
+    "href": "https://radiomap.eu/nl/enschede.htm"
+  },
+  "Gent,BE": {
+    "href": "https://radiomap.eu/be/gent.htm"
+  },
+  "Grenoble,FR": {
+    "href": "https://radiomap.eu/fr/grenoble.htm"
+  },
+  "Groningen,NL": {
+    "href": "https://radiomap.eu/nl/groningen.htm"
+  },
+  "Lëtzebuerg,LU": {
+    "href": "https://radiomap.eu/lu/letzebuerg.htm"
+  },
+  "Liège,BE": {
+    "href": "https://radiomap.eu/be/liege.htm"
+  },
+  "Lille,FR": {
+    "href": "https://radiomap.eu/fr/lille.htm"
+  },
+  "Limoges,FR": {
+    "href": "https://radiomap.eu/fr/limoges.htm"
+  },
+  "Lyon,FR": {
+    "href": "https://radiomap.eu/fr/lyon.htm"
+  },
+  "Marseille,FR": {
+    "href": "https://radiomap.eu/fr/marseille.htm"
+  },
+  "Metz,FR": {
+    "href": "https://radiomap.eu/fr/metz.htm"
+  },
+  "Monaco,MC": {
+    "href": "https://radiomap.eu/mc/monaco.htm"
+  },
+  "Montpellier,FR": {
+    "href": "https://radiomap.eu/fr/montpellier.htm"
+  },
+  "Nancy,FR": {
+    "href": "https://radiomap.eu/fr/nancy.htm"
+  },
+  "Nantes,FR": {
+    "href": "https://radiomap.eu/fr/nantes.htm"
+  },
+  "Nice,FR": {
+    "href": "https://radiomap.eu/fr/nice.htm"
+  },
+  "Orléans,FR": {
+    "href": "https://radiomap.eu/fr/orleans.htm"
+  },
+  "Paris,FR": {
+    "href": "https://radiomap.eu/fr/paris.htm"
+  },
+  "Perpignan,FR": {
+    "href": "https://radiomap.eu/fr/perpignan.htm"
+  },
+  "Quimper,FR": {
+    "href": "https://radiomap.eu/fr/quimper.htm"
+  },
+  "Reims,FR": {
+    "href": "https://radiomap.eu/fr/reims.htm"
+  },
+  "Rennes,FR": {
+    "href": "https://radiomap.eu/fr/rennes.htm"
+  },
+  "Rotterdam,NL": {
+    "href": "https://radiomap.eu/nl/rotterdam.htm"
+  },
+  "Strasbourg,FR": {
+    "href": "https://radiomap.eu/fr/strasbourg.htm"
+  },
+  "Toulouse,FR": {
+    "href": "https://radiomap.eu/fr/toulouse.htm"
+  },
+  "Utrecht,NL": {
+    "href": "https://radiomap.eu/nl/utrecht.htm"
+  },
+  "A Coruña,ES": {
+    "href": "https://radiomap.eu/es/coruna.htm"
+  },
+  "Andorra la Vella,AD": {
+    "href": "https://radiomap.eu/ad/andorra-la-vella.htm"
+  },
+  "Alicante,ES": {
+    "href": "https://radiomap.eu/es/alicante.htm"
+  },
+  "Barcelona,ES": {
+    "href": "https://radiomap.eu/es/barcelona.htm"
+  },
+  "Bari,IT": {
+    "href": "https://radiomap.eu/it/bari.htm"
+  },
+  "Bilbao,ES": {
+    "href": "https://radiomap.eu/es/bilbao.htm"
+  },
+  "Bologna,IT": {
+    "href": "https://radiomap.eu/it/bologna.htm"
+  },
+  "Bolzano,IT": {
+    "href": "https://radiomap.eu/it/bolzano.htm"
+  },
+  "Cagliari,IT": {
+    "href": "https://radiomap.eu/it/cagliari.htm"
+  },
+  "Catania,IT": {
+    "href": "https://radiomap.eu/it/catania.htm"
+  },
+  "Córdoba,ES": {
+    "href": "https://radiomap.eu/es/cordoba.htm"
+  },
+  "Firenze,IT": {
+    "href": "https://radiomap.eu/it/firenze.htm"
+  },
+  "Funchal,PT": {
+    "href": "https://radiomap.eu/pt/funchal.htm"
+  },
+  "Genova,IT": {
+    "href": "https://radiomap.eu/it/genova.htm"
+  },
+  "Gibraltar,GI": {
+    "href": "https://radiomap.eu/gi/gibraltar.htm"
+  },
+  "Las Palmas de Gran Canaria,ES": {
+    "href": "https://radiomap.eu/es/las-palmas.htm"
+  },
+  "Lisboa,PT": {
+    "href": "https://radiomap.eu/pt/lisboa.htm"
+  },
+  "Madrid,ES": {
+    "href": "https://radiomap.eu/es/madrid.htm"
+  },
+  "Málaga,ES": {
+    "href": "https://radiomap.eu/es/malaga.htm"
+  },
+  "Marbella,ES": {
+    "href": "https://radiomap.eu/es/marbella.htm"
+  },
+  "Messina,IT": {
+    "href": "https://radiomap.eu/it/messina.htm"
+  },
+  "Milano,IT": {
+    "href": "https://radiomap.eu/it/milano.htm"
+  },
+  "Murcia,ES": {
+    "href": "https://radiomap.eu/es/murcia.htm"
+  },
+  "Napoli,IT": {
+    "href": "https://radiomap.eu/it/napoli.htm"
+  },
+  "Oviedo,ES": {
+    "href": "https://radiomap.eu/es/oviedo.htm"
+  },
+  "Palermo,IT": {
+    "href": "https://radiomap.eu/it/palermo.htm"
+  },
+  "Palma,ES": {
+    "href": "https://radiomap.eu/es/palma.htm"
+  },
+  "Ponta Delgada,PT": {
+    "href": "https://radiomap.eu/pt/ponta-delgada.htm"
+  },
+  "Porto,PT": {
+    "href": "https://radiomap.eu/pt/porto.htm"
+  },
+  "Roma,IT": {
+    "href": "https://radiomap.eu/it/roma.htm"
+  },
+  "San Marino,SM": {
+    "href": "https://radiomap.eu/sm/san-marino.htm"
+  },
+  "San Sebastián,ES": {
+    "href": "https://radiomap.eu/es/san-sebastian.htm"
+  },
+  "Santa Cruz de Tenerife,ES": {
+    "href": "https://radiomap.eu/es/santa-cruz.htm"
+  },
+  "Sevilla,ES": {
+    "href": "https://radiomap.eu/es/sevilla.htm"
+  },
+  "Torino,IT": {
+    "href": "https://radiomap.eu/it/torino.htm"
+  },
+  "Trento,IT": {
+    "href": "https://radiomap.eu/it/trento.htm"
+  },
+  "Trieste,IT": {
+    "href": "https://radiomap.eu/it/trieste.htm"
+  },
+  "València,ES": {
+    "href": "https://radiomap.eu/es/valencia.htm"
+  },
+  "Valladolid,ES": {
+    "href": "https://radiomap.eu/es/valladolid.htm"
+  },
+  "Valletta,MT": {
+    "href": "https://radiomap.eu/mt/valletta.htm"
+  },
+  "Vaticana,VA": {
+    "href": "https://radiomap.eu/va/vaticana.htm"
+  },
+  "Venezia,IT": {
+    "href": "https://radiomap.eu/it/venezia.htm"
+  },
+  "Vigo,ES": {
+    "href": "https://radiomap.eu/es/vigo.htm"
+  },
+  "Zaragoza,ES": {
+    "href": "https://radiomap.eu/es/zaragoza.htm"
+  },
+  "Bacău,RO": {
+    "href": "https://radiomap.eu/ro/bacau.htm"
+  },
+  "Baia Mare,RO": {
+    "href": "https://radiomap.eu/ro/baia-mare.htm"
+  },
+  "Banja Luka,BA": {
+    "href": "https://radiomap.eu/ba/banja-luka.htm"
+  },
+  "Beograd,RS": {
+    "href": "https://radiomap.eu/rs/beograd.htm"
+  },
+  "Bitola,MK": {
+    "href": "https://predavatel.com/mk/6/bitola.htm"
+  },
+  "Brașov,RO": {
+    "href": "https://radiomap.eu/ro/brasov.htm"
+  },
+  "București,RO": {
+    "href": "https://radiomap.eu/ro/bucuresti.htm"
+  },
+  "Burgas,BG": {
+    "href": "https://predavatel.com/bg/5/burgas.htm"
+  },
+  "Buzău,RO": {
+    "href": "https://radiomap.eu/ro/buzau.htm"
+  },
+  "Cluj-Napoca,RO": {
+    "href": "https://radiomap.eu/ro/cluj-napoca.htm"
+  },
+  "Constanța,RO": {
+    "href": "https://radiomap.eu/ro/constanta.htm"
+  },
+  "Craiova,RO": {
+    "href": "https://radiomap.eu/ro/craiova.htm"
+  },
+  "Galați,RO": {
+    "href": "https://radiomap.eu/ro/galati.htm"
+  },
+  "Iași,RO": {
+    "href": "https://radiomap.eu/ro/iasi.htm"
+  },
+  "Kikinda,RS": {
+    "href": "https://radiomap.eu/rs/kikinda.htm"
+  },
+  "Kragujevac,RS": {
+    "href": "https://radiomap.eu/rs/kragujevac.htm"
+  },
+  "Niš,RS": {
+    "href": "https://radiomap.eu/rs/nis.htm"
+  },
+  "Novi Sad,RS": {
+    "href": "https://radiomap.eu/rs/novi-sad.htm"
+  },
+  "Ohrid,MK": {
+    "href": "https://predavatel.com/mk/7/ohrid.htm"
+  },
+  "Oradea,RO": {
+    "href": "https://radiomap.eu/ro/oradea.htm"
+  },
+  "Pitești,RO": {
+    "href": "https://radiomap.eu/ro/pitesti.htm"
+  },
+  "Ploiești,RO": {
+    "href": "https://radiomap.eu/ro/ploiesti.htm"
+  },
+  "Plovdiv,BG": {
+    "href": "https://predavatel.com/bg/3/plovdiv.htm"
+  },
+  "Podgorica,ME": {
+    "href": "https://radiomap.eu/me/podgorica.htm"
+  },
+  "Prishtina,KS": {
+    "href": "https://radiomap.eu/ks/prishtina.htm"
+  },
+  "Râmnicu Vâlcea,RO": {
+    "href": "https://radiomap.eu/ro/ramnicu-valcea.htm"
+  },
+  "Ruse,BG": {
+    "href": "https://predavatel.com/bg/7/ruse.htm"
+  },
+  "Sarajevo,BA": {
+    "href": "https://radiomap.eu/ba/sarajevo.htm"
+  },
+  "Shkodra,AL": {
+    "href": "https://radiomap.eu/al/shkodra.htm"
+  },
+  "Sibiu,RO": {
+    "href": "https://radiomap.eu/ro/sibiu.htm"
+  },
+  "Skopje,MK": {
+    "href": "https://predavatel.com/mk/1/skopje.htm"
+  },
+  "Sofia,BG": {
+    "href": "https://predavatel.com/bg/1/sofia.htm"
+  },
+  "Subotica,RS": {
+    "href": "https://radiomap.eu/rs/subotica.htm"
+  },
+  "Târgu Mureș,RO": {
+    "href": "https://radiomap.eu/ro/targu-mures.htm"
+  },
+  "Timișoara,RO": {
+    "href": "https://radiomap.eu/ro/timisoara.htm"
+  },
+  "Tirana,AL": {
+    "href": "https://radiomap.eu/al/tirana.htm"
+  },
+  "Varna,BG": {
+    "href": "https://predavatel.com/bg/6/varna.htm"
+  },
+  "Veliko Tarnovo,BG": {
+    "href": "https://predavatel.com/bg/8/veliko-tarnovo.htm"
+  },
+  "Vlora,AL": {
+    "href": "https://radiomap.eu/al/vlora.htm"
+  },
+  "Abakan,RU": {
+    "href": "https://radiomap.eu/ru/abakan.htm"
+  },
+  "Achinsk,RU": {
+    "href": "https://radiomap.eu/ru/achinsk.htm"
+  },
+  "Anadyr,RU": {
+    "href": "https://radiomap.eu/ru/anadyr.htm"
+  },
+  "Apatity,RU": {
+    "href": "https://radiomap.eu/ru/apatity.htm"
+  },
+  "Arkhangelsk,RU": {
+    "href": "https://radiomap.eu/ru/arkhangelsk.htm"
+  },
+  "Artyom,RU": {
+    "href": "https://radiomap.eu/ru/artyom.htm"
+  },
+  "Arzamas,RU": {
+    "href": "https://radiomap.eu/ru/arzamas.htm"
+  },
+  "Astrakhan,RU": {
+    "href": "https://radiomap.eu/ru/astrakhan.htm"
+  },
+  "Balakovo,RU": {
+    "href": "https://radiomap.eu/ru/balakovo.htm"
+  },
+  "Balashov,RU": {
+    "href": "https://radiomap.eu/ru/balashov.htm"
+  },
+  "Bălți,MD": {
+    "href": "https://radiomap.eu/md/balti.htm"
+  },
+  "Barnaul,RU": {
+    "href": "https://radiomap.eu/ru/barnaul.htm"
+  },
+  "Belgorod,RU": {
+    "href": "https://radiomap.eu/ru/belgorod.htm"
+  },
+  "Belogorsk,RU": {
+    "href": "https://radiomap.eu/ru/belogorsk.htm"
+  },
+  "Berdyansk,RU": {
+    "href": "https://radiomap.eu/ru/berdyansk.htm"
+  },
+  "Berezniki,RU": {
+    "href": "https://radiomap.eu/ru/brezniki.htm"
+  },
+  "Birobidzhan,RU": {
+    "href": "https://radiomap.eu/ru/birobidzhan.htm"
+  },
+  "Biysk,RU": {
+    "href": "https://radiomap.eu/ru/biysk.htm"
+  },
+  "Blagoveshchensk,RU": {
+    "href": "https://radiomap.eu/ru/blagoveshchensk.htm"
+  },
+  "Bolhrad,UA": {
+    "href": "https://radiomap.eu/ua/bolgrad.htm"
+  },
+  "Bobruysk,BY": {
+    "href": "https://radiomap.eu/by/bobruysk.htm"
+  },
+  "Borisoglebsk,RU": {
+    "href": "https://radiomap.eu/ru/borisoglebsk.htm"
+  },
+  "Bratsk,RU": {
+    "href": "https://radiomap.eu/ru/barnaul.htm"
+  },
+  "Brest,BY": {
+    "href": "https://radiomap.eu/by/brest.htm"
+  },
+  "Bryansk,RU": {
+    "href": "https://radiomap.eu/ru/bryansk.htm"
+  },
+  "Cheboksary,RU": {
+    "href": "https://radiomap.eu/ru/cheboksary.htm"
+  },
+  "Chelyabinsk,RU": {
+    "href": "https://radiomap.eu/ru/chelyabinsk.htm"
+  },
+  "Cherepovets,RU": {
+    "href": "https://radiomap.eu/ru/cherepovets.htm"
+  },
+  "Cherkasy,UA": {
+    "href": "https://radiomap.eu/ua/cherkasy.htm"
+  },
+  "Chernihiv,UA": {
+    "href": "https://radiomap.eu/ua/chernihiv.htm"
+  },
+  "Chernivtsi,UA": {
+    "href": "https://radiomap.eu/ua/chernivtsi.htm"
+  },
+  "Chișinău,MD": {
+    "href": "https://radiomap.eu/md/chisinau.htm"
+  },
+  "Chita,UA": {
+    "href": "https://radiomap.eu/ua/chita.htm"
+  },
+  "Comrat,MD": {
+    "href": "https://radiomap.eu/md/comrat.htm"
+  },
+  "Dnipro,UA": {
+    "href": "https://radiomap.eu/ua/dnipro.htm"
+  },
+  "Donetsk,RU": {
+    "href": "https://radiomap.eu/ru/donetsk.htm"
+  },
+  "Ekaterinburg,RU": {
+    "href": "https://radiomap.eu/ru/ekaterinburg.htm"
+  },
+  "Elista,RU": {
+    "href": "https://radiomap.eu/ru/elista.htm"
+  },
+  "Evpatoria,RU": {
+    "href": "https://radiomap.eu/ru/evpatoria.htm"
+  },
+  "Gomel,BY": {
+    "href": "https://radiomap.eu/by/gomel.htm"
+  },
+  "Gorno-Altaysk,RU": {
+    "href": "https://radiomap.eu/ru/gorno-altaysk.htm"
+  },
+  "Grodno,BY": {
+    "href": "https://radiomap.eu/by/grodno.htm"
+  },
+  "Grozny,RU": {
+    "href": "https://radiomap.eu/ru/grozny.htm"
+  },
+  "Irkutsk,RU": {
+    "href": "https://radiomap.eu/ru/irkutsk.htm"
+  },
+  "Ishim,RU": {
+    "href": "https://radiomap.eu/ru/ishim.htm"
+  },
+  "Ivanovo,RU": {
+    "href": "https://radiomap.eu/ru/ivanovo.htm"
+  },
+  "Izhevsk,RU": {
+    "href": "https://radiomap.eu/ru/izhevsk.htm"
+  },
+  "Izmail,UA": {
+    "href": "https://radiomap.eu/ua/izmail.htm"
+  },
+  "Ivano-Frankivsk,UA": {
+    "href": "https://radiomap.eu/ua/ivano-frankivsk.htm"
+  },
+  "Kaliningrad,RU": {
+    "href": "https://radiomap.eu/ru/kaliningrad.htm"
+  },
+  "Kaluga,RU": {
+    "href": "https://radiomap.eu/ru/kaluga.htm"
+  },
+  "Kamensk-Uralsky,RU": {
+    "href": "https://radiomap.eu/ru/kamensk-uralsky.htm"
+  },
+  "Kamyshin,RU": {
+    "href": "https://radiomap.eu/ru/kamyshin.htm"
+  },
+  "Kansk,RU": {
+    "href": "https://radiomap.eu/ru/kansk.htm"
+  },
+  "Kazan,RU": {
+    "href": "https://radiomap.eu/ru/kazan.htm"
+  },
+  "Kemerovo,UA": {
+    "href": "https://radiomap.eu/ua/kemerovo.htm"
+  },
+  "Kerch,RU": {
+    "href": "https://radiomap.eu/ru/kerch.htm"
+  },
+  "Khabarovsk,RU": {
+    "href": "https://radiomap.eu/ru/khabarovsk.htm"
+  },
+  "Khanty-Mansiysk,RU": {
+    "href": "https://radiomap.eu/ru/khanty-mansiysk.htm"
+  },
+  "Kharkiv,UA": {
+    "href": "https://radiomap.eu/ua/kharkiv.htm"
+  },
+  "Kherson,UA": {
+    "href": "https://radiomap.eu/ua/kherson.htm"
+  },
+  "Khmelnytskyi,UA": {
+    "href": "https://radiomap.eu/ua/khmelnytskyi.htm"
+  },
+  "Kingisepp,RU": {
+    "href": "https://radiomap.eu/ru/kingisepp.htm"
+  },
+  "Kirov,RU": {
+    "href": "https://radiomap.eu/ru/kirov.htm"
+  },
+  "Klin,RU": {
+    "href": "https://radiomap.eu/ru/klin.htm"
+  },
+  "Kolomna,RU": {
+    "href": "https://radiomap.eu/ru/kolomna.htm"
+  },
+  "Komsomolsk-on-Amur,RU": {
+    "href": "https://radiomap.eu/ru/komsomolsk-na-amure.htm"
+  },
+  "Kostroma,RU": {
+    "href": "https://radiomap.eu/ru/kostroma.htm"
+  },
+  "Kotlas,RU": {
+    "href": "https://radiomap.eu/ru/kotlas.htm"
+  },
+  "Kovrov,RU": {
+    "href": "https://radiomap.eu/ru/kovrov.htm"
+  },
+  "Krasnodar,RU": {
+    "href": "https://radiomap.eu/ru/krasnodar.htm"
+  },
+  "Krasnoyarsk,RU": {
+    "href": "https://radiomap.eu/ru/krasnoyarsk.htm"
+  },
+  "Kremenchuk,UA": {
+    "href": "https://radiomap.eu/ua/kremenchuk.htm"
+  },
+  "Kropyvnytskyi,UA": {
+    "href": "https://radiomap.eu/ua/kropyvnytskyi.htm"
+  },
+  "Kryvyi Rih,UA": {
+    "href": "https://radiomap.eu/ua/kryvyi-rih.htm"
+  },
+  "Kungur,RU": {
+    "href": "https://radiomap.eu/ru/kungur.htm"
+  },
+  "Kurgan,RU": {
+    "href": "https://radiomap.eu/ru/kurgan.htm"
+  },
+  "Kursk,RU": {
+    "href": "https://radiomap.eu/ru/kursk.htm"
+  },
+  "Kyiv,UA": {
+    "href": "https://radiomap.eu/ua/kyiv.htm"
+  },
+  "Kyzyl,UA": {
+    "href": "https://radiomap.eu/ua/kyzyl.htm"
+  },
+  "Leninsk-Kuznetsky,RU": {
+    "href": "https://radiomap.eu/ru/leninsk-kuznetsky.htm"
+  },
+  "Lipetsk,RU": {
+    "href": "https://radiomap.eu/ru/lipetsk.htm"
+  },
+  "Luga,RU": {
+    "href": "https://radiomap.eu/ru/luga.htm"
+  },
+  "Lugansk,RU": {
+    "href": "https://radiomap.eu/ru/lugansk.htm"
+  },
+  "Lutsk,UA": {
+    "href": "https://radiomap.eu/ua/lutsk.htm"
+  },
+  "Lviv,UA": {
+    "href": "https://radiomap.eu/ua/lviv.htm"
+  },
+  "Magadan,RU": {
+    "href": "https://radiomap.eu/ru/madagan.htm"
+  },
+  "Magnitogorsk,RU": {
+    "href": "https://radiomap.eu/ru/magnitogorsk.htm"
+  },
+  "Makhachkala,RU": {
+    "href": "https://radiomap.eu/ru/makhachkala.htm"
+  },
+  "Mariupol,RU": {
+    "href": "https://radiomap.eu/ru/mariupol.htm"
+  },
+  "Melitopol,RU": {
+    "href": "https://radiomap.eu/ru/melitopol.htm"
+  },
+  "Mezhdurechensk,RU": {
+    "href": "https://radiomap.eu/ru/mezhdurechensk.htm"
+  },
+  "Miass,RU": {
+    "href": "https://radiomap.eu/ru/miass.htm"
+  },
+  "Michurinsk,RU": {
+    "href": "https://radiomap.eu/ru/michurinsk.htm"
+  },
+  "Mikhaylovka,RU": {
+    "href": "https://radiomap.eu/ru/mikhaylovka.htm"
+  },
+  "Minsk,BY": {
+    "href": "https://radiomap.eu/by/minsk.htm"
+  },
+  "Mirny,RU": {
+    "href": "https://radiomap.eu/ru/mirny.htm"
+  },
+  "Mogilev,BY": {
+    "href": "https://radiomap.eu/by/mogilev.htm"
+  },
+  "Monchegorsk,RU": {
+    "href": "https://radiomap.eu/ru/monchegorsk.htm"
+  },
+  "Moscow,RU": {
+    "href": "https://radiomap.eu/ru/moskva.htm"
+  },
+  "Murmansk,RU": {
+    "href": "https://radiomap.eu/ru/murmansk.htm"
+  },
+  "Murom,RU": {
+    "href": "https://radiomap.eu/ru/murom.htm"
+  },
+  "Mykolaiv,UA": {
+    "href": "https://radiomap.eu/ua/mykolaiv.htm"
+  },
+  "Naberezhnye Chelny,RU": {
+    "href": "https://radiomap.eu/ru/naberezhnye-chelny.htm"
+  },
+  "Nadym,RU": {
+    "href": "https://radiomap.eu/ru/nadym.htm"
+  },
+  "Nakhodka,RU": {
+    "href": "https://radiomap.eu/ru/nakhodka.htm"
+  },
+  "Nalchik,RU": {
+    "href": "https://radiomap.eu/ru/nalchik.htm"
+  },
+  "Naryan-Mar,RU": {
+    "href": "https://radiomap.eu/ru/naryan-mar.htm"
+  },
+  "Neftekamsk,RU": {
+    "href": "https://radiomap.eu/ru/neftekamsk.htm"
+  },
+  "Neryungri,RU": {
+    "href": "https://radiomap.eu/ru/neryungri.htm"
+  },
+  "Nizhnevartovsk,RU": {
+    "href": "https://radiomap.eu/ru/nizhnevartovsk.htm"
+  },
+  "Nizhny Novgorod,RU": {
+    "href": "https://radiomap.eu/ru/nizhny-novgorod.htm"
+  },
+  "Nizhny Tagil,RU": {
+    "href": "https://radiomap.eu/ru/nizhny-tagil.htm"
+  },
+  "Norilsk,RU": {
+    "href": "https://radiomap.eu/ru/norilsk.htm"
+  },
+  "Novokuznetsk,RU": {
+    "href": "https://radiomap.eu/ru/novokuznetsk.htm"
+  },
+  "Novorossiysk,RU": {
+    "href": "https://radiomap.eu/ru/novorossiysk.htm"
+  },
+  "Novosibirsk,RU": {
+    "href": "https://radiomap.eu/ru/novosibirsk.htm"
+  },
+  "Novy Urengoy,RU": {
+    "href": "https://radiomap.eu/ru/novy-urengoy.htm"
+  },
+  "Noyabrsk,RU": {
+    "href": "https://radiomap.eu/ru/noyabrsk.htm"
+  },
+  "Odesa,UA": {
+    "href": "https://radiomap.eu/ua/odesa.htm"
+  },
+  "Omsk,RU": {
+    "href": "https://radiomap.eu/ru/omsk.htm"
+  },
+  "Orekhovo-Zuyevo,RU": {
+    "href": "https://radiomap.eu/ru/orekhovo-zuyevo.htm"
+  },
+  "Orenburg,RU": {
+    "href": "https://radiomap.eu/ru/orenburg.htm"
+  },
+  "Orsk,RU": {
+    "href": "https://radiomap.eu/ru/orsk.htm"
+  },
+  "Oryol,RU": {
+    "href": "https://radiomap.eu/ru/oryol.htm"
+  },
+  "Penza,RU": {
+    "href": "https://radiomap.eu/ru/penza.htm"
+  },
+  "Perm,RU": {
+    "href": "https://radiomap.eu/ru/perm.htm"
+  },
+  "Petrozavodsk,RU": {
+    "href": "https://radiomap.eu/ru/petrozavodsk.htm"
+  },
+  "Petropavlovsk-Kamchatsky,RU": {
+    "href": "https://radiomap.eu/ru/petropavlovsk-kamchatsky.htm"
+  },
+  "Pinsk,BY": {
+    "href": "https://radiomap.eu/by/pinsk.htm"
+  },
+  "Podporozhye,RU": {
+    "href": "https://radiomap.eu/ru/podporozhye.htm"
+  },
+  "Poltava,UA": {
+    "href": "https://radiomap.eu/ua/poltava.htm"
+  },
+  "Pskov,RU": {
+    "href": "https://radiomap.eu/ru/pskov.htm"
+  },
+  "Pyatigorsk,RU": {
+    "href": "https://radiomap.eu/ru/pyatigorsk.htm"
+  },
+  "Rivne,UA": {
+    "href": "https://radiomap.eu/ua/rivne.htm"
+  },
+  "Rostov-on-Don,RU": {
+    "href": "https://radiomap.eu/ru/rostov-na-donu.htm"
+  },
+  "Rubtsovsk,RU": {
+    "href": "https://radiomap.eu/ru/rubtsovsk.htm"
+  },
+  "Ryazan,RU": {
+    "href": "https://radiomap.eu/ru/ryazan.htm"
+  },
+  "Rybinsk,RU": {
+    "href": "https://radiomap.eu/ru/rybinsk.htm"
+  },
+  "Rybnitsa,PMR": {
+    "href": "https://radiomap.eu/pmr/rybnitsa.htm"
+  },
+  "Rzhev,RU": {
+    "href": "https://radiomap.eu/ru/rzhev.htm"
+  },
+  "Saint Petersburg,RU": {
+    "href": "https://radiomap.eu/ru/sankt-peterburg.htm"
+  },
+  "Salekhard,RU": {
+    "href": "https://radiomap.eu/ru/salekhard.htm"
+  },
+  "Samara,RU": {
+    "href": "https://radiomap.eu/ru/samara.htm"
+  },
+  "Saransk,RU": {
+    "href": "https://radiomap.eu/ru/saransk.htm"
+  },
+  "Saratov,RU": {
+    "href": "https://radiomap.eu/ru/saratov.htm"
+  },
+  "Sergiyev Posad,RU": {
+    "href": "https://radiomap.eu/ru/sergiyev-posad.htm"
+  },
+  "Serov,RU": {
+    "href": "https://radiomap.eu/ru/serov.htm"
+  },
+  "Serpukhov,RU": {
+    "href": "https://radiomap.eu/ru/serpukhov.htm"
+  },
+  "Sevastopol,RU": {
+    "href": "https://radiomap.eu/ru/sevastopol.htm"
+  },
+  "Severobaykalsk,RU": {
+    "href": "https://radiomap.eu/ru/severobaykalsk.htm"
+  },
+  "Severodvinsk,RU": {
+    "href": "https://radiomap.eu/ru/severodvinsk.htm"
+  },
+  "Shadrinsk,RU": {
+    "href": "https://radiomap.eu/ru/shadrinsk.htm"
+  },
+  "Shakhty,RU": {
+    "href": "https://radiomap.eu/ru/shakhty.htm"
+  },
+  "Simferopol,RU": {
+    "href": "https://radiomap.eu/ru/simferopol.htm"
+  },
+  "Smolensk,RU": {
+    "href": "https://radiomap.eu/ru/smolensk.htm"
+  },
+  "Sochi,RU": {
+    "href": "https://radiomap.eu/ru/sochi.htm"
+  },
+  "Stary Oskol,RU": {
+    "href": "https://radiomap.eu/ru/stary-oskol.htm"
+  },
+  "Stavropol,RU": {
+    "href": "https://radiomap.eu/ru/stavropol.htm"
+  },
+  "Sterlitamak,RU": {
+    "href": "https://radiomap.eu/ru/sterlitamak.htm"
+  },
+  "Surgut,RU": {
+    "href": "https://radiomap.eu/ru/surut.htm"
+  },
+  "Sumy,UA": {
+    "href": "https://radiomap.eu/ua/sumy.htm"
+  },
+  "Svobodny,RU": {
+    "href": "https://radiomap.eu/ru/svobodny.htm"
+  },
+  "Syktyvkar,RU": {
+    "href": "https://radiomap.eu/ru/syktyvkar.htm"
+  },
+  "Taganrog,RU": {
+    "href": "https://radiomap.eu/ru/taganrog.htm"
+  },
+  "Tambov,RU": {
+    "href": "https://radiomap.eu/ru/tambov.htm"
+  },
+  "Taraclia,MD": {
+    "href": "https://radiomap.eu/md/taraclia.htm"
+  },
+  "Ternopil,UA": {
+    "href": "https://radiomap.eu/ua/ternopil.htm"
+  },
+  "Tikhvin,RU": {
+    "href": "https://radiomap.eu/ru/tikhvin.htm"
+  },
+  "Tiraspol,PMR": {
+    "href": "https://radiomap.eu/pmr/tiraspol.htm"
+  },
+  "Tobolsk,RU": {
+    "href": "https://radiomap.eu/ru/tobolsk.htm"
+  },
+  "Togliatti,RU": {
+    "href": "https://radiomap.eu/ru/togliatti.htm"
+  },
+  "Tomsk,RU": {
+    "href": "https://radiomap.eu/ru/tomsk.htm"
+  },
+  "Torzhok,UA": {
+    "href": "https://radiomap.eu/ua/torzhok.htm"
+  },
+  "Tula,RU": {
+    "href": "https://radiomap.eu/ru/tula.htm"
+  },
+  "Tver,RU": {
+    "href": "https://radiomap.eu/ru/tver.htm"
+  },
+  "Tyumen,RU": {
+    "href": "https://radiomap.eu/ru/tyumen.htm"
+  },
+  "Ufa,RU": {
+    "href": "https://radiomap.eu/ru/ufa.htm"
+  },
+  "Ukhta,RU": {
+    "href": "https://radiomap.eu/ru/ukhta.htm"
+  },
+  "Ulan-Ude,RU": {
+    "href": "https://radiomap.eu/ru/ulan-ude.htm"
+  },
+  "Ulyanovsk,RU": {
+    "href": "https://radiomap.eu/ru/ulyanovsk.htm"
+  },
+  "Uryupinsk,RU": {
+    "href": "https://radiomap.eu/ru/uryupinsk.htm"
+  },
+  "Ussuriysk,RU": {
+    "href": "https://radiomap.eu/ru/ussuriysk.htm"
+  },
+  "Ust-Ilimsk,RU": {
+    "href": "https://radiomap.eu/ru/ust-ilimsk.htm"
+  },
+  "Uzhhorod,UA": {
+    "href": "https://radiomap.eu/ua/uzhhorod.htm"
+  },
+  "Velikie Luki,RU": {
+    "href": "https://radiomap.eu/ru/velikie-luki.htm"
+  },
+  "Veliky Novgorod,RU": {
+    "href": "https://radiomap.eu/ru/veliky-novgorod.htm"
+  },
+  "Vinnytsia,UA": {
+    "href": "https://radiomap.eu/ua/vinnytsia.htm"
+  },
+  "Vitebsk,BY": {
+    "href": "https://radiomap.eu/by/vitebsk.htm"
+  },
+  "Vladikavkaz,RU": {
+    "href": "https://radiomap.eu/ru/vladikavkaz.htm"
+  },
+  "Vladimir,RU": {
+    "href": "https://radiomap.eu/ru/vladimir.htm"
+  },
+  "Vladivostok,RU": {
+    "href": "https://radiomap.eu/ru/vladivostok.htm"
+  },
+  "Volgodonsk,RU": {
+    "href": "https://radiomap.eu/ru/volgodonsk.htm"
+  },
+  "Volgograd,RU": {
+    "href": "https://radiomap.eu/ru/volgograd.htm"
+  },
+  "Vologda,RU": {
+    "href": "https://radiomap.eu/ru/vologda.htm"
+  },
+  "Vorkuta,RU": {
+    "href": "https://radiomap.eu/ru/vorkuta.htm"
+  },
+  "Voronezh,RU": {
+    "href": "https://radiomap.eu/ru/voronezh.htm"
+  },
+  "Vyborg,RU": {
+    "href": "https://radiomap.eu/ru/vyborg.htm"
+  },
+  "Yakutsk,RU": {
+    "href": "https://radiomap.eu/ru/yakutsk.htm"
+  },
+  "Yalta,RU": {
+    "href": "https://radiomap.eu/ru/yalta.htm"
+  },
+  "Yaroslavl,RU": {
+    "href": "https://radiomap.eu/ru/yaroslavl.htm"
+  },
+  "Yelets,RU": {
+    "href": "https://radiomap.eu/ru/elets.htm"
+  },
+  "Yoshkar-Ola,RU": {
+    "href": "https://radiomap.eu/ru/yoshkar-ola.htm"
+  },
+  "Yuzhno-Sakhalinsk,RU": {
+    "href": "https://radiomap.eu/ru/yuzhno-sakhalinsk.htm"
+  },
+  "Zaporizhzhia,UA": {
+    "href": "https://radiomap.eu/ua/zaporizhzhia.htm"
+  },
+  "Zheleznogorsk,RU": {
+    "href": "https://radiomap.eu/ru/zheleznogorsk.htm"
+  },
+  "Zhytomyr,UA": {
+    "href": "https://radiomap.eu/ua/zhytomyr.htm"
+  },
+  "Zlatoust,RU": {
+    "href": "https://radiomap.eu/ru/zlatoust.htm"
+  },
+  "Adana,TR": {
+    "href": "https://radiomap.eu/tr/adana.htm"
+  },
+  "Alexandroupoli,GR": {
+    "href": "https://radiomap.eu/gr/alexandroupoli.htm"
+  },
+  "Ankara,TR": {
+    "href": "https://radiomap.eu/tr/ankara.htm"
+  },
+  "Antalya,TR": {
+    "href": "https://radiomap.eu/tr/antalya.htm"
+  },
+  "Athens,GR": {
+    "href": "https://radiomap.eu/gr/athina.htm"
+  },
+  "Baku,AZ": {
+    "href": "https://radiomap.eu/az/baki.htm"
+  },
+  "Batumi,GE": {
+    "href": "https://radiomap.eu/ge/batumi.htm"
+  },
+  "Bursa,TR": {
+    "href": "https://radiomap.eu/tr/bursa.htm"
+  },
+  "Edirne,TR": {
+    "href": "https://radiomap.eu/tr/edirne.htm"
+  },
+  "Gazimağusa,KK": {
+    "href": "https://radiomap.eu/kk/gazimagusa.htm"
+  },
+  "Girne,KK": {
+    "href": "https://radiomap.eu/kk/girne.htm"
+  },
+  "Ganja,AZ": {
+    "href": "https://radiomap.eu/az/ganca.htm"
+  },
+  "Gyumri,AM": {
+    "href": "https://radiomap.eu/am/gyumri.htm"
+  },
+  "Heraklion,GR": {
+    "href": "https://radiomap.eu/gr/iraklio.htm"
+  },
+  "İstanbul,TR": {
+    "href": "https://radiomap.eu/tr/istanbul.htm"
+  },
+  "İzmir,TR": {
+    "href": "https://radiomap.eu/tr/izmir.htm"
+  },
+  "Kavala,GR": {
+    "href": "https://radiomap.eu/gr/kavala.htm"
+  },
+  "Kırklareli,TR": {
+    "href": "https://radiomap.eu/tr/kirklareli.htm"
+  },
+  "Komotini,GR": {
+    "href": "https://radiomap.eu/gr/komotini.htm"
+  },
+  "Konya,TR": {
+    "href": "https://radiomap.eu/tr/konya.htm"
+  },
+  "Kutaisi,GE": {
+    "href": "https://radiomap.eu/ge/kutaisi.htm"
+  },
+  "Kuzey Lefkoşa,KK": {
+    "href": "https://radiomap.eu/kk/lefkosa.htm"
+  },
+  "Larnaka,CY": {
+    "href": "https://radiomap.eu/cy/larnaka.htm"
+  },
+  "Larissa,GR": {
+    "href": "https://radiomap.eu/gr/larisa.htm"
+  },
+  "Lefkosia,CY": {
+    "href": "https://radiomap.eu/cy/lefkosia.htm"
+  },
+  "Lemesos,CY": {
+    "href": "https://radiomap.eu/cy/lemesos.htm"
+  },
+  "Pafos,CY": {
+    "href": "https://radiomap.eu/cy/pafos.htm"
+  },
+  "Patras,GR": {
+    "href": "https://radiomap.eu/gr/patra.htm"
+  },
+  "Rhodes,GR": {
+    "href": "https://radiomap.eu/gr/rodos.htm"
+  },
+  "Stepanakert,NKR": {
+    "href": "https://radiomap.eu/nkr/stepanakert.htm"
+  },
+  "Sukhumi,AB": {
+    "href": "https://radiomap.eu/ab/sukhum.htm"
+  },
+  "Tbilisi,GE": {
+    "href": "https://radiomap.eu/ge/tbilisi.htm"
+  },
+  "Thessaloniki,GR": {
+    "href": "https://radiomap.eu/gr/thessaloniki.htm"
+  },
+  "Trabzon,TR": {
+    "href": "https://radiomap.eu/tr/trabzon.htm"
+  },
+  "Tskhinvali,OS": {
+    "href": "https://radiomap.eu/os/tskhinval.htm"
+  },
+  "Xanthi,GR": {
+    "href": "https://radiomap.eu/gr/xanthi.htm"
+  },
+  "Yerevan,AM": {
+    "href": "https://radiomap.eu/am/yerevan.htm"
+  },
+  "Abu Dhabi,AE": {
+    "href": "https://worldradiomap.com/ae/abu-dhabi.htm"
+  },
+  "Aden,YE": {
+    "href": "https://worldradiomap.com/ye/aden.htm"
+  },
+  "Ahvaz,IR": {
+    "href": "https://worldradiomap.com/ir/ahvaz.htm"
+  },
+  "Amman,JO": {
+    "href": "https://worldradiomap.com/jo/amman.htm"
+  },
+  "Baghdad,IQ": {
+    "href": "https://worldradiomap.com/iq/baghdad.htm"
+  },
+  "Bandar Abbas,IR": {
+    "href": "https://worldradiomap.com/ir/bandar-abbas.htm"
+  },
+  "Basra,IQ": {
+    "href": "https://worldradiomap.com/iq/basrah.htm"
+  },
+  "Beirut,LB": {
+    "href": "https://worldradiomap.com/lb/beirut.htm"
+  },
+  "Damascus,SY": {
+    "href": "https://worldradiomap.com/sy/dimashq.htm"
+  },
+  "Doha,QA": {
+    "href": "https://worldradiomap.com/qa/doha.htm"
+  },
+  "Dubai,AE": {
+    "href": "https://worldradiomap.com/ae/dubai.htm"
+  },
+  "Erbil,KRD": {
+    "href": "https://worldradiomap.com/krd/hewler.htm"
+  },
+  "Haifa,IL": {
+    "href": "https://worldradiomap.com/il/haifa.htm"
+  },
+  "Isfahan,IR": {
+    "href": "https://worldradiomap.com/ir/esfahan.htm"
+  },
+  "Jeddah,SA": {
+    "href": "https://worldradiomap.com/sa/jeddah.htm"
+  },
+  "Jerusalem,IL": {
+    "href": "https://worldradiomap.com/il/yerushalayim.htm"
+  },
+  "Kermanshah,IR": {
+    "href": "https://worldradiomap.com/ir/kermanshah.htm"
+  },
+  "Kuwait City,KW": {
+    "href": "https://worldradiomap.com/kw/kuwait.htm"
+  },
+  "Manama,BH": {
+    "href": "https://worldradiomap.com/bh/manama.htm"
+  },
+  "Mashhad,IR": {
+    "href": "https://worldradiomap.com/ir/mashhad.htm"
+  },
+  "Mecca,SA": {
+    "href": "https://worldradiomap.com/sa/makkah.htm"
+  },
+  "Medina,SA": {
+    "href": "https://worldradiomap.com/sa/al-madinah.htm"
+  },
+  "Muscat,OM": {
+    "href": "https://worldradiomap.com/om/masqat.htm"
+  },
+  "Ramallah,PS": {
+    "href": "https://worldradiomap.com/ps/ramallah.htm"
+  },
+  "Riyadh,SA": {
+    "href": "https://worldradiomap.com/sa/ar-riyadh.htm"
+  },
+  "Sana'a,YE": {
+    "href": "https://worldradiomap.com/ye/sanaa.htm"
+  },
+  "Shiraz,IR": {
+    "href": "https://worldradiomap.com/ir/shiraz.htm"
+  },
+  "Tabriz,IR": {
+    "href": "https://worldradiomap.com/ir/tabriz.htm"
+  },
+  "Tehran,IR": {
+    "href": "https://worldradiomap.com/ir/tehran.htm"
+  },
+  "Tel Aviv,IL": {
+    "href": "https://worldradiomap.com/il/tel-aviv.htm"
+  },
+  "Almaty,KZ": {
+    "href": "https://worldradiomap.com/kz/almaty.htm"
+  },
+  "Aqtau,KZ": {
+    "href": "https://worldradiomap.com/kz/aqtau.htm"
+  },
+  "Aqtöbe,KZ": {
+    "href": "https://worldradiomap.com/kz/aqtobe.htm"
+  },
+  "Astana,KZ": {
+    "href": "https://worldradiomap.com/kz/astana.htm"
+  },
+  "Aşgabat,TM": {
+    "href": "https://worldradiomap.com/tm/ashgabat.htm"
+  },
+  "Atyrau,KZ": {
+    "href": "https://worldradiomap.com/kz/atyrau.htm"
+  },
+  "Bishkek,KG": {
+    "href": "https://worldradiomap.com/kg/bishkek.htm"
+  },
+  "Dushanbe,TJ": {
+    "href": "https://worldradiomap.com/tj/dushanbe.htm"
+  },
+  "Nukus,UZ": {
+    "href": "https://worldradiomap.com/uz/nukus.htm"
+  },
+  "Oral,KZ": {
+    "href": "https://worldradiomap.com/kz/oral.htm"
+  },
+  "Osh,KG": {
+    "href": "https://worldradiomap.com/kg/osh.htm"
+  },
+  "Öskemen,KZ": {
+    "href": "https://worldradiomap.com/kz/oskemen.htm"
+  },
+  "Pavlodar,KZ": {
+    "href": "https://worldradiomap.com/kz/pavlodar.htm"
+  },
+  "Petropavl,KZ": {
+    "href": "https://worldradiomap.com/kz/petropavl.htm"
+  },
+  "Qarağandy,KZ": {
+    "href": "https://worldradiomap.com/kz/qaragandy.htm"
+  },
+  "Samarqand,UZ": {
+    "href": "https://worldradiomap.com/uz/samarqand.htm"
+  },
+  "Semei,KZ": {
+    "href": "https://worldradiomap.com/kz/semei.htm"
+  },
+  "Şymkent,KZ": {
+    "href": "https://worldradiomap.com/kz/shymkent.htm"
+  },
+  "Toshkent,UZ": {
+    "href": "https://worldradiomap.com/uz/toshkent.htm"
+  },
+  "Agra,IN": {
+    "href": "https://worldradiomap.com/in/agra.htm"
+  },
+  "Ahmedabad,IN": {
+    "href": "https://worldradiomap.com/in/ahmedabad.htm"
+  },
+  "Bengaluru,IN": {
+    "href": "https://worldradiomap.com/in/bengaluru.htm"
+  },
+  "Chennai,IN": {
+    "href": "https://worldradiomap.com/in/chennai.htm"
+  },
+  "Colombo,LK": {
+    "href": "https://worldradiomap.com/lk/colombo.htm"
+  },
+  "Delhi,IN": {
+    "href": "https://worldradiomap.com/in/delhi.htm"
+  },
+  "Dhaka,BD": {
+    "href": "https://worldradiomap.com/bd/dhaka.htm"
+  },
+  "Hyderabad,IN": {
+    "href": "https://worldradiomap.com/in/hyderabad.htm"
+  },
+  "Islamabad,PK": {
+    "href": "https://worldradiomap.com/pk/islamabad.htm"
+  },
+  "Jaipur,IN": {
+    "href": "https://worldradiomap.com/in/jaipur.htm"
+  },
+  "Kabul,AF": {
+    "href": "https://worldradiomap.com/af/kabul.htm"
+  },
+  "Kanpur,IN": {
+    "href": "https://worldradiomap.com/in/kanpur.htm"
+  },
+  "Karachi,PK": {
+    "href": "https://worldradiomap.com/pk/karachi.htm"
+  },
+  "Kathmandu,NP": {
+    "href": "https://worldradiomap.com/np/kathmandu.htm"
+  },
+  "Kolkata,IN": {
+    "href": "https://worldradiomap.com/in/kolkata.htm"
+  },
+  "Lahore,PK": {
+    "href": "https://worldradiomap.com/pk/lahore.htm"
+  },
+  "Lucknow,IN": {
+    "href": "https://worldradiomap.com/in/lucknow.htm"
+  },
+  "Malé,MV": {
+    "href": "https://worldradiomap.com/mv/male.htm"
+  },
+  "Mumbai,IN": {
+    "href": "https://worldradiomap.com/in/mumbai.htm"
+  },
+  "Nagpur,IN": {
+    "href": "https://worldradiomap.com/in/pune.htm"
+  },
+  "Pune,IN": {
+    "href": "https://worldradiomap.com/in/pune.htm"
+  },
+  "Surat,IN": {
+    "href": "https://worldradiomap.com/in/surat.htm"
+  },
+  "Thimphu,BT": {
+    "href": "https://worldradiomap.com/bt/btimphu.htm"
+  },
+  "Bandar Seri Begawan,BN": {
+    "href": "https://worldradiomap.com/bn/bandar-seri-begawan.htm"
+  },
+  "Bangkok,TH": {
+    "href": "https://worldradiomap.com/th/krung-thep.htm"
+  },
+  "Cebu City,PH": {
+    "href": "https://worldradiomap.com/ph/cebu.htm"
+  },
+  "Chiang Mai,TH": {
+    "href": "https://worldradiomap.com/th/chiang-mai.htm"
+  },
+  "Davao City,PH": {
+    "href": "https://worldradiomap.com/ph/davao.htm"
+  },
+  "Dili,TL": {
+    "href": "https://worldradiomap.com/tl/dili.htm"
+  },
+  "George Town,MY": {
+    "href": "https://worldradiomap.com/my/george-town.htm"
+  },
+  "Hanoi,VN": {
+    "href": "https://worldradiomap.com/vn/hanoi.htm"
+  },
+  "Ho Chi Minh City,VN": {
+    "href": "https://worldradiomap.com/vn/hochiminh.htm"
+  },
+  "Ipoh,MY": {
+    "href": "https://worldradiomap.com/my/ipoh.htm"
+  },
+  "Jakarta,ID": {
+    "href": "https://worldradiomap.com/id/jakarta.htm"
+  },
+  "Kuala Lumpur,MY": {
+    "href": "https://worldradiomap.com/my/kuala-lumpur.htm"
+  },
+  "Manila,PH": {
+    "href": "https://worldradiomap.com/ph/manila.htm"
+  },
+  "Medan,ID": {
+    "href": "https://worldradiomap.com/id/medan.htm"
+  },
+  "Palembang,ID": {
+    "href": "https://worldradiomap.com/id/palembang.htm"
+  },
+  "Pattaya,TH": {
+    "href": "https://worldradiomap.com/th/pattaya.htm"
+  },
+  "Phnom Penh,KH": {
+    "href": "https://worldradiomap.com/kh/phnom-penh.htm"
+  },
+  "Phuket,TH": {
+    "href": "https://worldradiomap.com/th/phuket.htm"
+  },
+  "Singapore,SG": {
+    "href": "https://worldradiomap.com/sg/singapore.htm"
+  },
+  "Surabaya,ID": {
+    "href": "https://worldradiomap.com/id/surabaya.htm"
+  },
+  "Vientiane,LA": {
+    "href": "https://worldradiomap.com/la/vientiane.htm"
+  },
+  "Yangon,MM": {
+    "href": "https://worldradiomap.com/mm/yangon.htm"
+  },
+  "Beijing,CN": {
+    "href": "https://worldradiomap.com/cn/beijing.htm"
+  },
+  "Busan,KR": {
+    "href": "https://worldradiomap.com/kr/busan.htm"
+  },
+  "Changchun,CN": {
+    "href": "https://worldradiomap.com/cn/changchun.htm"
+  },
+  "Chengdu,CN": {
+    "href": "https://worldradiomap.com/cn/chengdu.htm"
+  },
+  "Chongqing,CN": {
+    "href": "https://worldradiomap.com/cn/chongqing.htm"
+  },
+  "Daegu,KR": {
+    "href": "https://worldradiomap.com/kr/daegu.htm"
+  },
+  "Dalian,CN": {
+    "href": "https://worldradiomap.com/cn/dalian.htm"
+  },
+  "Fukuoka,JP": {
+    "href": "https://worldradiomap.com/jp/fukuoka.htm"
+  },
+  "Guangzhou,CN": {
+    "href": "https://worldradiomap.com/cn/guangzhou.htm"
+  },
+  "Harbin,CN": {
+    "href": "https://worldradiomap.com/cn/harbin.htm"
+  },
+  "Hiroshima,JP": {
+    "href": "https://worldradiomap.com/jp/hiroshima.htm"
+  },
+  "Hong Kong,HK": {
+    "href": "https://worldradiomap.com/hk/hong-kong.htm"
+  },
+  "Kyoto,JP": {
+    "href": "https://worldradiomap.com/jp/kyoto.htm"
+  },
+  "Macau,MO": {
+    "href": "https://worldradiomap.com/mo/macau.htm"
+  },
+  "Nagoya,JP": {
+    "href": "https://worldradiomap.com/jp/nagoya.htm"
+  },
+  "Naha,JP": {
+    "href": "https://worldradiomap.com/jp/naha.htm"
+  },
+  "Nanjing,CN": {
+    "href": "https://worldradiomap.com/cn/nanjing.htm"
+  },
+  "Niigata,JP": {
+    "href": "https://worldradiomap.com/jp/niigata.htm"
+  },
+  "Osaka,JP": {
+    "href": "https://worldradiomap.com/jp/osaka.htm"
+  },
+  "Pyongyang,KP": {
+    "href": "https://worldradiomap.com/kp/pyongyang.htm"
+  },
+  "Qingdao,CN": {
+    "href": "https://worldradiomap.com/cn/qingdao.htm"
+  },
+  "Sapporo,JP": {
+    "href": "https://worldradiomap.com/jp/sapporo.htm"
+  },
+  "Sendai,JP": {
+    "href": "https://worldradiomap.com/jp/sendai.htm"
+  },
+  "Seoul,KR": {
+    "href": "https://worldradiomap.com/kr/seoul.htm"
+  },
+  "Shanghai,CN": {
+    "href": "https://worldradiomap.com/cn/shanghai.htm"
+  },
+  "Shenyang,CN": {
+    "href": "https://worldradiomap.com/cn/shenyang.htm"
+  },
+  "Shijiazhuang,CN": {
+    "href": "https://worldradiomap.com/cn/shijiazhuang.htm"
+  },
+  "Taipei,TW": {
+    "href": "https://worldradiomap.com/tw/taipei.htm"
+  },
+  "Tianjin,CN": {
+    "href": "https://worldradiomap.com/cn/tianjin.htm"
+  },
+  "Tokyo,JP": {
+    "href": "https://worldradiomap.com/jp/tokyo.htm"
+  },
+  "Ulan Bator,MN": {
+    "href": "https://worldradiomap.com/mn/ulaanbaatar.htm"
+  },
+  "Ürümqi,CN": {
+    "href": "https://worldradiomap.com/cn/urumqi.htm"
+  },
+  "Wuhan,CN": {
+    "href": "https://worldradiomap.com/cn/wuhan.htm"
+  },
+  "Xian,CN": {
+    "href": "https://worldradiomap.com/cn/xian.htm"
+  },
+  "Zhengzhou,CN": {
+    "href": "https://worldradiomap.com/cn/zhengzhou.htm"
+  },
+  "Adelaide,AU": {
+    "href": "https://worldradiomap.com/au/adelaide.htm"
+  },
+  "Albany,AU": {
+    "href": "https://worldradiomap.com/au/albany.htm"
+  },
+  "Alice Springs,AU": {
+    "href": "https://worldradiomap.com/au/alice-springs.htm"
+  },
+  "Alofi,NU": {
+    "href": "https://worldradiomap.com/nu/alofi.htm"
+  },
+  "Apia,WS": {
+    "href": "https://worldradiomap.com/ws/apia.htm"
+  },
+  "Auckland,NZ": {
+    "href": "https://worldradiomap.com/nz/auckland.htm"
+  },
+  "Avarua,CK": {
+    "href": "https://worldradiomap.com/ck/avarua.htm"
+  },
+  "Bendigo,AU": {
+    "href": "https://worldradiomap.com/au/bendigo.htm"
+  },
+  "Brisbane,AU": {
+    "href": "https://worldradiomap.com/au/brisbane.htm"
+  },
+  "Bunbury,AU": {
+    "href": "https://worldradiomap.com/au/bunbury.htm"
+  },
+  "Cairns,AU": {
+    "href": "https://worldradiomap.com/au/cairns.htm"
+  },
+  "Canberra,AU": {
+    "href": "https://worldradiomap.com/au/canberra.htm"
+  },
+  "Christchurch,NZ": {
+    "href": "https://worldradiomap.com/nz/christchurch.htm"
+  },
+  "Darwin,AU": {
+    "href": "https://worldradiomap.com/au/darwin.htm"
+  },
+  "Dunedin,NZ": {
+    "href": "https://worldradiomap.com/nz/dunedin.htm"
+  },
+  "Dubbo,AU": {
+    "href": "https://worldradiomap.com/au/dubbo.htm"
+  },
+  "Funafuti,TV": {
+    "href": "https://worldradiomap.com/tv/funafuti.htm"
+  },
+  "Geelong,AU": {
+    "href": "https://worldradiomap.com/au/geelong.htm"
+  },
+  "Gold Coast,AU": {
+    "href": "https://worldradiomap.com/au/gold-coast.htm"
+  },
+  "Hagåtña,GU": {
+    "href": "https://worldradiomap.com/gu/hagatna.htm"
+  },
+  "Hamilton,NZ": {
+    "href": "https://worldradiomap.com/nz/hamilton.htm"
+  },
+  "Hobart,AU": {
+    "href": "https://worldradiomap.com/au/hobart.htm"
+  },
+  "Honiara,SB": {
+    "href": "https://worldradiomap.com/sb/honiara.htm"
+  },
+  "Karratha,AU": {
+    "href": "https://worldradiomap.com/au/karratha.htm"
+  },
+  "Koror,PW": {
+    "href": "https://worldradiomap.com/pw/koror.htm"
+  },
+  "Launceston,AU": {
+    "href": "https://worldradiomap.com/au/launceston.htm"
+  },
+  "Majuro,MH": {
+    "href": "https://worldradiomap.com/mh/majuro.htm"
+  },
+  "Mackay,AU": {
+    "href": "https://worldradiomap.com/au/mackay.htm"
+  },
+  "Melbourne,AU": {
+    "href": "https://worldradiomap.com/au/melbourne.htm"
+  },
+  "Mildura,AU": {
+    "href": "https://worldradiomap.com/au/mildura.htm"
+  },
+  "Newcastle,AU": {
+    "href": "https://worldradiomap.com/au/newcastle.htm"
+  },
+  "Nouméa,NC": {
+    "href": "https://worldradiomap.com/nc/noumea.htm"
+  },
+  "Nuku'alofa,TO": {
+    "href": "https://worldradiomap.com/to/nukualofa.htm"
+  },
+  "Pago Pago,AS": {
+    "href": "https://worldradiomap.com/as/pago-pago.htm"
+  },
+  "Palikir,FM": {
+    "href": "https://worldradiomap.com/fm/plaikir.htm"
+  },
+  "Papeete,PF": {
+    "href": "https://worldradiomap.com/pf/papeete.htm"
+  },
+  "Perth,AU": {
+    "href": "https://worldradiomap.com/au/perth.htm"
+  },
+  "Port Moresby,PG": {
+    "href": "https://worldradiomap.com/pg/port-moresby.htm"
+  },
+  "Port Vila,VU": {
+    "href": "https://worldradiomap.com/vu/port-vila.htm"
+  },
+  "Saipan,MP": {
+    "href": "https://worldradiomap.com/mp/saipan.htm"
+  },
+  "Suva,FJ": {
+    "href": "https://worldradiomap.com/fj/suva.htm"
+  },
+  "Sydney,AU": {
+    "href": "https://worldradiomap.com/au/sydney.htm"
+  },
+  "Tarawa,KI": {
+    "href": "https://worldradiomap.com/ki/tarawa.htm"
+  },
+  "Townsville,AU": {
+    "href": "https://worldradiomap.com/au/townsville.htm"
+  },
+  "Wellington,NZ": {
+    "href": "https://worldradiomap.com/nz/wellington.htm"
+  },
+  "Weno,FM": {
+    "href": "https://worldradiomap.com/fm/weno.htm"
+  },
+  "Wagga Wagga,AU": {
+    "href": "https://worldradiomap.com/au/wagga-wagga.htm"
+  },
+  "Wollongong,AU": {
+    "href": "https://worldradiomap.com/au/wollongong.htm"
+  },
+  "Yaren,NR": {
+    "href": "https://worldradiomap.com/nr/yaren.htm"
+  },
+  "Alexandria,EG": {
+    "href": "https://worldradiomap.com/eg/al-iskandariyah.htm"
+  },
+  "Alger,DZ": {
+    "href": "https://worldradiomap.com/dz/alger.htm"
+  },
+  "Aswan,EG": {
+    "href": "https://worldradiomap.com/eg/aswan.htm"
+  },
+  "Cairo,EG": {
+    "href": "https://worldradiomap.com/eg/al-qahirah.htm"
+  },
+  "Casablanca,MA": {
+    "href": "https://worldradiomap.com/ma/casablanca.htm"
+  },
+  "Fès,MA": {
+    "href": "https://worldradiomap.com/ma/fes.htm"
+  },
+  "Khartoum,SD": {
+    "href": "https://worldradiomap.com/sd/khartoumr.htm"
+  },
+  "Luxor,EG": {
+    "href": "https://worldradiomap.com/eg/al-uqsur.htm"
+  },
+  "Marrakech,MA": {
+    "href": "https://worldradiomap.com/ma/marrakech.htm"
+  },
+  "Nouakchott,MR": {
+    "href": "https://worldradiomap.com/mr/nouakchott.htm"
+  },
+  "Rabat,MA": {
+    "href": "https://worldradiomap.com/ma/rabat.htm"
+  },
+  "Tanger,MA": {
+    "href": "https://worldradiomap.com/ma/tanger.htm"
+  },
+  "Tripoli,LY": {
+    "href": "https://worldradiomap.com/ly/tripoli.htm"
+  },
+  "Tunis,TN": {
+    "href": "https://worldradiomap.com/tn/tunis.htm"
+  },
+  "Abidjan,CI": {
+    "href": "https://worldradiomap.com/ci/abidjan.htm"
+  },
+  "Abuja,NG": {
+    "href": "https://worldradiomap.com/ng/abuja.htm"
+  },
+  "Accra,GH": {
+    "href": "https://worldradiomap.com/gh/accra.htm"
+  },
+  "Bamako,ML": {
+    "href": "https://worldradiomap.com/ml/bamako.htm"
+  },
+  "Banjul,GM": {
+    "href": "https://worldradiomap.com/gm/banjul.htm"
+  },
+  "Bissau,GW": {
+    "href": "https://worldradiomap.com/gw/bissau.htm"
+  },
+  "Bouaké,CI": {
+    "href": "https://worldradiomap.com/ci/bouake.htm"
+  },
+  "Conakry,GN": {
+    "href": "https://worldradiomap.com/gn/conakry.htm"
+  },
+  "Cotonou,BJ": {
+    "href": "https://worldradiomap.com/bj/cotonou.htm"
+  },
+  "Dakar,SN": {
+    "href": "https://worldradiomap.com/sn/dakar.htm"
+  },
+  "Freetown,SL": {
+    "href": "https://worldradiomap.com/sl/freetown.htm"
+  },
+  "Ibadan,NG": {
+    "href": "https://worldradiomap.com/ng/ibadan.htm"
+  },
+  "Kano,NG": {
+    "href": "https://worldradiomap.com/ng/kano.htm"
+  },
+  "Kumasi,GH": {
+    "href": "https://worldradiomap.com/gh/kumasi.htm"
+  },
+  "Lagos,NG": {
+    "href": "https://worldradiomap.com/ng/lagos.htm"
+  },
+  "Lomé,TG": {
+    "href": "https://worldradiomap.com/tg/lome.htm"
+  },
+  "Monrovia,LR": {
+    "href": "https://worldradiomap.com/lr/monrovia.htm"
+  },
+  "Niamey,NE": {
+    "href": "https://worldradiomap.com/ne/niamey.htm"
+  },
+  "Ouagadougou,BF": {
+    "href": "https://worldradiomap.com/bf/ouagadougou.htm"
+  },
+  "Port Harcourt,NG": {
+    "href": "https://worldradiomap.com/ng/port-harcourt.htm"
+  },
+  "Praia,CV": {
+    "href": "https://worldradiomap.com/cv/praia.htm"
+  },
+  "Saint-Louis,SN": {
+    "href": "https://worldradiomap.com/sn/saint-louis.htm"
+  },
+  "Sekondi-Takoradi,GH": {
+    "href": "https://worldradiomap.com/gh/sekondi-takoradi.htm"
+  },
+  "Yamoussoukro,CI": {
+    "href": "https://worldradiomap.com/ci/yamoussoukro.htm"
+  },
+  "Bangui,CF": {
+    "href": "https://worldradiomap.com/cf/bangui.htm"
+  },
+  "Brazzaville,CG": {
+    "href": "https://worldradiomap.com/cg/brazzaville.htm"
+  },
+  "Douala,CM": {
+    "href": "https://worldradiomap.com/cm/douala.htm"
+  },
+  "Kinshasa,CD": {
+    "href": "https://worldradiomap.com/cd/kinshasa.htm"
+  },
+  "Kisangani,CD": {
+    "href": "https://worldradiomap.com/cd/kisangani.htm"
+  },
+  "Libreville,GA": {
+    "href": "https://worldradiomap.com/ga/libreville.htm"
+  },
+  "Luanda,AO": {
+    "href": "https://worldradiomap.com/ao/luanda.htm"
+  },
+  "Lubumbashi,CD": {
+    "href": "https://worldradiomap.com/cd/lubumbashi.htm"
+  },
+  "Malabo,GQ": {
+    "href": "https://worldradiomap.com/gq/malabo.htm"
+  },
+  "Mbuji-Mayi,CD": {
+    "href": "https://worldradiomap.com/cd/mbujimayi.htm"
+  },
+  "N'Djamena,TD": {
+    "href": "https://worldradiomap.com/td/ndjamena.htm"
+  },
+  "São Tomé,ST": {
+    "href": "https://worldradiomap.com/st/sao-tome.htm"
+  },
+  "Yaoundé,CM": {
+    "href": "https://worldradiomap.com/cm/yaounde.htm"
+  },
+  "Addis Ababa,ET": {
+    "href": "https://worldradiomap.com/et/addis-abeba.htm"
+  },
+  "Asmara,ER": {
+    "href": "https://worldradiomap.com/er/asmera.htm"
+  },
+  "Bujumbura,BI": {
+    "href": "https://worldradiomap.com/bi/bujumbura.htm"
+  },
+  "Dar es Salaam,TZ": {
+    "href": "https://worldradiomap.com/tz/dar-es-salaam.htm"
+  },
+  "Djibouti,DJ": {
+    "href": "https://worldradiomap.com/dj/dibouti.htm"
+  },
+  "Hargeisa,SML": {
+    "href": "https://worldradiomap.com/sml/hargeysa.htm"
+  },
+  "Juba,SS": {
+    "href": "https://worldradiomap.com/ss/juba.htm"
+  },
+  "Kampala,UG": {
+    "href": "https://worldradiomap.com/ug/kampala.htm"
+  },
+  "Kigali,RW": {
+    "href": "https://worldradiomap.com/rw/kigali.htm"
+  },
+  "Kisumu,KE": {
+    "href": "https://worldradiomap.com/ke/kisumu.htm"
+  },
+  "Mogadishu,SO": {
+    "href": "https://worldradiomap.com/so/muqdisho.htm"
+  },
+  "Mombasa,KE": {
+    "href": "https://worldradiomap.com/ke/mombasa.htm"
+  },
+  "Nairobi,KE": {
+    "href": "https://worldradiomap.com/ke/nairobi.htm"
+  },
+  "Zanzibar,TZ": {
+    "href": "https://worldradiomap.com/tz/zanzibar.htm"
+  },
+  "Antananarivo,MG": {
+    "href": "https://worldradiomap.com/mg/antananarivo.htm"
+  },
+  "Beira,MZ": {
+    "href": "https://worldradiomap.com/mz/beira.htm"
+  },
+  "Blantyre,MW": {
+    "href": "https://worldradiomap.com/mw/blantyre.htm"
+  },
+  "Bloemfontein,ZA": {
+    "href": "https://worldradiomap.com/za/bloemfontein.htm"
+  },
+  "Bulawayo,ZW": {
+    "href": "https://worldradiomap.com/zw/bulawayo.htm"
+  },
+  "Cape Town,ZA": {
+    "href": "https://worldradiomap.com/za/cape-town.htm"
+  },
+  "Durban,ZA": {
+    "href": "https://worldradiomap.com/za/durban.htm"
+  },
+  "Gaborone,BW": {
+    "href": "https://worldradiomap.com/bw/gaborone.htm"
+  },
+  "Georgetown,AC": {
+    "href": "https://worldradiomap.com/ac/georgetown.htm"
+  },
+  "Harare,ZW": {
+    "href": "https://worldradiomap.com/zw/harare.htm"
+  },
+  "Jamestown,SH": {
+    "href": "https://worldradiomap.com/sh/jamestown.htm"
+  },
+  "Johannesburg,ZA": {
+    "href": "https://worldradiomap.com/za/johannesburg.htm"
+  },
+  "Kitwe,ZM": {
+    "href": "https://worldradiomap.com/zm/kitwe.htm"
+  },
+  "Lilongwe,MW": {
+    "href": "https://worldradiomap.com/mw/lilongwe.htm"
+  },
+  "Livingstone,ZM": {
+    "href": "https://worldradiomap.com/zm/livingstone.htm"
+  },
+  "Lusaka,ZM": {
+    "href": "https://worldradiomap.com/zm/lusaka.htm"
+  },
+  "Mamoudzou,YT": {
+    "href": "https://worldradiomap.com/yt/mamoudzou.htm"
+  },
+  "Maputo,MZ": {
+    "href": "https://worldradiomap.com/mz/maputo.htm"
+  },
+  "Maseru,LS": {
+    "href": "https://worldradiomap.com/ls/maseru.htm"
+  },
+  "Mbabane,SZ": {
+    "href": "https://worldradiomap.com/sz/mbabane.htm"
+  },
+  "Moroni,KM": {
+    "href": "https://worldradiomap.com/km/moroni.htm"
+  },
+  "Mzuzu,MW": {
+    "href": "https://worldradiomap.com/mw/mzuzu.htm"
+  },
+  "Nampula,MZ": {
+    "href": "https://worldradiomap.com/mz/nampula.htm"
+  },
+  "Port Elizabeth,ZA": {
+    "href": "https://worldradiomap.com/za/port-elizabeth.htm"
+  },
+  "Port Louis,MU": {
+    "href": "https://worldradiomap.com/mu/port-louis.htm"
+  },
+  "Port Mathurin,MU": {
+    "href": "https://worldradiomap.com/mu/port-mathurin.htm"
+  },
+  "Pretoria,ZA": {
+    "href": "https://worldradiomap.com/za/pretoria.htm"
+  },
+  "Saint-Denis,RE": {
+    "href": "https://worldradiomap.com/re/saint-denis.htm"
+  },
+  "Tete,MZ": {
+    "href": "https://worldradiomap.com/mz/tete.htm"
+  },
+  "Victoria,SC": {
+    "href": "https://worldradiomap.com/sc/victoria.htm"
+  },
+  "Windhoek,NA": {
+    "href": "https://worldradiomap.com/na/windhoek.htm"
+  }
+}
