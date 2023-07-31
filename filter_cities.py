@@ -3,7 +3,7 @@
 
     Usage: filter_cities.py <population> <input_file.csv> <output_file.csv>
     Cities over 1M:
-    ./filter_cities.py 1000000 'worldcities.csv' 'cities.csv'
+    ./filter_cities.py 1000000 'csv/worldcities.csv' 'csv/cities.csv'
 """
 
 import sys
