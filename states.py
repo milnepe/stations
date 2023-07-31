@@ -1,3 +1,4 @@
+#! /usr/bin/python
 """US States dictionary"""
 
 from bs4 import BeautifulSoup
@@ -61,5 +62,5 @@ def states_dictionary():
 if __name__ == '__main__':
     states = states_dictionary()
 
-    with open('states.json', 'w', encoding='utf8') as f:
-        json.dump(states, f, ensure_ascii=False)
+    with open('json/states.json', 'w', encoding='utf8') as f:
+        json.dump(states, f, indent=2, ensure_ascii=False)
