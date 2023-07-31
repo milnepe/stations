@@ -52,7 +52,6 @@ def city_stations_dict(countries=None):
     try:
         with urllib.request.urlopen(req, timeout=5) as html:
             soup = BeautifulSoup(html, 'html.parser')
-            print(soup)
     except Exception as error:
         print(error)
 
@@ -75,7 +74,6 @@ def city_stations_dict(countries=None):
 
         if countries:
             if country in countries:
-                print(city)
                 # create dict
                 cities[city] = {}
                 cities[city]['href'] = href
