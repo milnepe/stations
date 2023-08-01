@@ -13,18 +13,19 @@ import remove_href
 
 STATION_LIMIT = 20  # max number of stations per city
 # STATION_DATASET = 'https://worldradiomap.com/list'
+SIMPLEMAPS_DATASET = 'csv/worldcities-modified.csv'
 
-
-def run(city_dataset):
+def run(worldradiomap_json_file, station_json_file):
     '''Generates the stations Json file'''
 
     # Get the worldradiomap dictionary of URL and index for each city
-    with open("json/worldradiomap.json", "r") as read_file:
+    # This can be regenerated with worldradiomap.py
+    with open(worldradiomap_json_file, "r") as read_file:
         worldradiomap_cities_dict = json.load(read_file)
 
     # Generate both utf-8 and ascii city dictionaries
-    simplemaps_city_dict = simplemaps.city_dict(city_dataset, 'utf8')
-    simplemaps_city_ascii_dict = simplemaps.city_dict(city_dataset, 'ascii')
+    simplemaps_city_dict = simplemaps.city_dict(SIMPLEMAPS_DATASET, 'utf8')
+    simplemaps_city_ascii_dict = simplemaps.city_dict(SIMPLEMAPS_DATASET, 'ascii')
 
     # Match cities
     worldradiomap_city_index = [city for city in worldradiomap_cities_dict]
@@ -99,7 +100,8 @@ def run(city_dataset):
 
         stations[city[0]].update({'urls': stations_list})
 
-    with open('json/out.json', 'w', encoding='utf8') as f:
+    # Uouput stations.json file
+    with open(station_json_file, 'w', encoding='utf8') as f:
         json.dump(stations, f, indent=2, ensure_ascii=False)
 
     print('Worldradiomaps Cities Indexed:', len(worldradiomap_cities_dict))
@@ -111,7 +113,16 @@ def run(city_dataset):
 
 
 if __name__ == '__main__':
+    """
+    Export stations.json file
+    eg: ./main.py 'json/worldradiomap.json' 'json/stations.json'
+    """
     import sys
 
-    run('csv/test.csv')
+    worldradiomap_json_file = sys.argv[1]
+    station_json_file = sys.argv[2]
+
+    #run('csv/test.csv')
     #run('csv/worldcities-modified.csv')
+    run(worldradiomap_json_file, station_json_file)
+
