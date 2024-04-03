@@ -1,7 +1,4 @@
-import pprint
-import logging
-import time
-
+"""Utility modules that return station info by city"""
 
 EMPTY_STRING = ''
 
@@ -26,18 +23,25 @@ def get_station_list(stations: dict, city: str) -> list:
 
 
 if __name__ == '__main__':
+    """
+    Search a city and play any matching stations
+    eg: python cities.py '../stations.json' 'London'
+    """
+    stations_file = sys.argv[1]
+    city_string = sys.argv[2]
+
+    CLIP_DURATION = 10  # seconds
+
     import sys
     import files
     import vlc
-
-    stations_file = sys.argv[1]
-    city_string = sys.argv[2]
+    import pprint
+    import logging
+    import time
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
     # logging.getLogger().setLevel(logging.DEBUG)
-
-    CLIP_DURATION = 10  # seconds
 
     stations = files.load_stations(stations_file)
     cities = get_cities_list(stations, city_string)
@@ -52,15 +56,16 @@ if __name__ == '__main__':
         print(city)
         pprint.pp(station_list)
 
-        # for station in station_list:
-            # station_name = station['name']
-            # station_url = station['url']
+        # Now play list
+        for station in station_list:
+            station_name = station['name']
+            station_url = station['url']
 
-            # logging.info(f"Playing {station_name}, {station_url}")
-            # logging.debug("Starting player...")
-            # streamer = vlc.MediaPlayer(station_url)
-            # streamer.play()
-            # time.sleep(CLIP_DURATION)
-            # logging.debug("Stopping player...")
-            # streamer.stop()
-            # time.sleep(1)
+            logging.info(f"Playing {station_name}, {station_url}")
+            logging.debug("Starting player...")
+            streamer = vlc.MediaPlayer(station_url)
+            streamer.play()
+            time.sleep(CLIP_DURATION)
+            logging.debug("Stopping player...")
+            streamer.stop()
+            time.sleep(1)
