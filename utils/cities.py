@@ -1,10 +1,10 @@
 import pprint
-import streaming
 import logging
 import time
 
 
 EMPTY_STRING = ''
+
 
 def get_cities_list(stations: dict, city: str) -> list:
     """Return list of cities from a stations dict matching city string"""
@@ -26,24 +26,26 @@ def get_station_list(stations: dict, city: str) -> list:
 
 if __name__ == '__main__':
     import sys
-    import subprocess
     import files
+    import vlc
+
+    stations_file = sys.argv[1]
+    city_string = sys.argv[2]
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
-    logging.getLogger().setLevel(logging.DEBUG)
+    # logging.getLogger().setLevel(logging.DEBUG)
 
     CLIP_DURATION = 10  # seconds
-    audio = 'pulse'  # alsa or pulse
 
-    stations = files.load_stations(sys.argv[1])
-    cities = get_cities_list(stations, sys.argv[2])
+    stations = files.load_stations(stations_file)
+    cities = get_cities_list(stations, city_string)
     if cities:
         pprint.pp(cities)
     else:
         print("Not found")
         exit()
-    
+
     for city in cities:
         station_list = get_station_list(stations, city)
         print(city)
@@ -52,13 +54,12 @@ if __name__ == '__main__':
         for station in station_list:
             station_name = station['name']
             station_url = station['url']
-            time.sleep(1)
 
             logging.info(f"Playing {station_name}, {station_url}")
-            if streaming.check_url(station_url) is not None:
-                streamer = streaming.Streamer(audio, station_url)
-                streamer.play()
-                time.sleep(CLIP_DURATION)
-                streamer.stop()
-            else:
-                logging.info("Bad URL, %s, %s", station_name, station_url)
+            logging.debug("Starting player...")
+            streamer = vlc.MediaPlayer(station_url)
+            streamer.play()
+            time.sleep(CLIP_DURATION)
+            logging.debug("Stopping player...")
+            streamer.stop()
+            time.sleep(1)
