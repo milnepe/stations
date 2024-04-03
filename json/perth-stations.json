@@ -1,0 +1,91 @@
+{
+  "Perth,AU": {
+    "href": "https://worldradiomap.com/au/perth.htm",
+    "coords": {
+      "n": -31.9559,
+      "e": 115.8606
+    },
+    "urls": [
+      {
+        "name": "珀斯中文广播电台",
+        "url": "http://streamer2.rightclickitservices.com:7200/listen.pls"
+      },
+      {
+        "name": "6WSM Sport FM",
+        "url": "http://203.59.231.157:8000/live.m3u"
+      },
+      {
+        "name": "6PPM Triple M Perth",
+        "url": "https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8"
+      },
+      {
+        "name": "6PER Nova 93.7",
+        "url": "https://playerservices.streamtheworld.com/pls/NOVA_937_AAC48.pls"
+      },
+      {
+        "name": "6MIX Mix 94.5",
+        "url": "https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8"
+      },
+      {
+        "name": "6EBA World Radio",
+        "url": "http://198.143.129.179/listen.pls?sid=1"
+      },
+      {
+        "name": "6NOW 96FM",
+        "url": "http://ais-arn.streamguys1.com/au_012_icy"
+      },
+      {
+        "name": "6SBSFM SBS Radio 2",
+        "url": "http://sbs-ice.streamguys1.com/sbs2-sbs-web"
+      },
+      {
+        "name": "6ABCFM ABC Classic",
+        "url": "http://live-radio01.mediahubaustralia.com/6FMW/mp3/"
+      },
+      {
+        "name": "6SON Sonshine FM",
+        "url": "http://stream2.cnmns.net/sfm-mp3"
+      },
+      {
+        "name": "6JJJ ABC triple j",
+        "url": "http://live-radio01.mediahubaustralia.com/6TJW/mp3/"
+      },
+      {
+        "name": "6NR Curtin Radio",
+        "url": "https://usa7.fastcast4u.com/proxy/curtinfm?mp=/1"
+      },
+      {
+        "name": "6NME Noongar Radio",
+        "url": "http://110.141.204.50:80/NoongarRadio.m3u"
+      },
+      {
+        "name": "6SEN Capital Community Radio",
+        "url": "http://ic2463.c1788.fast-serv.com/stream"
+      },
+      {
+        "name": "6HFM Heritage FM",
+        "url": "http://45.77.235.175:8000/listen.pls?sid=1"
+      },
+      {
+        "name": "6CCR Radio Fremantle",
+        "url": "http://203.59.4.85:8000/live.m3u"
+      },
+      {
+        "name": "6PB ABC News Radio",
+        "url": "http://live-radio01.mediahubaustralia.com/PBW/mp3/"
+      },
+      {
+        "name": "SEN Track",
+        "url": "https://d1130opf5avdkb.cloudfront.net/playlist.m3u8"
+      },
+      {
+        "name": "6WF ABC Radio Perth",
+        "url": "http://live-radio01.mediahubaustralia.com/6LRW/mp3/"
+      },
+      {
+        "name": "6RN ABC Radio National",
+        "url": "http://live-radio01.mediahubaustralia.com/6RNW/mp3/"
+      }
+    ]
+  }
+}
