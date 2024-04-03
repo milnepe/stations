@@ -20,8 +20,9 @@ def get_station_list(stations: dict, city: str) -> list:
     """Return a list of stations from a station dict matching a valid city"""
     for key in stations[city]:
         if key == 'urls':
-            stations_list = (stations[city][key])
+            stations_list = stations[city][key]
             return stations_list
+    return []
 
 
 if __name__ == '__main__':
@@ -51,15 +52,15 @@ if __name__ == '__main__':
         print(city)
         pprint.pp(station_list)
 
-        for station in station_list:
-            station_name = station['name']
-            station_url = station['url']
+        # for station in station_list:
+            # station_name = station['name']
+            # station_url = station['url']
 
-            logging.info(f"Playing {station_name}, {station_url}")
-            logging.debug("Starting player...")
-            streamer = vlc.MediaPlayer(station_url)
-            streamer.play()
-            time.sleep(CLIP_DURATION)
-            logging.debug("Stopping player...")
-            streamer.stop()
-            time.sleep(1)
+            # logging.info(f"Playing {station_name}, {station_url}")
+            # logging.debug("Starting player...")
+            # streamer = vlc.MediaPlayer(station_url)
+            # streamer.play()
+            # time.sleep(CLIP_DURATION)
+            # logging.debug("Stopping player...")
+            # streamer.stop()
+            # time.sleep(1)
