@@ -89,14 +89,14 @@ if __name__ == '__main__':
     """Generate json representation of cities dictionary"""
     cities_dict = {}
     try:
-        # Pass in comma separated list of counties eg ./worldradiomap.py 'GB,US-CA'
+        # Pass in comma separated list of counties eg ./worldradiomap.py 'GB,US-CA' 'json/worldradiomap.json'
         countries = sys.argv[1].split(sep=",")
         cities_dict = city_stations_dict(countries)
     except IndexError:
         # Index all eg ./worldradiomap.py
         cities_dict = city_stations_dict()
 
-    with open('json/worldradiomap.json', 'w', encoding='utf8') as f:
+    with open(sys.argv[2], 'w', encoding='utf8') as f:
         json.dump(cities_dict, f, indent=2, ensure_ascii=False)
 
     print('Worldradiomaps Dataset:', DATASET)
