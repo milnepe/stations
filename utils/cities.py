@@ -26,18 +26,22 @@ if __name__ == '__main__':
     """
     Search a city and play any matching stations
     eg: python cities.py '../stations.json' 'London'
+
+    https://github.com/oaubert/python-vlc/blob/master/README.module
     """
+    import sys
+    import files
+    import pprint
+    import logging
+    import time
+    import subprocess
+    import streaming
+    # import vlc
+
     stations_file = sys.argv[1]
     city_string = sys.argv[2]
 
     CLIP_DURATION = 10  # seconds
-
-    import sys
-    import files
-    import vlc
-    import pprint
-    import logging
-    import time
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
@@ -60,10 +64,11 @@ if __name__ == '__main__':
         for station in station_list:
             station_name = station['name']
             station_url = station['url']
-
             logging.info(f"Playing {station_name}, {station_url}")
-            logging.debug("Starting player...")
-            streamer = vlc.MediaPlayer(station_url)
+            logging.debug("Starting CVLC player...")
+            streamer = streaming.Streamer("pulse", station_url)
+            # logging.debug("Starting VLC player...")
+            # streamer = vlc.MediaPlayer(station_url)
             streamer.play()
             time.sleep(CLIP_DURATION)
             logging.debug("Stopping player...")
