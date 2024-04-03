@@ -26,9 +26,15 @@ def get_station_list(stations: dict, city: str) -> list:
 
 if __name__ == '__main__':
     import sys
+    import subprocess
     import files
 
+    format = "%(asctime)s: %(message)s"
+    logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
+    logging.getLogger().setLevel(logging.DEBUG)
+
     CLIP_DURATION = 10  # seconds
+    audio = 'pulse'  # alsa or pulse
 
     stations = files.load_stations(sys.argv[1])
     cities = get_cities_list(stations, sys.argv[2])
@@ -43,16 +49,16 @@ if __name__ == '__main__':
         print(city)
         pprint.pp(station_list)
 
-    for station in station_list:
-        station_name = station['name']
-        station_url = station['url']
-        print(station_name)
-        print(station_url)
-        # if streaming.check_url(station_url) is not None:
-        #     # logging.info("Playing URL, %s, %s", station_name, station_url)
-        #     streamer = streaming.Streamer('alsa', station_url)
-        #     streamer.play()
-        #     time.sleep(CLIP_DURATION)
-        #     streamer.stop()
-        # else:
-        #     # logging.info("Bad URL, %s, %s", station_name, station_url)
+        for station in station_list:
+            station_name = station['name']
+            station_url = station['url']
+            time.sleep(1)
+
+            logging.info(f"Playing {station_name}, {station_url}")
+            if streaming.check_url(station_url) is not None:
+                streamer = streaming.Streamer(audio, station_url)
+                streamer.play()
+                time.sleep(CLIP_DURATION)
+                streamer.stop()
+            else:
+                logging.info("Bad URL, %s, %s", station_name, station_url)

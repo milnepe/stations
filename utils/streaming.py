@@ -39,7 +39,7 @@ def set_volume(volume: int) -> int:
 def check_url(url: str) -> str:
     """Returns only good urls, or None"""
     try:
-        response = requests.get(url, timeout=0.1)
+        response = requests.get(url, timeout=0.4)
     except Timeout as e:
         logging.debug("URL Timeout, %s, %s", url, e)
     except Exception as e:
