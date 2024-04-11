@@ -35,5 +35,6 @@ def run(station_dataset, summary_file):
 
 
 if __name__ == '__main__':
+    """python stats.py json/stations.json json/stats.csv"""
     import sys
     run(sys.argv[1], sys.argv[2])
