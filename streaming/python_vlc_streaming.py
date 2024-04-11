@@ -47,7 +47,7 @@ class Streamer ():
 
 
 if __name__ == "__main__":
-    """python python-vlc-streaming.py ../stations.json"""
+    """python python_vlc_streaming.py ../json/london-stations.json"""
     import sys
 
     format = "%(asctime)s: %(message)s"
