@@ -1,0 +1,944 @@
+Andorra la Vella,AD,21
+Abu Dhabi,AE,14
+Dubai,AE,21
+Kabul,AF,7
+Tirana,AL,21
+Gyumri,AM,3
+Yerevan,AM,19
+Luanda,AO,13
+Bahía Blanca,AR,21
+Buenos Aires,AR,20
+Córdoba,AR,20
+La Plata,AR,21
+Mar del Plata,AR,21
+Mendoza,AR,21
+Rosario,AR,21
+Salta,AR,20
+San Miguel de Tucumán,AR,20
+Santa Fe,AR,21
+Ushuaia,AR,20
+Pago Pago,AS,4
+Graz,AT,12
+Innsburck,AT,14
+Klagenfurt,AT,9
+Linz,AT,12
+Salzburg,AT,19
+Wien,AT,21
+Adelaide,AU,21
+Alice Springs,AU,10
+Brisbane,AU,21
+Canberra,AU,20
+Darwin,AU,21
+Geelong,AU,7
+Gold Coast,AU,15
+Hobart,AU,18
+Melbourne,AU,21
+Newcastle,AU,13
+Perth,AU,21
+Sydney,AU,21
+Wollongong,AU,13
+Oranjestad,AW,16
+Baku,AZ,13
+Banja Luka,BA,21
+Sarajevo,BA,21
+Bridgetown,BB,9
+Dhaka,BD,20
+Antwerpen,BE,18
+Bruges,BE,20
+Bruxelles,BE,21
+Charleroi,BE,15
+Gent,BE,20
+Liège,BE,21
+Ouagadougou,BF,4
+Manama,BH,10
+Bujumbura,BI,10
+Cotonou,BJ,9
+Hamilton,BM,9
+Bandar Seri Begawan,BN,1
+La Paz,BO,17
+Belo Horizonte,BR,20
+Belém,BR,18
+Brasília,BR,18
+Cuiabá,BR,15
+Curitiba,BR,20
+Fortaleza,BR,17
+Foz do Iguaçu,BR,16
+Goiânia,BR,17
+Manaus,BR,20
+Natal,BR,16
+Porto Alegre,BR,18
+Recife,BR,16
+Rio de Janeiro,BR,20
+Salvador,BR,18
+São Paulo,BR,19
+Nassau,BS,16
+Gaborone,BW,5
+Brest,BY,17
+Minsk,BY,21
+Pinsk,BY,9
+Belize City,BZ,2
+Calgary,CA,21
+Edmonton,CA,21
+Fredericton,CA,14
+Halifax,CA,19
+Hamilton,CA,16
+Iqaluit,CA,5
+Kelowna,CA,10
+Kitchener,CA,18
+London,CA,18
+Moncton,CA,15
+Montréal,CA,21
+Ottawa,CA,21
+Regina,CA,16
+Saskatoon,CA,13
+Sault Ste. Marie,CA,15
+St. John's,CA,14
+Sudbury,CA,12
+Thunder Bay,CA,10
+Toronto,CA,21
+Vancouver,CA,20
+Victoria,CA,12
+Whitehorse,CA,7
+Winnipeg,CA,21
+Yellowknife,CA,6
+Kinshasa,CD,7
+Bangui,CF,3
+Brazzaville,CG,1
+Basel,CH,10
+Bern,CH,10
+Genève,CH,21
+Lugano,CH,21
+Zürich,CH,13
+Abidjan,CI,17
+Bouaké,CI,6
+Yamoussoukro,CI,6
+Avarua,CK,3
+Antofagasta,CL,21
+Concepción,CL,21
+Santiago,CL,20
+Valparaíso,CL,21
+Douala,CM,3
+Yaoundé,CM,1
+Beijing,CN,21
+Changchun,CN,19
+Chengdu,CN,21
+Chongqing,CN,10
+Dalian,CN,13
+Guangzhou,CN,18
+Harbin,CN,20
+Nanjing,CN,20
+Qingdao,CN,17
+Shanghai,CN,20
+Shenyang,CN,12
+Shijiazhuang,CN,18
+Tianjin,CN,7
+Wuhan,CN,19
+Zhengzhou,CN,21
+Ürümqi,CN,21
+Barranquilla,CO,21
+Bogotá,CO,20
+Cali,CO,21
+Cúcuta,CO,21
+Ibagué,CO,21
+Manizales,CO,21
+Medellín,CO,21
+San José,CR,16
+Camagüey,CU,9
+Santiago de Cuba,CU,10
+Praia,CV,9
+Willemstad,CW,18
+Brno,CZ,21
+Liberec,CZ,21
+Ostrava,CZ,17
+Plzeň,CZ,20
+Praha,CZ,21
+Aachen,DE,8
+Berlin,DE,20
+Bonn,DE,9
+Bremen,DE,19
+Cottbus,DE,12
+Dortmund,DE,11
+Dresden,DE,12
+Duisburg,DE,10
+Düsseldorf,DE,9
+Erfurt,DE,12
+Essen,DE,11
+Frankfurt am Main,DE,16
+Hamburg,DE,21
+Hannover,DE,11
+Heidelberg,DE,12
+Karlsruhe,DE,16
+Kiel,DE,15
+Köln,DE,14
+Leipzig,DE,14
+Magdeburg,DE,9
+Mainz,DE,21
+Mannheim,DE,21
+München,DE,18
+Münster,DE,9
+Nürnberg,DE,20
+Rostock,DE,15
+Stuttgart,DE,18
+Djibouti,DJ,2
+Aalborg,DK,12
+Aarhus,DK,19
+København,DK,20
+Odense,DK,14
+Roseau,DM,10
+Santo Domingo,DO,20
+Guayaquil,EC,20
+Quito,EC,15
+Narva,EE,9
+Pärnu,EE,16
+Tallinn,EE,21
+Tartu,EE,20
+Alexandria,EG,8
+Cairo,EG,14
+A Coruña,ES,21
+Alicante,ES,21
+Barcelona,ES,19
+Bilbao,ES,21
+Córdoba,ES,21
+Madrid,ES,21
+Marbella,ES,21
+Murcia,ES,20
+Málaga,ES,20
+Oviedo,ES,21
+Palma,ES,21
+Sevilla,ES,19
+Valladolid,ES,21
+València,ES,21
+Vigo,ES,21
+Zaragoza,ES,21
+Addis Ababa,ET,11
+Helsinki,FI,21
+Oulu,FI,21
+Rovaniemi,FI,18
+Tampere,FI,21
+Turku,FI,21
+Suva,FJ,13
+Stanley,FK,1
+Palikir,FM,1
+Tórshavn,FO,5
+Ajaccio,FR,21
+Bayonne,FR,21
+Bordeaux,FR,21
+Clermont-Ferrand,FR,20
+Dijon,FR,21
+Lille,FR,21
+Limoges,FR,21
+Lyon,FR,21
+Marseille,FR,21
+Metz,FR,21
+Montpellier,FR,21
+Nancy,FR,21
+Nantes,FR,21
+Nice,FR,21
+Orléans,FR,21
+Paris,FR,21
+Perpignan,FR,21
+Quimper,FR,21
+Reims,FR,21
+Rennes,FR,21
+Strasbourg,FR,21
+Toulouse,FR,21
+Libreville,GA,6
+Aberdeen,GB,12
+Belfast,GB,18
+Birmingham,GB,21
+Bristol,GB,16
+Cardiff,GB,15
+Derry,GB,10
+Dundee,GB,12
+Edinburgh,GB,15
+Glasgow,GB,21
+Kingston upon Hull,GB,13
+Leeds,GB,15
+Leicester,GB,17
+Liverpool,GB,15
+London,GB,24
+Manchester,GB,21
+Newcastle upon Tyne,GB,18
+Norwich,GB,14
+Nottingham,GB,17
+Oxford,GB,11
+Plymouth,GB,10
+Sheffield,GB,14
+Southampton,GB,20
+Swansea,GB,14
+Batumi,GE,11
+Kutaisi,GE,10
+Tbilisi,GE,20
+Cayenne,GF,15
+Kourou,GF,13
+Accra,GH,19
+Kumasi,GH,19
+Gibraltar,GI,6
+Nuuk,GL,2
+Banjul,GM,7
+Conakry,GN,11
+Pointe-à-Pitre,GP,16
+Malabo,GQ,1
+Alexandroupoli,GR,21
+Athens,GR,21
+Kavala,GR,21
+Komotini,GR,11
+Thessaloniki,GR,21
+Xanthi,GR,19
+Hagåtña,GU,11
+Bissau,GW,6
+Georgetown,GY,11
+Hong Kong,HK,13
+Dubrovnik,HR,11
+Osijek,HR,11
+Rijeka,HR,12
+Split,HR,11
+Zadar,HR,11
+Zagreb,HR,19
+Port-au-Prince,HT,21
+Budapest,HU,21
+Debrecen,HU,11
+Győr,HU,9
+Miskolc,HU,10
+Pécs,HU,10
+Szeged,HU,8
+Jakarta,ID,21
+Medan,ID,20
+Palembang,ID,15
+Surabaya,ID,21
+Cork,IE,13
+Dublin,IE,17
+Galway,IE,12
+Haifa,IL,5
+Jerusalem,IL,7
+Douglas,IM,9
+Agra,IN,1
+Chennai,IN,9
+Delhi,IN,8
+Hyderabad,IN,5
+Jaipur,IN,2
+Kolkata,IN,9
+Lucknow,IN,3
+Mumbai,IN,7
+Nagpur,IN,2
+Pune,IN,2
+Surat,IN,2
+Baghdad,IQ,12
+Basra,IQ,9
+Ahvaz,IR,13
+Kermanshah,IR,7
+Mashhad,IR,11
+Shiraz,IR,10
+Tabriz,IR,10
+Tehran,IR,19
+Reykjavík,IS,20
+Bari,IT,21
+Bologna,IT,21
+Bolzano,IT,21
+Cagliari,IT,18
+Catania,IT,21
+Firenze,IT,21
+Genova,IT,21
+Messina,IT,21
+Milano,IT,21
+Napoli,IT,21
+Palermo,IT,20
+Roma,IT,21
+Torino,IT,20
+Trento,IT,21
+Trieste,IT,21
+Venezia,IT,21
+Kingston,JM,17
+Amman,JO,19
+Fukuoka,JP,4
+Hiroshima,JP,4
+Kyoto,JP,5
+Nagoya,JP,4
+Naha,JP,6
+Niigata,JP,4
+Osaka,JP,5
+Sapporo,JP,6
+Sendai,JP,3
+Tokyo,JP,7
+Kisumu,KE,20
+Mombasa,KE,20
+Nairobi,KE,20
+Bishkek,KG,14
+Osh,KG,5
+Phnom Penh,KH,21
+Tarawa,KI,3
+Moroni,KM,2
+Basseterre,KN,7
+Busan,KR,10
+Daegu,KR,11
+Seoul,KR,12
+Kuwait City,KW,6
+George Town,KY,13
+Almaty,KZ,15
+Aqtau,KZ,9
+Aqtöbe,KZ,10
+Atyrau,KZ,10
+Oral,KZ,10
+Pavlodar,KZ,9
+Petropavl,KZ,9
+Öskemen,KZ,9
+Vientiane,LA,4
+Beirut,LB,20
+Castries,LC,11
+Vaduz,LI,6
+Colombo,LK,21
+Monrovia,LR,3
+Maseru,LS,8
+Kaunas,LT,21
+Klaipėda,LT,21
+Panevėžys,LT,19
+Vilnius,LT,21
+Šiauliai,LT,20
+Lëtzebuerg,LU,8
+Daugavpils,LV,17
+Liepāja,LV,21
+Rēzekne,LV,12
+Rīga,LV,21
+Valmiera,LV,14
+Ventspils,LV,17
+Tripoli,LY,9
+Casablanca,MA,18
+Fès,MA,17
+Marrakech,MA,18
+Rabat,MA,15
+Monaco,MC,21
+Comrat,MD,7
+Taraclia,MD,2
+Podgorica,ME,20
+Antananarivo,MG,15
+Majuro,MH,1
+Bamako,ML,13
+Macau,MO,2
+Fort-de-France,MQ,17
+Nouakchott,MR,5
+Valletta,MT,14
+Port Louis,MU,9
+Malé,MV,4
+Blantyre,MW,9
+Lilongwe,MW,7
+Cancún,MX,16
+Cd. de México,MX,21
+Durango,MX,13
+Guadalajara,MX,21
+La Paz,MX,9
+Monterrey,MX,18
+Mérida,MX,20
+Puebla,MX,21
+Tijuana,MX,20
+Veracruz,MX,20
+George Town,MY,21
+Ipoh,MY,21
+Kuala Lumpur,MY,21
+Maputo,MZ,9
+Windhoek,NA,18
+Nouméa,NC,5
+Niamey,NE,1
+Abuja,NG,13
+Ibadan,NG,11
+Kano,NG,10
+Lagos,NG,21
+Port Harcourt,NG,7
+Managua,NI,21
+Amsterdam,NL,21
+Den Haag,NL,21
+Eindhoven,NL,19
+Groningen,NL,21
+Rotterdam,NL,21
+Utrecht,NL,19
+Bergen,NO,3
+Bodø,NO,2
+Kirkenes,NO,1
+Kristiansand,NO,4
+Oslo,NO,6
+Stavanger,NO,4
+Tromsø,NO,1
+Trondheim,NO,2
+Kathmandu,NP,21
+Auckland,NZ,21
+Christchurch,NZ,21
+Dunedin,NZ,21
+Hamilton,NZ,21
+Wellington,NZ,21
+Muscat,OM,10
+Arequipa,PE,21
+Cusco,PE,21
+Iquitos,PE,15
+Lima,PE,20
+Trujillo,PE,21
+Papeete,PF,9
+Port Moresby,PG,4
+Cebu City,PH,20
+Manila,PH,19
+Islamabad,PK,14
+Karachi,PK,16
+Lahore,PK,13
+Białystok,PL,20
+Bydgoszcz,PL,15
+Gdańsk,PL,20
+Katowice,PL,21
+Kielce,PL,18
+Kraków,PL,21
+Lublin,PL,16
+Olsztyn,PL,16
+Poznań,PL,21
+Rzeszów,PL,16
+Szczecin,PL,18
+Warszawa,PL,21
+Wrocław,PL,21
+Łódź,PL,21
+San Juan,PR,15
+Funchal,PT,8
+Lisboa,PT,21
+Ponta Delgada,PT,9
+Porto,PT,21
+Koror,PW,2
+Asunción,PY,15
+Ciudad del Este,PY,20
+Doha,QA,13
+Saint-Denis,RE,21
+Bacău,RO,16
+Baia Mare,RO,14
+Buzău,RO,15
+Cluj-Napoca,RO,21
+Craiova,RO,16
+Oradea,RO,15
+Râmnicu Vâlcea,RO,14
+Sibiu,RO,19
+Kragujevac,RS,15
+Niš,RS,16
+Novi Sad,RS,21
+Abakan,RU,17
+Achinsk,RU,16
+Anadyr,RU,3
+Apatity,RU,9
+Arkhangelsk,RU,13
+Arzamas,RU,19
+Astrakhan,RU,18
+Balakovo,RU,16
+Balashov,RU,7
+Barnaul,RU,21
+Belgorod,RU,20
+Belogorsk,RU,5
+Berezniki,RU,16
+Birobidzhan,RU,7
+Biysk,RU,15
+Blagoveshchensk,RU,10
+Borisoglebsk,RU,14
+Bratsk,RU,21
+Bryansk,RU,19
+Cheboksary,RU,18
+Chelyabinsk,RU,19
+Cherepovets,RU,14
+Elista,RU,11
+Gorno-Altaysk,RU,8
+Irkutsk,RU,21
+Ishim,RU,13
+Ivanovo,RU,12
+Izhevsk,RU,19
+Kaliningrad,RU,20
+Kaluga,RU,18
+Kamyshin,RU,17
+Kansk,RU,11
+Kazan,RU,19
+Khabarovsk,RU,20
+Khanty-Mansiysk,RU,12
+Kingisepp,RU,14
+Kirov,RU,20
+Kostroma,RU,18
+Kotlas,RU,7
+Kovrov,RU,13
+Krasnodar,RU,21
+Krasnoyarsk,RU,20
+Kungur,RU,13
+Kurgan,RU,17
+Kursk,RU,16
+Lipetsk,RU,18
+Luga,RU,11
+Magnitogorsk,RU,17
+Makhachkala,RU,15
+Mezhdurechensk,RU,10
+Miass,RU,20
+Michurinsk,RU,8
+Mikhaylovka,RU,12
+Monchegorsk,RU,8
+Moscow,RU,18
+Murmansk,RU,19
+Murom,RU,18
+Nadym,RU,13
+Nakhodka,RU,11
+Nalchik,RU,13
+Neftekamsk,RU,13
+Neryungri,RU,5
+Nizhnevartovsk,RU,16
+Norilsk,RU,13
+Novokuznetsk,RU,20
+Novorossiysk,RU,12
+Novosibirsk,RU,20
+Noyabrsk,RU,16
+Omsk,RU,19
+Orenburg,RU,20
+Orsk,RU,19
+Penza,RU,18
+Perm,RU,20
+Petrozavodsk,RU,20
+Podporozhye,RU,3
+Pskov,RU,19
+Pyatigorsk,RU,16
+Rubtsovsk,RU,16
+Ryazan,RU,19
+Rybinsk,RU,13
+Rzhev,RU,16
+Saint Petersburg,RU,21
+Salekhard,RU,9
+Samara,RU,20
+Saransk,RU,17
+Saratov,RU,19
+Serov,RU,16
+Severobaykalsk,RU,8
+Severodvinsk,RU,9
+Shadrinsk,RU,9
+Shakhty,RU,7
+Smolensk,RU,20
+Sochi,RU,16
+Stavropol,RU,19
+Sterlitamak,RU,16
+Surgut,RU,18
+Syktyvkar,RU,17
+Taganrog,RU,8
+Tambov,RU,19
+Tikhvin,RU,10
+Tobolsk,RU,16
+Tomsk,RU,20
+Tula,RU,16
+Tver,RU,20
+Tyumen,RU,19
+Ufa,RU,21
+Ukhta,RU,15
+Ulan-Ude,RU,19
+Ulyanovsk,RU,19
+Uryupinsk,RU,7
+Ussuriysk,RU,17
+Vladikavkaz,RU,14
+Vladimir,RU,16
+Vladivostok,RU,19
+Volgodonsk,RU,17
+Volgograd,RU,19
+Vologda,RU,19
+Vorkuta,RU,6
+Voronezh,RU,19
+Vyborg,RU,13
+Yakutsk,RU,16
+Yaroslavl,RU,19
+Yelets,RU,13
+Yoshkar-Ola,RU,13
+Yuzhno-Sakhalinsk,RU,15
+Zheleznogorsk,RU,10
+Zlatoust,RU,19
+Kigali,RW,14
+Jeddah,SA,10
+Mecca,SA,6
+Medina,SA,6
+Riyadh,SA,8
+Honiara,SB,1
+Victoria,SC,4
+Khartoum,SD,9
+Göteborg,SE,14
+Helsingborg,SE,11
+Luleå,SE,9
+Malmö,SE,14
+Stockholm,SE,21
+Umeå,SE,9
+Uppsala,SE,10
+Singapore,SG,18
+Ljubljana,SI,18
+Maribor,SI,15
+Bratislava,SK,17
+Košice,SK,16
+Žilina,SK,15
+Freetown,SL,8
+San Marino,SM,2
+Dakar,SN,19
+Saint-Louis,SN,11
+Mogadishu,SO,11
+Paramaribo,SR,21
+Juba,SS,3
+São Tomé,ST,1
+San Salvador,SV,19
+Damascus,SY,11
+Mbabane,SZ,2
+N'Djamena,TD,3
+Lomé,TG,6
+Bangkok,TH,18
+Chiang Mai,TH,20
+Phuket,TH,11
+Dushanbe,TJ,8
+Dili,TL,2
+Tunis,TN,15
+Adana,TR,21
+Ankara,TR,21
+Antalya,TR,21
+Bursa,TR,21
+Edirne,TR,21
+Konya,TR,21
+Kırklareli,TR,19
+Trabzon,TR,21
+İstanbul,TR,21
+İzmir,TR,21
+Taipei,TW,11
+Dar es Salaam,TZ,11
+Zanzibar,TZ,2
+Bolhrad,UA,2
+Cherkasy,UA,20
+Chernihiv,UA,19
+Chernivtsi,UA,12
+Dnipro,UA,21
+Ivano-Frankivsk,UA,17
+Kharkiv,UA,21
+Kherson,UA,17
+Khmelnytskyi,UA,17
+Kremenchuk,UA,20
+Kropyvnytskyi,UA,20
+Kyiv,UA,21
+Lutsk,UA,15
+Lviv,UA,21
+Mariupol,UA,19
+Mykolaiv,UA,19
+Odesa,UA,21
+Poltava,UA,21
+Rivne,UA,16
+Sumy,UA,19
+Ternopil,UA,18
+Uzhhorod,UA,13
+Vinnytsia,UA,21
+Zaporizhzhia,UA,21
+Zhytomyr,UA,17
+Kampala,UG,21
+Anchorage,US-AK,21
+Fairbanks,US-AK,19
+Juneau,US-AK,17
+Kenai,US-AK,10
+Kodiak,US-AK,7
+Sitka,US-AK,6
+Birmingham,US-AL,19
+Mobile,US-AL,20
+Montgomery,US-AL,19
+Fayetteville,US-AR,21
+Fort Smith,US-AR,21
+Little Rock,US-AR,21
+Flagstaff,US-AZ,21
+Phoenix,US-AZ,21
+Tucson,US-AZ,21
+Bakersfield,US-CA,20
+Eureka,US-CA,19
+Fresno,US-CA,20
+Los Angeles,US-CA,21
+Modesto,US-CA,20
+Monterey,US-CA,20
+Palm Springs,US-CA,20
+Redding,US-CA,21
+Riverside,US-CA,20
+Sacramento,US-CA,21
+San Bernardino,US-CA,19
+San Diego,US-CA,21
+San Francisco,US-CA,21
+San Jose,US-CA,21
+Santa Barbara,US-CA,21
+Stockton,US-CA,21
+Aspen,US-CO,15
+Boulder,US-CO,20
+Colorado Springs,US-CO,21
+Denver,US-CO,21
+Fort Collins,US-CO,21
+Grand Junction,US-CO,21
+Pueblo,US-CO,21
+Vail,US-CO,15
+Danbury,US-CT,14
+Hartford,US-CT,21
+New Haven,US-CT,21
+Washington,US-DC,21
+Dover,US-DE,15
+Fort Myers,US-FL,21
+Jacksonville,US-FL,21
+Key West,US-FL,19
+Miami,US-FL,21
+Orlando,US-FL,21
+Pensacola,US-FL,21
+St. Petersburg,US-FL,21
+Tallahassee,US-FL,20
+Tampa,US-FL,21
+West Palm Beach,US-FL,20
+Atlanta,US-GA,21
+Augusta,US-GA,20
+Columbus,US-GA,21
+Macon,US-GA,21
+Savannah,US-GA,21
+Honolulu,US-HI,21
+Cedar Rapids,US-IA,21
+Davenport,US-IA,21
+Des Moines,US-IA,21
+Boise,US-ID,21
+Idaho Falls,US-ID,18
+Twin Falls,US-ID,20
+Champaign,US-IL,21
+Chicago,US-IL,21
+Peoria,US-IL,21
+Rockford,US-IL,21
+Springfield,US-IL,20
+Evansville,US-IN,20
+Fort Wayne,US-IN,21
+Indianapolis,US-IN,21
+South Bend,US-IN,21
+Topeka,US-KS,21
+Wichita,US-KS,20
+Lexington,US-KY,20
+Louisville,US-KY,21
+Baton Rouge,US-LA,20
+New Orleans,US-LA,21
+Shreveport,US-LA,21
+Boston,US-MA,21
+Springfield,US-MA,19
+Baltimore,US-MD,21
+Salisbury,US-MD,21
+Augusta,US-ME,21
+Bangor,US-ME,19
+Portland,US-ME,21
+Detroit,US-MI,21
+Grand Rapids,US-MI,21
+Lansing,US-MI,20
+Duluth,US-MN,21
+Minneapolis,US-MN,21
+Rochester,US-MN,21
+St. Paul,US-MN,21
+Kansas City,US-MO,21
+Springfield,US-MO,20
+St. Louis,US-MO,21
+Biloxi,US-MS,20
+Gulfport,US-MS,20
+Jackson,US-MS,20
+Billings,US-MT,19
+Great Falls,US-MT,17
+Helena,US-MT,21
+Missoula,US-MT,21
+Charlotte,US-NC,20
+Fayetteville,US-NC,21
+Greensboro,US-NC,21
+Greenville,US-NC,21
+Raleigh,US-NC,21
+Winston-Salem,US-NC,21
+Bismarck,US-ND,20
+Fargo,US-ND,20
+Manchester,US-NH,17
+Atlantic City,US-NJ,21
+Trenton,US-NJ,14
+Albuquerque,US-NM,20
+Farmington,US-NM,21
+Roswell,US-NM,20
+Santa Fe,US-NM,21
+Elko,US-NV,9
+Las Vegas,US-NV,21
+Reno,US-NV,21
+Albany,US-NY,21
+Binghamton,US-NY,21
+Buffalo,US-NY,21
+New York,US-NY,21
+Poughkeepsie,US-NY,21
+Riverhead,US-NY,21
+Rochester,US-NY,20
+Syracuse,US-NY,21
+Utica,US-NY,21
+Akron,US-OH,21
+Canton,US-OH,19
+Cincinnati,US-OH,20
+Cleveland,US-OH,21
+Columbus,US-OH,21
+Dayton,US-OH,20
+Toledo,US-OH,15
+Youngstown,US-OH,21
+Oklahoma City,US-OK,21
+Tulsa,US-OK,21
+Bend,US-OR,21
+Eugene,US-OR,21
+Medford,US-OR,21
+Portland,US-OR,21
+Salem,US-OR,17
+Allentown,US-PA,20
+Altoona,US-PA,18
+Erie,US-PA,21
+Harrisburg,US-PA,21
+Philadelphia,US-PA,20
+Pittsburgh,US-PA,21
+Scranton,US-PA,21
+State College,US-PA,19
+Providence,US-RI,21
+Charleston,US-SC,21
+Columbia,US-SC,21
+Greenville,US-SC,21
+Myrtle Beach,US-SC,21
+Rapid City,US-SD,20
+Sioux Falls,US-SD,21
+Chattanooga,US-TN,20
+Knoxville,US-TN,20
+Memphis,US-TN,21
+Nashville,US-TN,21
+Amarillo,US-TX,21
+Austin,US-TX,21
+Corpus Christi,US-TX,20
+Dallas,US-TX,19
+El Paso,US-TX,20
+Fort Worth,US-TX,19
+Houston,US-TX,21
+Laredo,US-TX,17
+Lubbock,US-TX,18
+Lufkin,US-TX,10
+Midland,US-TX,19
+Odessa,US-TX,20
+San Antonio,US-TX,21
+Tyler,US-TX,19
+Logan,US-UT,21
+Ogden,US-UT,21
+Provo,US-UT,20
+Salt Lake City,US-UT,21
+St. George,US-UT,21
+Norfolk,US-VA,21
+Richmond,US-VA,21
+Roanoke,US-VA,20
+Burlington,US-VT,20
+Kennewick,US-WA,21
+Olympia,US-WA,21
+Seattle,US-WA,21
+Spokane,US-WA,21
+Tacoma,US-WA,21
+Yakima,US-WA,20
+Green Bay,US-WI,21
+Madison,US-WI,21
+Milwaukee,US-WI,21
+Charleston,US-WV,21
+Huntington,US-WV,21
+Wheeling,US-WV,19
+Casper,US-WY,18
+Cheyenne,US-WY,21
+Montevideo,UY,20
+Nukus,UZ,5
+Vaticana,VA,21
+Kingstown,VC,10
+Caracas,VE,20
+Hanoi,VN,7
+Ho Chi Minh City,VN,10
+Apia,WS,4
+Mamoudzou,YT,7
+Bloemfontein,ZA,13
+Cape Town,ZA,20
+Durban,ZA,17
+Johannesburg,ZA,21
+Port Elizabeth,ZA,11
+Pretoria,ZA,21
+Kitwe,ZM,7
+Livingstone,ZM,5
+Lusaka,ZM,13
+Bulawayo,ZW,8
+Harare,ZW,6
