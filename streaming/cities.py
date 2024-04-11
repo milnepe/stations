@@ -25,7 +25,7 @@ def get_station_list(stations: dict, city: str) -> list:
 if __name__ == '__main__':
     """
     Search a city and play any matching stations
-    eg: python cities.py '../stations.json' 'London'
+    eg: python cities.py ../json/stations.json London,GB
 
     https://github.com/oaubert/python-vlc/blob/master/README.module
     """
