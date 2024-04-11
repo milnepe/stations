@@ -30,18 +30,19 @@ if __name__ == '__main__':
     https://github.com/oaubert/python-vlc/blob/master/README.module
     """
     import sys
-    import files
     import pprint
     import logging
     import time
-    import subprocess
-    import streaming
+    # import subprocess
+    import files
+    import python_vlc_streaming
     # import vlc
 
     stations_file = sys.argv[1]
     city_string = sys.argv[2]
 
     CLIP_DURATION = 10  # seconds
+    audio = 'alsa'
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
@@ -62,15 +63,10 @@ if __name__ == '__main__':
 
         # Now play list
         for station in station_list:
-            station_name = station['name']
-            station_url = station['url']
-            logging.info(f"Playing {station_name}, {station_url}")
-            logging.debug("Starting CVLC player...")
-            streamer = streaming.Streamer("pulse", station_url)
-            # logging.debug("Starting VLC player...")
-            # streamer = vlc.MediaPlayer(station_url)
-            streamer.play()
+            logging.info(f"Playing URL, {station['name']}, {station['url']}")
+            player = python_vlc_streaming.Streamer(audio, station['url'])
+            player.play()
             time.sleep(CLIP_DURATION)
-            logging.debug("Stopping player...")
-            streamer.stop()
-            time.sleep(1)
+            player.stop()
+
+    logging.info("End of list")
