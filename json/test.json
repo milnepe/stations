@@ -1,0 +1,39 @@
+{
+  "London,GB": {
+    "href": "https://radiomap.eu/uk/london.htm",
+    "coords": {
+      "n": 51.5072,
+      "e": -0.1275
+    },
+    "urls": [
+      {
+        "name": "BBC Radio 2",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8"
+      },
+      {
+        "name": "NuSound Radio",
+        "url": "http://icecast.commedia.org.uk:8000/nusound.mp3.m3u"
+      },
+      {
+        "name": "Revive FM",
+        "url": "https://streaming.broadcastradio.com:10015/revive"
+      },
+      {
+        "name": "BBC Radio 1",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8"
+      },
+      {
+        "name": "KISS 100",
+        "url": "http://stream-kiss.planetradio.co.uk/kiss100.mp3"
+      },
+      {
+        "name": "Flex FM",
+        "url": "http://142.4.215.64:8116/listen.pls?sid=1"
+      },
+      {
+        "name": "The Beat",
+        "url": "https://stream.zeno.fm/x59sz6hkev8uv"
+      }
+    ]
+  }
+}
