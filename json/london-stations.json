@@ -77,6 +77,14 @@
       {
         "name": "Magic Radio (London)",
         "url": "https://stream-mz.planetradio.co.uk/magic1054.mp3"
+      },
+      {
+        "name": "BBC Radio London",
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8"
+      },
+      {
+        "name": "BBC Radio 5 live",
+        "url": "http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8"
       }
     ]
   }
