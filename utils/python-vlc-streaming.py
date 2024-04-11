@@ -61,49 +61,46 @@ if __name__ == "__main__":
     import vlc
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
-    # # logging.getLogger().setLevel(logging.DEBUG)
+    logging.getLogger().setLevel(logging.DEBUG)
 
-    stations_file = sys.argv[1]
     clip_duration = 10
 
-    playlists = set(['pls', 'm3u'])
-
+    stations_file = sys.argv[1]
     stations = files.load_stations(stations_file)
 
-    # Get list of urls
-    url_list = [url['url'].strip() for k, v in stations.items() for url in v['urls']]
-    urls = list(set(url_list))  # De-duped list
-    logging.info("Station list length: %s, URLs", len(urls))
+    # Get list of stations
+    station_list = []
+    for k, v in stations.items():
+        for v in v['urls']:
+            station_list.append(v)
 
+    logging.debug(station_list)
+    logging.info(f"Station list length: {len(station_list)} URLs")
+
+    # Play each station for a few seconds
+    playlists = set(['pls', 'm3u'])
     Instance = vlc.Instance()
 
-    while True:
-        # i = random.choice(range(len(urls)))
-        # url = urls[i]
-        for url in urls:
-            logging.info("Playing URL, %s", url)
+    for i, station in enumerate(station_list):
+        url = station['url'].strip()
+        logging.info(f"Playing URL {i}, {station['name']}, {url}")
 
-            playlists = set(['pls', 'm3u'])
-
-            ext = (url.rpartition(".")[2])[:3]
-            test_pass = False
-
-            print(f'Sampling for {clip_duration} seconds')
+        # We need a different type of media instance for urls containing playlists
+        extension = (url.rpartition(".")[2])[:3]
+        logging.debug(f"Extension: {extension}")
+        if extension in playlists:
+            logging.debug(f"Creating media_list_player...")
+            player = Instance.media_list_player_new()
+            media = Instance.media_list_new([url])
+            player.set_media_list(media)
+        else:
+            logging.debug(f"Creating media_player...")
             player = Instance.media_player_new()
-            Media = Instance.media_new(url)
-            Media_list = Instance.media_list_new([url])
-            Media.get_mrl()
-            player.set_media(Media)
-            if ext in playlists:
-                list_player = Instance.media_list_player_new()
-                list_player.set_media_list(Media_list)
-                if list_player.play() == -1:
-                    print("Error playing playlist")
-            else:
-                if player.play() == -1:
-                    print("Error playing Stream")
-            time.sleep(clip_duration)
-            if ext in playlists:
-                list_player.stop()
-            else:
-                player.stop()
+            media = Instance.media_new(url)
+            player.set_media(media)
+
+        player.play()
+        time.sleep(clip_duration)
+        player.stop()
+
+    logging.info("End of list")
