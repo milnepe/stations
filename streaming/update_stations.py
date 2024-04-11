@@ -16,7 +16,7 @@ Note: Updating station names is not supported as these are used as the key
 *** The update file must be valid json in the the staions.json format ***
 
 Usage: update_stations <stations_json> <new_stations_json>
-eg: update_stations 'json/stations.json' 'json/new_stations.json'
+eg: python update_stations.py json/stations.json json/london-stations.json
 
 """
 
