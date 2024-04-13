@@ -11,6 +11,14 @@
         "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8"
       },
       {
+        "name": "Capital (London)",
+        "url": "https://media-ice.musicradio.com/CapitalMP3.mp3"
+      },
+      {
+        "name": "Flex FM",
+        "url": "http://142.4.215.64:8116/listen.pls?sid=1"
+      },
+      {
         "name": "NuSound Radio",
         "url": "http://icecast.commedia.org.uk:8000/nusound.mp3.m3u"
       },
@@ -25,10 +33,6 @@
       {
         "name": "KISS 100",
         "url": "http://stream-kiss.planetradio.co.uk/kiss100.mp3"
-      },
-      {
-        "name": "Flex FM",
-        "url": "http://142.4.215.64:8116/listen.pls?sid=1"
       },
       {
         "name": "The Beat",
