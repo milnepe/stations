@@ -35,18 +35,17 @@ if __name__ == '__main__':
     import time
     # import subprocess
     import files
-    import python_vlc_streaming
+    from python_vlc_streaming import Streamer
     # import vlc
 
     stations_file = sys.argv[1]
     city_string = sys.argv[2]
 
     CLIP_DURATION = 10  # seconds
-    audio = 'alsa'
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
-    # logging.getLogger().setLevel(logging.DEBUG)
+    logging.getLogger().setLevel(logging.DEBUG)
 
     stations = files.load_stations(stations_file)
     cities = get_cities_list(stations, city_string)
@@ -62,11 +61,11 @@ if __name__ == '__main__':
         pprint.pp(station_list)
 
         # Now play list
+        player = Streamer()
         for station in station_list:
-            logging.info(f"Playing URL, {station['name']}, {station['url']}")
-            player = python_vlc_streaming.Streamer(audio, station['url'])
-            player.play()
+            url = station['url']
+            logging.info(f"Playing URL, {station['name']}, {url}")
+            player.play(url)
             time.sleep(CLIP_DURATION)
-            player.stop()
 
     logging.info("End of list")
