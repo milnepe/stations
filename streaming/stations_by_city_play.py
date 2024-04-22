@@ -1,4 +1,4 @@
-"""Utility modules that to view station info by city"""
+"""Utility module to play station by city"""
 
 EMPTY_STRING = ''
 
@@ -25,7 +25,7 @@ def get_station_list(stations: dict, city: str) -> list:
 if __name__ == '__main__':
     """
     Search a city and play any matching stations
-    eg: python view_stations_by_city.py ../json/london-stations.json London,GB
+    eg: python stations_by_city_play.py ../json/stations.json London,GB
 
     https://github.com/oaubert/python-vlc/blob/master/README.module
     """
@@ -35,18 +35,17 @@ if __name__ == '__main__':
     import time
     # import subprocess
     import files
-    import python_vlc_streaming
+    from python_vlc_streaming import Streamer
     # import vlc
 
     stations_file = sys.argv[1]
     city_string = sys.argv[2]
 
     CLIP_DURATION = 10  # seconds
-    audio = 'alsa'
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
-    # logging.getLogger().setLevel(logging.DEBUG)
+    logging.getLogger().setLevel(logging.DEBUG)
 
     stations = files.load_stations(stations_file)
     cities = get_cities_list(stations, city_string)
@@ -57,6 +56,17 @@ if __name__ == '__main__':
         exit()
 
     for city in cities:
+        print(f"{len(city)} Stations")
         station_list = get_station_list(stations, city)
         print(city)
         pprint.pp(station_list)
+
+        # Now play list
+        player = Streamer()
+        for station in station_list:
+            url = station['url']
+            logging.info(f"Playing URL, {station['name']}, {url}")
+            player.play(url)
+            time.sleep(CLIP_DURATION)
+
+    logging.info("End of list")

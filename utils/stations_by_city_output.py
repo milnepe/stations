@@ -1,4 +1,9 @@
-"""Utility modules that return station info by city"""
+"""
+Utility that outputs a valid stations file based on a cities name
+
+eg to output the stations file for London UK execute the following commandline:
+python stations_by_city_output.py ./json/stations.json London,GB
+"""
 
 EMPTY_STRING = ''
 
@@ -25,7 +30,7 @@ def get_station_list(stations: dict, city: str) -> list:
 if __name__ == '__main__':
     """
     Search a city and play any matching stations
-    eg: python cities.py ../json/stations.json London,GB
+    eg: python stations_by_city_view.py ../json/london-stations.json London,GB
 
     https://github.com/oaubert/python-vlc/blob/master/README.module
     """
@@ -34,38 +39,41 @@ if __name__ == '__main__':
     import logging
     import time
     # import subprocess
-    import files
-    from python_vlc_streaming import Streamer
+    from stations.streaming import files
+    import python_vlc_streaming
+    import json
     # import vlc
 
     stations_file = sys.argv[1]
     city_string = sys.argv[2]
 
     CLIP_DURATION = 10  # seconds
+    audio = 'alsa'
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
-    logging.getLogger().setLevel(logging.DEBUG)
+    # logging.getLogger().setLevel(logging.DEBUG)
 
     stations = files.load_stations(stations_file)
-    cities = get_cities_list(stations, city_string)
-    if cities:
-        pprint.pp(cities)
-    else:
-        print("Not found")
-        exit()
+    city_dict = {}
+    for k, v in stations.items():
+        if city_string in k:
+            city_dict[k] = v
+            print(city_dict)
 
-    for city in cities:
-        station_list = get_station_list(stations, city)
-        print(city)
-        pprint.pp(station_list)
+    # Output stations.json file
+    with open("out.json", 'w', encoding='utf8') as f:
+        json.dump(city_dict, f, indent=2, ensure_ascii=False)
 
-        # Now play list
-        player = Streamer()
-        for station in station_list:
-            url = station['url']
-            logging.info(f"Playing URL, {station['name']}, {url}")
-            player.play(url)
-            time.sleep(CLIP_DURATION)
+    # cities = get_cities_list(stations, city_string)
+    # if cities:
+        # pprint.pp(cities)
+    # else:
+        # print("Not found")
+        # exit()
 
-    logging.info("End of list")
+    # for city in cities:
+        # print(f"{len(city)} Stations")
+        # station_list = get_station_list(stations, city)
+        # print(city)
+        # pprint.pp(station_list)

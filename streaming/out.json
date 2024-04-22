@@ -1,0 +1,186 @@
+{
+  "St. Petersburg,US-FL": {
+    "coords": {
+      "n": 27.7931,
+      "e": -82.6652
+    },
+    "urls": [
+      {
+        "name": "WMNF Community Radio",
+        "url": "http://stream.wmnf.org:8000/wmnf_high_quality.m3u"
+      },
+      {
+        "name": "WYFE Bible Broadcasting Netw.",
+        "url": "https://bbnmedia-lh.akamaihd.net/i/BibleBroadcasting_Englishios@87472/index_48_a-p.m3u8"
+      },
+      {
+        "name": "WUSF Public Radio",
+        "url": "http://playerservices.streamtheworld.com/pls/WUSFFM.pls"
+      },
+      {
+        "name": "WBVM Spirit FM",
+        "url": "http://tektite.streamguys1.com:5460/spiritfm.m3u"
+      },
+      {
+        "name": "WKES Moody Radio",
+        "url": "http://209.62.16.60:8000/wkes.mp3.m3u"
+      },
+      {
+        "name": "WCIE The JOY FM",
+        "url": "https://rtn.cdnstream1.com/2579_96.aac"
+      },
+      {
+        "name": "WYUU Máxima 92.5",
+        "url": "http://playerservices.streamtheworld.com/pls/WYUUFM.pls"
+      },
+      {
+        "name": "WFLZ 93.3FLZ",
+        "url": "http://stream.revma.ihrhls.com/zc681.m3u"
+      },
+      {
+        "name": "WLLD Wild",
+        "url": "http://playerservices.streamtheworld.com/pls/WLLDFM.pls"
+      },
+      {
+        "name": "W233AV WFLA NewsRadio",
+        "url": "http://stream.revma.ihrhls.com/zc2823.m3u"
+      },
+      {
+        "name": "WWRM Magic 94.9",
+        "url": "http://ad-oom-cmg.streamguys1.com/tam949/tam949.mp3"
+      },
+      {
+        "name": "W237CW Sports Radio",
+        "url": "http://stream.revma.ihrhls.com/zc673.m3u"
+      },
+      {
+        "name": "WBTP The Beat",
+        "url": "http://stream.revma.ihrhls.com/zc669.m3u"
+      },
+      {
+        "name": "WBPU Black Power 96",
+        "url": "http://icecast.uhururadio.com:8010/uhururadio.mp3.m3u"
+      },
+      {
+        "name": "WMTB Music Tampa Bay",
+        "url": "http://50.7.99.163:11555/listen.pls"
+      },
+      {
+        "name": "WSUN 97X",
+        "url": "http://ad-oom-cmg.streamguys1.com/tam971/tam971.mp3"
+      },
+      {
+        "name": "W248CA Classic Hip Hop",
+        "url": "http://ice23.securenetsystems.net/WTMPAM.m3u"
+      },
+      {
+        "name": "WXTB 98 Rock",
+        "url": "http://stream.revma.ihrhls.com/zc697.m3u"
+      },
+      {
+        "name": "W252DF Sports Talk Florida",
+        "url": "http://ice41.securenetsystems.net/WWBA.m3u"
+      },
+      {
+        "name": "WPBB The Shark",
+        "url": "http://playerservices.streamtheworld.com/pls/WPBBFM.pls"
+      },
+      {
+        "name": "WUJM 99 Jams",
+        "url": "http://50.7.77.178:8443/live.m3u"
+      }
+    ]
+  },
+  "Saint Petersburg,RU": {
+    "coords": {
+      "n": 59.95,
+      "e": 30.3167
+    },
+    "urls": [
+      {
+        "name": "Радио России С.-Петербург",
+        "url": "https://www.rtr.spb.ru:8443/live1.m4a"
+      },
+      {
+        "name": "Радио Петербург",
+        "url": "http://www.5-tv.ru/radio.mp3.m3u"
+      },
+      {
+        "name": "Радио Орфей",
+        "url": "http://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3.m3u"
+      },
+      {
+        "name": "Радио Град Петров",
+        "url": "http://stream.grad-petrov.ru:8093/mp3-40.m3u"
+      },
+      {
+        "name": "Дорожное радио",
+        "url": "https://hls-01-regions.emgsound.ru/15_spb/96/playlist.m3u8"
+      },
+      {
+        "name": "Ретро FM",
+        "url": "http://emgspb.hostingradio.ru/retrofmspb128.mp3.m3u"
+      },
+      {
+        "name": "Авторадио",
+        "url": "http://ic4.101.ru:8000/region_avto_154.m3u"
+      },
+      {
+        "name": "Радио Юмор FM",
+        "url": "http://ic3.101.ru:8000/region_humor_6.m3u"
+      },
+      {
+        "name": "Радио Вести FM",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm"
+      },
+      {
+        "name": "Радио Зенит",
+        "url": "http://ic5.101.ru:8000/v15_1.m3u"
+      },
+      {
+        "name": "Радио Эрмитаж",
+        "url": "http://hermitage.hostingradio.ru/hermitage128.mp3"
+      },
+      {
+        "name": "Радио Ваня",
+        "url": "https://icecast-radiovanya.cdnvideo.ru/rv_spb"
+      },
+      {
+        "name": "Новое Радио",
+        "url": "http://emgspb.hostingradio.ru/novoespb128.mp3.m3u"
+      },
+      {
+        "name": "Радио Эхо Москвы",
+        "url": "https://icecast-echomsksni.cdnvideo.ru/stream2"
+      },
+      {
+        "name": "Комсомольская правда",
+        "url": "https://kpradio.hostingradio.ru:8003/spb.radiokp128.mp3.m3u"
+      },
+      {
+        "name": "Радио Хит FM",
+        "url": "http://rusradio.hostingradio.ru/hitfm128.mp3"
+      },
+      {
+        "name": "Радио Книга",
+        "url": "https://bookradio.hostingradio.ru:8069/fm.m3u"
+      },
+      {
+        "name": "Радио Звезда",
+        "url": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128.m3u"
+      },
+      {
+        "name": "Радио Energy",
+        "url": "http://ic4.101.ru:8000/region_energy_84.m3u"
+      },
+      {
+        "name": "Studio 21",
+        "url": "http://icecast-studio21.cdnvideo.ru/S21_1.m3u"
+      },
+      {
+        "name": "Comedy Radio",
+        "url": "https://pub0101.101.ru:443/stream/air/aac/64/202.m3u"
+      }
+    ]
+  }
+}
