@@ -91,35 +91,35 @@ class Streamer ():
 
 
 if __name__ == "__main__":
+    import sys
+    import files
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
     # logging.getLogger().setLevel(logging.DEBUG)
 
-    stations_file = 'stations.json'
-    audio = 'alsa'  # or pulse
+    stations_file = sys.argv[1]
+    audio = 'pulse'  # or pulse
     clip_duration = 10
 
-    with Path(stations_file).open(mode='r') as f:
-        stations = json.load(f)
+    stations_file = sys.argv[1]
+    stations = files.load_stations(stations_file)
 
-    set_volume(50)
+    # Get list of stations
+    stations_list = []
+    for k, v in stations.items():
+        for v in v['urls']:
+            stations_list.append(v)
 
-    # Get list of urls
-    url_list = [url['url'].strip() for k, v in stations.items() for url in v['urls']]
-    urls = list(set(url_list))  # De-duped list
-    top5 = urls[:5]
-    logging.info("%s", top5)
+    logging.debug(stations_list)
+    logging.info(f"Station list length: {len(stations_list)} URLs")
 
-    logging.info("Station list length: %s, URLs", len(urls))
+    # player = Streamer(audio, url)
+    for i, station in enumerate(stations_list):
+        url = station['url']
+        logging.info(f"Playing URL {i}, {station['name']}, {url}")
+        player = Streamer(audio, url)
+        player.play()
+        time.sleep(clip_duration)
+        player.stop()
 
-    while True:
-        i = random.choice(range(len(urls)))
-        url = urls[i]
-        if check_url(url) is not None:
-            logging.info("Playing URL, %s, %s", i, url)
-            streamer = Streamer(audio, url)
-            streamer.play()
-            time.sleep(clip_duration)
-            streamer.stop()
-        else:
-            logging.info("Bad URL, %s, %s", i, url)
+    logging.info("End of list")
