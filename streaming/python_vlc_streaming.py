@@ -2,84 +2,112 @@
 import time
 import logging
 import vlc
-import subprocess
 
 
-# Edit these to suit your audio settings
-AUDIO_CARD = 2
-MIXER_CONTROL = "PCM"
-AUDIO_SERVICE = "alsa"
-VOLUME_INCREMENT = 1
+def get_audio(p, device_name):
+    '''Get the audio output device(s) attached by name
+    @Returns audio output device matching name
+
+    For example "UE BOOM 2" for BT speaker
+    or "Built-in Audio Analog Stereo" for speaker connected to audio jack
+    '''
+    if isinstance(p, vlc.MediaListPlayer):
+        p = p.get_media_player()
+    device = p.audio_output_device_enum()
+    while device:
+        if device.contents.description.decode('utf-8') == device_name:
+            logging.debug("Audio output device")
+            logging.debug(f"Name: {device.contents.description.decode('utf-8')}, Device: {device.contents.device.decode('utf-8')}")
+            return device.contents.device
+
+        device = device.contents.next
 
 
-class Streamer():
-    """
-    A streaming audio player using python-vlc
-    This improves handling of media list (pls and m3u's) streams
-    """
-    def __init__(self, audio=AUDIO_SERVICE, url=None):
-        logging.debug(f"Starting Streamer: {audio}, {url}")
+def print_audio_devices(p):
+    '''Print the available audio outputs'''
+    if isinstance(p, vlc.MediaListPlayer):
+        p = p.get_media_player()
+    device = p.audio_output_device_enum()
+    logging.info("Audio devices available")
+    while device:
+        logging.info(f"Name: {device.contents.description.decode('utf-8')}, Device: {device.contents.device.decode('utf-8')}")
+        device = device.contents.next
+
+
+class Streamer:
+    '''Streamer that handles audio media and playlists'''
+
+    def __init__(self, audio="Built-in Audio Analog Stereo"):
         self.audio = audio
-        self.url = url
-        self.instance = vlc.Instance()
-        self.media = None
-        self.mediaplayer = self.instance.media_player_new()
-        self.is_playing = False
-        self.volume = 80
-        self.update_volume("down")
-        # self.mediaplayer.audio_set_volume(100)  # default volume
-        # self.volume = self.mediaplayer.audio_get_volume()
+        self.mp = vlc.MediaPlayer()
+        self.mlp = vlc.MediaListPlayer()
+        # Set both players audio output device
+        print_audio_devices(self.mp)
+        self.set_audio_device(self.mp, audio)
+        self.set_audio_device(self.mlp, audio)
+        self.p = self.mp  # Cache current player
+        self.v = 80  # Volume cache
+        logging.debug(f"MediaPlayer player ID: {id(self.mp)}")
+        logging.debug(f"MediaListPlayer player ID: {id(self.mlp.get_media_player())}")
+        logging.debug(f"Current player ID: {id(self.p)}")
 
-    def play(self, url):
-        playlists = set(['pls', 'm3u'])
-        url = url.strip()
-        logging.debug(f"Playing URL {url}")
-
-        if self.is_playing:
-            self.stop()
-        self.is_playing = True
-
-        # We need a different type of media instance for urls containing playlists
-        extension = (url.rpartition(".")[2])[:3]
-        logging.debug(f"Extension: {extension}")
-        if extension in playlists:
-            logging.debug(f"Creating media_list_player...")
-            self.mediaplayer = self.instance.media_list_player_new()
-            self.media = self.instance.media_list_new([url])
-            self.mediaplayer.set_media_list(self.media)
+    def set_audio_device(self, player, device_name):
+        if isinstance(player, vlc.MediaListPlayer):
+            logging.info("Setting MediaListPlayer output...")
+            player = player.get_media_player()
         else:
-            logging.debug(f"Creating media_player...")
-            self.mediaplayer = self.instance.media_player_new()
-            self.media = self.instance.media_new(url)
-            self.mediaplayer.set_media(self.media)
+            logging.info("Setting MediaPlayer output...")
 
-        self.mediaplayer.play()
+        if device := get_audio(player, device_name):
+            player.audio_output_device_set(None, device)
+        else:
+            # Use as fallback
+            device = get_audio(player, self.audio)
+            player.audio_output_device_set(None, device)
 
     def stop(self):
-        self.is_playing = False
-        self.mediaplayer.stop()
+        '''Force a stop'''
+        if self.mp:
+            self.mp.stop()
+        if self.mlp:
+            self.mlp.stop()
 
-    def update_volume(self, cmd: str):
-        """Set volume up or down"""
-        volume = self.volume
-        if cmd == "up":
-            volume += VOLUME_INCREMENT
-        else:  # down
-            volume -= VOLUME_INCREMENT
-        if volume >= 100:
-            volume = 100
-        elif volume <= 0:
-            volume = 0
-        # Unfortunately MediaListPlayer doesn't have a volume control so this is a hack
-        command = ["amixer", "sset", "-c", "{}".format(AUDIO_CARD), "{}".format(MIXER_CONTROL), "{}%".format(volume)]
-        logging.debug(f"Command: {command}")
-        subprocess.run(command)
-        self.volume = volume
-        logging.debug(f"Setting volume: {volume}%")
+    def play(self, url):
+        playlists = ('m3u', 'pls')
+        url = url.strip()
+        # We need a different type of media instance for urls containing playlists
+        extension = (url.rpartition(".")[2])[:3]
+        logging.debug(f"URL extension: {extension}")
+
+        if extension in playlists:
+            self.p = self.mlp  # Cache player
+            # self.mlp.set_media_player(self.mp)  # Use MediaPlayer!
+            ml = vlc.MediaList()
+            ml.add_media(url)
+            self.mlp.set_media_list(ml)
+            logging.debug(f"MediaListPlayer ID: {id(self.p)}, {url}")
+        else:
+            self.p = self.mp
+            m = vlc.Media(url)
+            self.mp.set_media(m)
+            logging.debug(f"MediaPlayer ID: {id(self.p)}, {url}")
+
+        self.stop()  # Must stop before moving on
+        self.p.play()
+
+    def set_volume(self, vol):
+        if self.v != vol:
+            if isinstance(self.p, vlc.MediaListPlayer):
+                p = self.mlp.get_media_player()
+            else:
+                p = self.p
+            logging.debug(f"Player ID: {id(p)}, Volume: {p.audio_get_volume()}")
+            p.audio_set_volume(vol)
+            self.v = vol
 
 
 if __name__ == "__main__":
-    """python python_vlc_streaming.py ../json/london-stations.json"""
+    """python python_vlc_streaming.py ../json/london-stations-test.json"""
     import sys
     import files
 
@@ -98,7 +126,7 @@ if __name__ == "__main__":
         for v in v['urls']:
             stations_list.append(v)
 
-    logging.debug(stations_list)
+    # logging.debug(stations_list)
     logging.info(f"Station list length: {len(stations_list)} URLs")
 
     player = Streamer()
